@@ -829,7 +829,7 @@
 *   [bespokejs/bespoke](https://github.com/bespokejs/bespoke) - DIY Presentation Micro-Framework
 *   [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere
 *   [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
-*   [excalith/git-cheats](https://github.com/excalith/git-cheats) - Git Cheats • Interactive Git Cheatsheet
+*   [excalith/git-cheats](https://github.com/excalith/git-cheats) - Interactive git cheatsheet for quickly searching through commonly used commands with examples
 *   [TalAter/annyang](https://github.com/TalAter/annyang) - :speech\_balloon: Speech recognition for your site
 *   [medialize/URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
 *   [sindresorhus/query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
@@ -2682,7 +2682,7 @@
 *   [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 *   [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) - React + TypeScript app built using the clean architecture principles in a more functional way · 🧼 🏛 🍪
 *   [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
-*   [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
+*   [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 *   [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
 *   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 *   [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端
