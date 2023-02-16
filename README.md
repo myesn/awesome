@@ -56,6 +56,7 @@
 *   [Groovy](#groovy)
 *   [Sass](#sass)
 *   [CoffeeScript](#coffeescript)
+*   [Assembly](#assembly)
 *   [Handlebars](#handlebars)
 *   [Less](#less)
 *   [Stylus](#stylus)
@@ -1545,7 +1546,7 @@
 *   [YunYouJun/mirai-ts](https://github.com/YunYouJun/mirai-ts) - 🔧 Mirai(QQ Bot) JavaScript/TypeScript SDK for Node.js/Browser
 *   [rt2zz/redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store
 *   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
-*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
+*   [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
 *   [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 *   [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
@@ -3081,7 +3082,6 @@
 *   [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 *   [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目 | RSS 订阅 |  快知 app 订阅
 *   [cn/GB2260](https://github.com/cn/GB2260) - 中华人民共和国国家标准 GB/T 2260 行政区划代码
-*   [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 *   [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 *   [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
@@ -3199,7 +3199,7 @@
 *   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 *   [ideawu/ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis
 *   [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Super Resolution, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
-*   [jvm-profiling-tools/async-profiler](https://github.com/jvm-profiling-tools/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf\_events
+*   [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf\_events
 *   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 *   [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 *   [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native file storage
@@ -4511,6 +4511,10 @@
 *   [xhan/qqbot](https://github.com/xhan/qqbot) - 基于WebQQ协议的QQ机器人。命令行工具，Hubot支持！
 *   [shadowsocks/shadowsocks-nodejs](https://github.com/shadowsocks/shadowsocks-nodejs) -
 *   [mzlogin/chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines) - Chinese Copywriting Guidelines：中文文案排版指北（简体中文版）
+
+## Assembly
+
+*   [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
 
 ## Handlebars
 
