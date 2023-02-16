@@ -276,7 +276,7 @@
 *   [mcollina/mqemitter-mongodb](https://github.com/mcollina/mqemitter-mongodb) - MongoDB based MQEmitter
 *   [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 *   [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
-*   [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - \[OUTDATED] The most ⚡️ analytics-intensive self-hostable URL shortener, with an amazing UI | AKA free-Bitly/Shlink alternative 🚀
+*   [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
 *   [mojolicious/mojo.js](https://github.com/mojolicious/mojo.js) - :unicorn: The Mojolicious real-time web framework for Node.js
 *   [lucasjellema/fontys-2022-microservices-kafka-dapr](https://github.com/lucasjellema/fontys-2022-microservices-kafka-dapr) - Workshop on microservices, synchronous and asynchronous interactions, use of Apache Kafka and Dapr.io
 *   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
