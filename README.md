@@ -1290,7 +1290,7 @@
 *   [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
 *   [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 *   [developit/web-worker](https://github.com/developit/web-worker) - Consistent Web Workers in browser and Node.
-*   [CJY0208/react-router-cache-route](https://github.com/CJY0208/react-router-cache-route) - Route with cache for react-router V5 like \<keep-alive/> in Vue
+*   [CJY0208/react-router-cache-route](https://github.com/CJY0208/react-router-cache-route) - Route with cache for react-router V5 like \<keep-alive /> in Vue
 *   [yklydxtt/react-class-to-fc](https://github.com/yklydxtt/react-class-to-fc) - transform react class component to function component
 *   [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
 *   [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
