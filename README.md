@@ -4514,7 +4514,7 @@
 
 ## Assembly
 
-*   [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🥤 Git/AWS/Google 镜像 ,行业研究报告的知识储备库
+*   [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 💾 Git/AWS/Google镜像与S/V/C网络链，行业研究报告的知识储备库
 
 ## Handlebars
 
