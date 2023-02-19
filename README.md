@@ -4252,7 +4252,6 @@
 *   [ruanyf/jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
 *   [ciaoca/ZenCalendar](https://github.com/ciaoca/ZenCalendar) - 使用 CSS 样式设计，制作丰富的主题日历。
 *   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-*   [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 *   [keshikan/DSEG](https://github.com/keshikan/DSEG) - 7-segment and 14-segment font 7セグ・14セグフォント
 *   [azhanlang/shadowrocket](https://github.com/azhanlang/shadowrocket) - iOS小火箭Shadowrocket ipa
 *   [jillix/url.js](https://github.com/jillix/url.js) - :page\_with\_curl: A lightweight JavaScript library to manipulate the page url.
@@ -4360,6 +4359,7 @@
 *   [khang-nd/7.css](https://github.com/khang-nd/7.css) - A tiny CSS framework for building faithful recreations of the Windows 7 UI.
 *   [phuocng/this-vs-that](https://github.com/phuocng/this-vs-that) - What is the difference between \_\_\_ and \_\_\_ in the front-end development?
 *   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+*   [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 *   [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 *   [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 *   [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM!
