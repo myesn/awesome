@@ -805,7 +805,7 @@
 *   [nestjs/cqrs](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework (node.js) :balloon:
 *   [andrechristikan/ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) - NestJs v9.x Boilerplate. Repository Design Pattern. MongoDB (Mongoose). Containerization.
 *   [msanvarov/nest-rest-mongo-boilerplate](https://github.com/msanvarov/nest-rest-mongo-boilerplate) - 🍱 backend with nest (typescript), mongoose, and authentication
-*   [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
+*   [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 *   [sagold/json-schema-library](https://github.com/sagold/json-schema-library) - Customizable and hackable json-validator and json-schema utilities for traversal, data generation and validation
 *   [9hnd5/nestjs-mediator](https://github.com/9hnd5/nestjs-mediator) -
 *   [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
