@@ -3494,7 +3494,7 @@
 *   [IonicaBizau/gridly](https://github.com/IonicaBizau/gridly) - :zap: The minimal (~100-170 bytes) grid system for modern browsers.
 *   [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 *   [airingursb/canvas](https://github.com/airingursb/canvas) - 🖌《Canvas：Draw on the Web》
-*   [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon) - Moon is a minimal, one column jekyll theme.
+*   [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon) - 🌓 Moon is a minimal, one column jekyll theme.
 *   [microsoft/dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 *   [ElemeFE/restc](https://github.com/ElemeFE/restc) - A server-side middleware to visualize REST requests.
 *   [rogerdudler/git-guide](https://github.com/rogerdudler/git-guide) - git - the simple guide
