@@ -3652,7 +3652,7 @@
 *   [xujiangjiang/Easy-Cat-Timer](https://github.com/xujiangjiang/Easy-Cat-Timer) - This is a very simple cat timer, made using WPF（这是一个非常简单的猫咪计时器，使用WPF制作）
 *   [wmjordan/Codist](https://github.com/wmjordan/Codist) - A visual studio extension which enhances syntax highlighting, quick info (tooltip), navigation bar, scrollbar, display quality and brings smart tool bar to code editor.
 *   [dadhi/DryIoc](https://github.com/dadhi/DryIoc) - DryIoc is fast, small, full-featured IoC Container for .NET
-*   [autodotua/RemoteFFmpegGUI](https://github.com/autodotua/RemoteFFmpegGUI) - 使用 Vue.js + ASP.NET 搭建的 FFMpeg 的 Web GUI 平台，支持视频转码、拼接视频、合并音视频等操作。并搭配基于 WPF 的 Windows 桌面端。
+*   [autodotua/RemoteFFmpegGUI](https://github.com/autodotua/RemoteFFmpegGUI) - 使用 Vue.js + ASP.NET + WPF 搭建的 FFmpeg 的 Web/Windows GUI 程序，支持视频转码、拼接等功能
 *   [mayuki/Cocona](https://github.com/mayuki/Cocona) - Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET.
 *   [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 *   [stephbu/csharp-dns-server](https://github.com/stephbu/csharp-dns-server) - Fully functional DNS server written in C#
