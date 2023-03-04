@@ -221,7 +221,7 @@
 *   [shulieTech/Takin](https://github.com/shulieTech/Takin) - Takin is an Java-based, open-source system designed to measure online environmental performance test for full-links, Especially for microservices. Through Takin, middlewares and applications can identify real online traffic and test traffic, ensure that they enter the right databases.
 *   [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacionada a tecnologia.
 *   [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
-*   [getActivity/AndroidGithubBoss](https://github.com/getActivity/AndroidGithubBoss) - Github Android 国内个人技术排行榜
+*   [getActivity/AndroidGithubBoss](https://github.com/getActivity/AndroidGithubBoss) - Github Android 个人技术开源影响力排行榜
 *   [fz6m/weixin-fe](https://github.com/fz6m/weixin-fe) - 2022 年前端圈微信公众号合集
 *   [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 *   [danvk/effective-typescript](https://github.com/danvk/effective-typescript) - Effective TypeScript: 62 Specific Ways to Improve Your TypeScript
