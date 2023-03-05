@@ -1254,7 +1254,7 @@
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 *   [learning-zone/website-templates](https://github.com/learning-zone/website-templates) - 150+ HTML5 Website Templates
 *   [qier222/frontend-flash-cards](https://github.com/qier222/frontend-flash-cards) - 前端知识抽认卡
-*   [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get a unified user avatar from multiple providers.
+*   [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 *   [ai/nanocolors](https://github.com/ai/nanocolors) - Use picocolors instead. It is 3 times smaller and 50% faster.
 *   [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 *   [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
