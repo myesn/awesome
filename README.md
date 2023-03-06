@@ -143,7 +143,7 @@
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
 *   [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 *   [devconcept/multer-gridfs-storage](https://github.com/devconcept/multer-gridfs-storage) - 🍃 GridFS storage engine for Multer to store uploaded files directly to MongoDb
-*   [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
+*   [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
 *   [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
 *   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 *   [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架
