@@ -68,6 +68,7 @@
 
 ## TypeScript
 
+*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Powered by OpenAI API (gpt-3.5-turbo) and Vercel
 *   [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - A demo repo based on OpenAI API (gpt-3.5-turbo)
 *   [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 *   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
@@ -1089,7 +1090,6 @@
 *   [RepositoryTrash/awesome](https://github.com/RepositoryTrash/awesome) - A curated list of awesome lists
 *   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 *   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-*   [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 
 ## Java
 
