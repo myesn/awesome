@@ -1506,7 +1506,7 @@
 *   [justjavac/chart\_as\_a\_service](https://github.com/justjavac/chart_as_a_service) - Chart as a Service
 *   [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations
 *   [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
-*   [unjs/nitro](https://github.com/unjs/nitro) - Build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
+*   [unjs/nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
 *   [antfu/starter-ts](https://github.com/antfu/starter-ts) - Starter template for TypeScript library
 *   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 *   [nadeesha/ts-prune](https://github.com/nadeesha/ts-prune) - Find unused exports in a typescript project. 🛀
