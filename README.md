@@ -525,8 +525,8 @@
 *   [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 *   [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 *   [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
-*   [qq281113270/react](https://github.com/qq281113270/react) - react 逐行源码分析
-*   [qq281113270/vue](https://github.com/qq281113270/vue) - vue源码逐行注释分析+40多m的vue源码程序流程图思维导图
+*   [ygs-code/react](https://github.com/ygs-code/react) - react 逐行源码分析
+*   [ygs-code/vue](https://github.com/ygs-code/vue) - vue源码逐行注释分析+40多m的vue源码程序流程图思维导图
 *   [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 *   [ankurk91/vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay) - Vue.js component for full screen loading indicator :cyclone:
 *   [alibaba-fusion/next](https://github.com/alibaba-fusion/next) - 🦍 A configurable component library for web built on React.
