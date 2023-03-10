@@ -68,6 +68,7 @@
 
 ## JavaScript
 
+*   [xxxily/h5player](https://github.com/xxxily/h5player) - 视频增强脚本，支持所有H5视频网站，例如：B站、抖音、腾讯视频、优酷、爱奇艺、西瓜视频、油管（YouTube）、微博视频、知乎视频、搜狐视频、网易公开课、百度网盘、阿里云盘、ted、instagram、twitter等。全程快捷键控制，支持：倍速播放/加速播放、视频画面截图、画中画、网页全屏、调节亮度、饱和度、对比度、自定义配置功能增强等功能，为你提供愉悦的在线视频播放体验。还有视频广告快进、在线教程/教育视频倍速快学等能力
 *   [tobe-fe-dalao/fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3) - Vue3+Vite+Ts+Pinia+...一个快速开发vue3的模板框架
 *   [QuarkGluonPlasma/fe-debug-exercize](https://github.com/QuarkGluonPlasma/fe-debug-exercize) - 《前端调试通关秘籍》案例代码
 *   [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
@@ -1328,7 +1329,6 @@
 *   [egoist/vuepack](https://github.com/egoist/vuepack) - :package: A modern starter  which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron)
 *   [iview/iview-cli](https://github.com/iview/iview-cli) - Create an iView project in visual way
 *   [Aedron/Page.qy](https://github.com/Aedron/Page.qy) - 🤘 以简单的方式, 建立你的个人网站, 无需一行代码
-*   [aweary/tinytime](https://github.com/aweary/tinytime) - ⏰ A straightforward date and time formatter in <1kb
 
 ## HTML
 
