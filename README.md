@@ -484,6 +484,7 @@
 *   [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 *   [vscodethemes/web](https://github.com/vscodethemes/web) - Search and preview themes from the VS Code Marketplace.
 *   [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
+*   [cameronhunter/local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy) - Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only.
 *   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 *   [gaoryrt/number-flip](https://github.com/gaoryrt/number-flip) - 🎰 Increase your number with flipping animation
 *   [jaredpalmer/disco.chat](https://github.com/jaredpalmer/disco.chat) - Add real-time ephemeral chat to any webpage.
@@ -1251,7 +1252,6 @@
 *   [developit/greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
 *   [ccampbell/rainbow](https://github.com/ccampbell/rainbow) - Simple syntax highlighting library written in javascript
 *   [addyosmani/critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
-*   [cameronhunter/local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy) - Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only.
 *   [d2-projects/d2-admin-start-kit](https://github.com/d2-projects/d2-admin-start-kit) - Start kit of D2Admin
 *   [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 *   [bespokejs/bespoke](https://github.com/bespokejs/bespoke) - DIY Presentation Micro-Framework
