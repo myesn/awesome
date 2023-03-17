@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Dockerfile](#dockerfile)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Python](#python)
@@ -29,7 +30,6 @@
 *   [Batchfile](#batchfile)
 *   [Elixir](#elixir)
 *   [Swift](#swift)
-*   [Dockerfile](#dockerfile)
 *   [Zig](#zig)
 *   [SVG](#svg)
 *   [Perl](#perl)
@@ -65,6 +65,19 @@
 *   [Smarty](#smarty)
 *   [Rascal](#rascal)
 *   [Objective-C++](#objective-c-1)
+
+## Dockerfile
+
+*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
+*   [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
+*   [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
+*   [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
+*   [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image
+*   [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
+*   [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
+*   [cnych/kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
+*   [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦
+*   [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
 
 ## miscellaneous
 
@@ -1595,7 +1608,6 @@
 *   [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 *   [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 *   [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications.
-*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 *   [akxcv/vuera](https://github.com/akxcv/vuera) - :eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:
 *   [ztoben/assets-webpack-plugin](https://github.com/ztoben/assets-webpack-plugin) - Webpack plugin that emits a json file with assets paths
 *   [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
@@ -2794,6 +2806,7 @@
 *   [TakWolf/CNode-Material-Design](https://github.com/TakWolf/CNode-Material-Design) - CNode 社区第三方 Android 客户端，原生 App，Material Design 风格，支持夜间模式。
 *   [microsoft/team-explorer-everywhere](https://github.com/microsoft/team-explorer-everywhere) - Team Explorer Everywhere Plugin for Eclipse
 *   [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 *   [beefe/react-native-picker](https://github.com/beefe/react-native-picker) - A Native Picker with high performance.
 *   [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 *   [shuzheng/zheng](https://github.com/shuzheng/zheng) - 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
@@ -3706,7 +3719,6 @@
 *   [nhibernate/fluent-nhibernate](https://github.com/nhibernate/fluent-nhibernate) - Fluent NHibernate!
 *   [nhibernate/nhibernate-core](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper
 *   [dlemstra/Magick.NET](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick
-*   [rmbadmin/DumbQQ-Core](https://github.com/rmbadmin/DumbQQ-Core) - DumbQQ Core   基于DumbQQ更改
 
 ## CSS
 
@@ -4443,18 +4455,6 @@
 *   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 *   [ming1016/SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) - 戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用
 *   [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册
-
-## Dockerfile
-
-*   [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
-*   [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
-*   [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
-*   [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image
-*   [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
-*   [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
-*   [cnych/kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
-*   [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦
-*   [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
 
 ## Zig
 
