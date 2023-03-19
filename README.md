@@ -1453,7 +1453,7 @@
 *   [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 *   [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 *   [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
-*   [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 *   [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 *   [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 *   [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
