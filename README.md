@@ -1478,7 +1478,7 @@
 
 *   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 *   [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
-*   [xx025/carrot](https://github.com/xx025/carrot) - 这儿收集了一些免费好用的ChatGPT镜像站和其他AI站点，当前：76个站点
+*   [xx025/carrot](https://github.com/xx025/carrot) - 让多数人用上ChatGPT，这儿为你准备了众多免费好用的ChatGPT镜像站点
 *   [denolib/awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
 *   [the-road-to-learn-react/the-road-to-learn-react-chinese](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese) - 《React 学习之道》The Road to learn React (简体中文版) | 最简单，且最实用的 React 实战教程。
 *   [Dictionaryphile/All\_Dictionaries](https://github.com/Dictionaryphile/All_Dictionaries) - 宇宙最全在线词典网站导航
