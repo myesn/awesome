@@ -1324,7 +1324,7 @@
 
 *   [fayazara/onelink](https://github.com/fayazara/onelink) -
 *   [fayazara/logspot](https://github.com/fayazara/logspot) -
-*   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - GPT多模型聊天项目，GPT-4已发布，接口开放后本项目将第一时间适配。后期会一点一点的将OpenAI接口进行接入大家支持一下呗，微信群号在下方，右上角点个Star，我会一直更新下去。
+*   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - GPT多模型聊天项目，GPT-4已发布，接口开放后本项目将第一时间适配。后期会一点一点的将OpenAI接口进行接入大家支持一下呗，微信群号在下方，右上角点个Star，我会一直更新下去，本人19岁。
 *   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 *   [L-noodle/vue-big-screen](https://github.com/L-noodle/vue-big-screen) - 一个基于 vue、datav、Echart 框架的大数据可视化（大屏展示）模板，实现大数据可视化。通过 vue 组件实现数据动态刷新渲染，内部图表可自由替换。部分图表使用 DataV 自带组件，可自由进行更改（ps：最新的更新请前往码云查看，下面有链接）。
 *   [bym110/vue-echarts](https://github.com/bym110/vue-echarts) - vue、 echarts、iview 实现大数据可视化大屏模板
