@@ -1218,7 +1218,7 @@
 *   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 *   [Renovamen/playground-macos](https://github.com/Renovamen/playground-macos) - My portfolio website simulating macOS's GUI, developed with React and UnoCSS.
 *   [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
-*   [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React
+*   [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 *   [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 *   [chowa/ejyy](https://github.com/chowa/ejyy) - 「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。
 *   [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡
