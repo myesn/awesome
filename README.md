@@ -1726,7 +1726,7 @@
 *   [yangchong211/YCAppTool](https://github.com/yangchong211/YCAppTool) - 组件化综合案例，组件分层为：基础公共组件，功能组件，业务组件，主工程。每一层组件的建设，很详细的工程案例，很全面的一个组件化实践案例。一个超级综合案例！
 *   [myxzjie/cms](https://github.com/myxzjie/cms) - 1.cms 网站 ,完整开源建站平台。cms网站，拥有微信公众号模块，可以加入微信公众号使用。用于咨询网站、企业网网站，个人小网站等等。可以自己开发模板放在template目录文件夹下。也适合二次开发，完整的权限系统。2.使用技术spring4 +freemarker+ shrio + ehcache + mybatis + MYSQL + H-ui.admin + Amaze UI，可以在Tomcat，jetty跑。3.环境要求：maven 版本3.3.9+，JDK1.7+(推荐1.8），mysql5.6+
 *   [forax/proxy2](https://github.com/forax/proxy2) - Better / faster proxy generator than java.lang.reflect.Proxy for Java (require 1.7)
-*   [mymagicpower/AIAS](https://github.com/mymagicpower/AIAS) - AIAS (AI Acceleration Suite), AI算法落地加速器套件(超过100个项目组成的项目集，包含了sdk，平台引擎，场景套件)
+*   [mymagicpower/AIAS](https://github.com/mymagicpower/AIAS) - AIAS (AI Accelerator Suite) is an accelerator suite for AI algorithm implementation, consisting of over 100 projects including SDKs, platform engines, and scenario suites.
 *   [troyzhxu/okhttps](https://github.com/troyzhxu/okhttps) - 如艺术一般优雅，像 1、2、3 一样简单，前后端通用，轻量却强大的 HTTP 客户端（同时支持 WebSocket 与 Stomp 协议）
 *   [antlr/stringtemplate4](https://github.com/antlr/stringtemplate4) - StringTemplate 4
 *   [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -2686,7 +2686,7 @@
 *   [dzzzzzy/Nestjs-Learning](https://github.com/dzzzzzy/Nestjs-Learning) - nestjs 学习教程 :books:，跟我一起学习 nest 框架~ :muscle:
 *   [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development.
 *   [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
-*   [yulimchen/vue3-h5-template](https://github.com/yulimchen/vue3-h5-template) - 🌱 基于 Vue3 全家桶 + Vite4、TypeScript、Tailwindcss、vw 适配，开箱即用的移动端项目基础模板
+*   [yulimchen/vue3-h5-template](https://github.com/yulimchen/vue3-h5-template) - 🌱 A ready-to-use mobile project base template built with the Vue3 ecosystem, TypeScript, vw adaptation, and Vite build tool. | 基于 Vue3 全家桶 + Vite4、TypeScript、Tailwindcss、vw 适配，开箱即用的移动端项目基础模板
 *   [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 *   [songquanpeng/battle-city](https://github.com/songquanpeng/battle-city) - 基于 TypeScript 的《坦克大战》的非标准实现. Yet another Battle City implementation with TypeScript.
 *   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
