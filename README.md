@@ -2651,7 +2651,7 @@
 *   [JimmyLv/BibiGPT](https://github.com/JimmyLv/BibiGPT) - BibiGPT · One-click summary for video &  audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc. 音视频内容一键总结：哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & 课代表)
 *   [arogozine/LinqToTypeScript](https://github.com/arogozine/LinqToTypeScript) - LINQ to TypeScript
 *   [bengreenier/vscode-node-readme](https://github.com/bengreenier/vscode-node-readme) - A vscode extension to view javascript module documentation in editor.
-*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Powered by OpenAI API (gpt-3.5-turbo) and Vercel
+*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel
 *   [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - A demo repo based on OpenAI API (gpt-3.5-turbo)
 *   [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 *   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
