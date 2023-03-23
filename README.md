@@ -68,6 +68,7 @@
 
 ## JavaScript
 
+*   [adoxography/tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar) - Scrollbar plugin for Tailwind CSS
 *   [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
 *   [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, sourcegraph, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers. Please follow gray-matter's author: https://github.com/jonschlinkert
 *   [felixfbecker/node-sql-template-strings](https://github.com/felixfbecker/node-sql-template-strings) - ES6 tagged template strings for prepared SQL statements 📋
@@ -4399,7 +4400,6 @@
 *   [Tencent/Biny](https://github.com/Tencent/Biny) - Biny is a tiny, high-performance PHP framework for web applications
 *   [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
 *   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
-*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 
 ## Ruby
 
