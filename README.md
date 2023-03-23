@@ -905,7 +905,6 @@
 *   [Algram/ytdl-webserver](https://github.com/Algram/ytdl-webserver) - 📻 Webserver for downloading youtube videos. Ready for docker.
 *   [alseambusher/crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
 *   [tank0317/unit-test-demo](https://github.com/tank0317/unit-test-demo) - 一步一步介绍如何给项目添加单元测试
-*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 *   [taylorhakes/promise-polyfill](https://github.com/taylorhakes/promise-polyfill) - Lightweight ES6 Promise polyfill for the browser and node. A+ Compliant
 *   [marioizquierdo/jquery.serializeJSON](https://github.com/marioizquierdo/jquery.serializeJSON) - Serialize an HTML Form to a JavaScript Object, supporting nested attributes and arrays.
 *   [danielnieto/electron-download-manager](https://github.com/danielnieto/electron-download-manager) - Manage downloadItems from Electron's BrowserWindows without user interaction, allowing single file download and bulk downloading
@@ -4175,6 +4174,7 @@
 *   [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
 *   [elastic/elasticsearch-definitive-guide](https://github.com/elastic/elasticsearch-definitive-guide) - The Definitive Guide to Elasticsearch
 *   [mciastek/sal](https://github.com/mciastek/sal) - 🚀 Performance focused, lightweight scroll animation library 🚀
+*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 *   [hellokaton/java-bible](https://github.com/hellokaton/java-bible) - :banana: 我的技术摘要
 *   [RevillWeb/img-2](https://github.com/RevillWeb/img-2) - Replace \<img /> elements with \<img-2> to automatically pre-cache images and improve page performance.
 *   [IonicaBizau/github-contributions](https://github.com/IonicaBizau/github-contributions) - :octocat: A tool that generates a repository which being pushed into your GitHub account creates a nice contributions calendar.
