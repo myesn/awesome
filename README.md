@@ -2676,7 +2676,7 @@
 *   [sagold/json-schema-library](https://github.com/sagold/json-schema-library) - Customizable and hackable json-validator and json-schema utilities for traversal, data generation and validation
 *   [9hnd5/nestjs-mediator](https://github.com/9hnd5/nestjs-mediator) -
 *   [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
-*   [rao-pics/core](https://github.com/rao-pics/core) - Eagle App was used as the background management system to quickly build pic website and self-built pic library. / 使用《Eagle App》作为后台管理系统，快速构建 WEB 图片站、自建图床。
+*   [rao-pics/core](https://github.com/rao-pics/core) - 将《素材管理 App》升级为后台管理系统，实现局域网内即时预览、共享。
 *   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 *   [wbhob/nest-middlewares](https://github.com/wbhob/nest-middlewares) - Common, injectable middlewares for NestJS
 *   [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
