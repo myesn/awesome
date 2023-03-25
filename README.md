@@ -1679,7 +1679,7 @@
 
 ## TypeScript
 
-*   [getcursor/cursor](https://github.com/getcursor/cursor) - An editor built for programming with AI 🤖
+*   [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 *   [Privoce/Bot-Studio](https://github.com/Privoce/Bot-Studio) - Dashboard for OpenAI GPT Models with Chat UI
 *   [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 *   [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
@@ -1691,7 +1691,7 @@
 *   [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 *   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 *   [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
-*   [ztjhz/FreeChatGPT](https://github.com/ztjhz/FreeChatGPT) - Play and chat smarter with BetterChatGPT - an amazing open-source web app with a better UI for exploring OpenAI's ChatGPT API!
+*   [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - Play and chat smarter with BetterChatGPT - an amazing open-source web app with a better UI for exploring OpenAI's ChatGPT API!
 *   [mtbaqer/vscode-better-folding](https://github.com/mtbaqer/vscode-better-folding) - VS Code extension to improve your folding experience
 *   [LokerL/tts-vue](https://github.com/LokerL/tts-vue) - 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。
 *   [yetone/openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
