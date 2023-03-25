@@ -1239,7 +1239,6 @@
 *   [yansern/vue-multipane](https://github.com/yansern/vue-multipane) - Resizable split panes for Vue.js.
 *   [nbubna/store](https://github.com/nbubna/store) - A better way to use localStorage and sessionStorage
 *   [riktar/jkanban](https://github.com/riktar/jkanban) - Vanilla Javascript plugin for manage kanban boards
-*   [i5ting/node-http](https://github.com/i5ting/node-http) - node-http doc
 *   [ai/nanodelay](https://github.com/ai/nanodelay) - A tiny (37 bytes) Promise wrapper around setTimeout
 *   [huyingjie/Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist) - 🌈  A Curated List of Checklists ✔︎✔︎
 *   [share/sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
@@ -4034,6 +4033,7 @@
 *   [IdentityModel/IdentityModel](https://github.com/IdentityModel/IdentityModel) - .NET standard helper library for claims-based identity, OAuth 2.0 and OpenID Connect.
 *   [markrendle/Simple.Data](https://github.com/markrendle/Simple.Data) - A light-weight, dynamic data access component for C# 4.0
 *   [aspnet/Security](https://github.com/aspnet/Security) - \[Archived] Middleware for security and authorization of web apps. Project moved to https://github.com/aspnet/AspNetCore
+*   [KevinWG/OSS.Core](https://github.com/KevinWG/OSS.Core) - .net core下的领域开源电商网站，类库使用的标准库项目，集成微信和支付宝。 暂时还在开发阶段
 
 ## C
 
