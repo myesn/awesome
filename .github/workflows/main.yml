@@ -3,7 +3,7 @@ name: Update awesome list
 on: 
   workflow_dispatch:
   schedule:
-    - cron: '00 */2 * * *'
+    - cron: '00 */12 * * *'
 
 jobs:
   build:
