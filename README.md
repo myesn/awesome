@@ -73,7 +73,7 @@
 *   [fuyi501/dataV](https://github.com/fuyi501/dataV) - 数据可视化展示系统，使用 vue、iview、vue-echarts、echarts、vue-video-player 开发，具有各类基本图表、地图展示、视频监控等功能。
 *   [fayazara/onelink](https://github.com/fayazara/onelink) -
 *   [fayazara/logspot](https://github.com/fayazara/logspot) -
-*   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，GPT4接口官方只是在申请阶段，暂时没有此功能，别的项目都是把GPT4写上去，其实没有什么作用，后期会一点一点的将OpenAI接口进行接入大家支持一下呗，微信群号在下方，右上角点个Star，我会一直更新下去。
+*   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，GPT4接口官方只是在申请阶段，后期会一点一点的将OpenAI接口进行接入大家支持一下呗，微信群号在下方，右上角点个Star，我会一直更新下去，快20岁啦，大家一起学习，一起加油，一起努力，一起成长。有招java开发的还望大佬内推一下感谢、感谢。
 *   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 *   [L-noodle/vue-big-screen](https://github.com/L-noodle/vue-big-screen) - 一个基于 vue、datav、Echart 框架的大数据可视化（大屏展示）模板，实现大数据可视化。通过 vue 组件实现数据动态刷新渲染，内部图表可自由替换。部分图表使用 DataV 自带组件，可自由进行更改（ps：最新的更新请前往码云查看，下面有链接）。
 *   [bym110/vue-echarts](https://github.com/bym110/vue-echarts) - vue、 echarts、iview 实现大数据可视化大屏模板
