@@ -77,7 +77,7 @@
 *   [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 *   [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 *   [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
-*   [labring/laf](https://github.com/labring/laf) - 🤖 chatGPT 自动写函数计算代码，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
+*   [labring/laf](https://github.com/labring/laf) - 🤖 laf 是云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者快速释放创意。ChatGPT 自动写函数，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
 *   [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework, a npm package solution and a documentation site solution.
 *   [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 *   [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
@@ -3561,7 +3561,7 @@
 *   [asadsahi/AspNetCoreSpa](https://github.com/asadsahi/AspNetCoreSpa) - Asp.Net 7.0 & Angular 15 SPA Fullstack application with plenty of examples. Live demo:
 *   [StefanKert/BuildVision](https://github.com/StefanKert/BuildVision) - A Visual Studio extension to visualize the building process.
 *   [leosperry/Chroniton](https://github.com/leosperry/Chroniton) - A library for running tasks(jobs) on schedules.
-*   [dotnetcore/FreeSql](https://github.com/dotnetcore/FreeSql) - 🦄 .NET orm, C# orm, VB.NET orm, Mysql orm, Postgresql orm, SqlServer orm, Oracle orm, Sqlite orm, Firebird orm, 达梦 orm, 人大金仓 orm, 神通 orm, 翰高 orm, 南大通用 orm, 国产 orm, Clickhouse orm, QuestDB orm, MsAccess orm.
+*   [dotnetcore/FreeSql](https://github.com/dotnetcore/FreeSql) - 🦄 .NET orm, C# orm, VB.NET orm, Mysql orm, Postgresql orm, SqlServer orm, Oracle orm, Sqlite orm, Firebird orm, 达梦 orm, 人大金仓 orm, 神通 orm, 翰高 orm, 南大通用 orm, 虚谷 orm, 国产 orm, Clickhouse orm, QuestDB orm, MsAccess orm.
 *   [JonPSmith/EfCore.TestSupport](https://github.com/JonPSmith/EfCore.TestSupport) - Tools for helping in unit testing applications that use Entity Framework Core
 *   [axzxs2001/Asp.NetCoreExperiment](https://github.com/axzxs2001/Asp.NetCoreExperiment) - 原来所有项目都移动到**OleVersion**目录下进行保留。新的案例装以.net 5.0为主，一部分对以前案例进行升级，一部分将以前的工作经验总结出来，以供大家参考！
 *   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
@@ -4271,7 +4271,7 @@
 *   [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 *   [DayBreak-u/chineseocr\_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
 *   [dchapyshev/aspia](https://github.com/dchapyshev/aspia) - Remote desktop and file transfer tool.
-*   [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - PC版微信机器人 微信Api、WeChatApis.dll、微信聊天机器人 python微信api 微信接口 微信数据库解密
+*   [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - wxhook wechathook 微信Api、WeChatApi、微信机器人 python微信api 微信接口 微信数据库解密
 *   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 *   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 *   [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
