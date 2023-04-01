@@ -69,7 +69,7 @@
 
 ## Java
 
-*   [opengoofy/congomall](https://github.com/opengoofy/congomall) - 🔥🔥🔥 CongoMall（刚果商城）不一样的 C2C 商城系统，基于 DDD 开发，代码设计优雅，涵盖商城核心业务。内置分布式锁、分布式事务、分库分表、消息队列、数据搜索、服务监控等功能。
+*   [opengoofy/congomall](https://github.com/opengoofy/congomall) - 🔥🔥🔥 CongoMall（刚果商城）不一样的C2C商城系统，基于DDD领域驱动模型，代码设计优雅，涵盖商城核心业务。内置分布式锁、分布式事务、分库分表、消息队列、数据搜索、服务监控等功能。
 *   [Angus-Liu/Simple-Spring-Boot-Multi-DataSource](https://github.com/Angus-Liu/Simple-Spring-Boot-Multi-DataSource) - 🚥 Simple Spring Boot Multi DataSource（100 行代码手把手教你实现 Spring Boot 多数据源）
 *   [bootsrc/jseckill](https://github.com/bootsrc/jseckill) - Java秒杀 抢购 (Seckill based on Spring Boot)
 *   [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Free and open-source live application debugger. Like chrome dev tools but for your backend
@@ -1936,7 +1936,7 @@
 *   [ashtuchkin/iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
 *   [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 *   [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-*   [iGaoWei/BigDataView](https://github.com/iGaoWei/BigDataView) - 100套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中
+*   [iGaoWei/BigDataView](https://github.com/iGaoWei/BigDataView) - 100+套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中
 *   [adamreisnz/replace-in-file](https://github.com/adamreisnz/replace-in-file) - A simple utility to quickly replace contents in one or more files
 *   [sindresorhus/exit-hook](https://github.com/sindresorhus/exit-hook) - Run some code when the process exits
 *   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
