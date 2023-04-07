@@ -833,7 +833,7 @@
 *   [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 *   [hstarorg/HstarDoc](https://github.com/hstarorg/HstarDoc) - My blogs write with markdown.
 *   [jedireza/aqua](https://github.com/jedireza/aqua) - :bulb: A website and user system starter
-*   [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
+*   [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
 *   [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 *   [dwyl/learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) - :closed\_lock\_with\_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 *   [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) - 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
@@ -1490,7 +1490,7 @@
 *   [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 *   [mx-space/core](https://github.com/mx-space/core) - 😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.
 *   [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
-*   [weekend-project-space/chatgpt-sites](https://github.com/weekend-project-space/chatgpt-sites) - 搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新，点击下面链接探索更多ai使用技巧和应用
+*   [weekend-project-space/chatgpt-sites](https://github.com/weekend-project-space/chatgpt-sites) - 搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新，点击下面链接探索更多ai使用技巧和有趣应用
 *   [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 *   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 *   [lydiahallie/javascript-react-patterns](https://github.com/lydiahallie/javascript-react-patterns) - Repo related to the FrontendMasters course on JavaScript and React patterns
@@ -2076,6 +2076,7 @@
 *   [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 *   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 *   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 *   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 *   [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 *   [zu1k/translator](https://github.com/zu1k/translator) - 简单、轻量、好用的划词翻译软件
@@ -3453,7 +3454,7 @@
 *   [xoofx/dotnet-releaser](https://github.com/xoofx/dotnet-releaser) - Easily build, run tests and coverage, cross-compile, package and publish your .NET library or application to NuGet and GitHub.
 *   [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 *   [xujiangjiang/Easy-Cat-Timer](https://github.com/xujiangjiang/Easy-Cat-Timer) - This is a very simple cat timer, made using WPF（这是一个非常简单的猫咪计时器，使用WPF制作）
-*   [wmjordan/Codist](https://github.com/wmjordan/Codist) - A visual studio extension which enhances syntax highlighting, quick info (tooltip), navigation bar, scrollbar, display quality and brings smart tool bar to code editor.
+*   [wmjordan/Codist](https://github.com/wmjordan/Codist) - A visual studio extension which enhances syntax highlighting, quick info (tooltip), navigation bar, scrollbar, display quality, and brings smart tool bar with code refactoring to code editor.
 *   [dadhi/DryIoc](https://github.com/dadhi/DryIoc) - DryIoc is fast, small, full-featured IoC Container for .NET
 *   [autodotua/RemoteFFmpegGUI](https://github.com/autodotua/RemoteFFmpegGUI) - 使用 Vue.js + ASP.NET + WPF 搭建的 FFmpeg 的 Web/Windows GUI 程序，支持视频转码、拼接等功能
 *   [mayuki/Cocona](https://github.com/mayuki/Cocona) - Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET.
@@ -3559,7 +3560,7 @@
 *   [luoyunchong/lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore) - 😃A simple and practical CMS implemented by .NET 6 + FreeSql；前后端分离、Docker部署、OAtuh2授权登录、自动化部署DevOps、自动同步至Gitee、代码生成器、仿掘金专栏
 *   [hey-hoho/ScheduleMasterCore](https://github.com/hey-hoho/ScheduleMasterCore) - This is a distributed task management system base on .Net Core platform .
 *   [dotnetcore/WebApiClient](https://github.com/dotnetcore/WebApiClient) - An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A V2Ray client for Windows, support Xray core and v2fly core
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 *   [SteeltoeOSS/Initializr](https://github.com/SteeltoeOSS/Initializr) - Steeltoe Initializr - .NET Microservices Templates
 *   [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
 *   [Coldairarrow/EFCore.Sharding](https://github.com/Coldairarrow/EFCore.Sharding) - Database Sharding For EFCore
@@ -3942,7 +3943,7 @@
 *   [ServiceStack/ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Fast, Simple, Typed ORM for .NET
 *   [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
 *   [aspnet/DotNetTools](https://github.com/aspnet/DotNetTools) - \[Archived] Various .NET command line tools. Project moved to https://github.com/aspnet/AspNetCore
-*   [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless server and jobs
+*   [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless application
 *   [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet) - :whale: .NET (C#) Client Library for Docker API
 *   [peasy/Peasy.NET](https://github.com/peasy/Peasy.NET) - A business logic micro-framework for .NET and .NET Core
 *   [nissl-lab/npoi](https://github.com/nissl-lab/npoi) - a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
@@ -4325,7 +4326,6 @@
 
 *   [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 *   [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
-*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 *   [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 *   [LaoMengFlutter/flutter-do](https://github.com/LaoMengFlutter/flutter-do) - 包含350多个组件用法、组件继承关系图、40多个 loading 组件，App升级、验证码、弹幕、音乐字幕 4个插件，一个小而全完整的App项目。
 *   [ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
