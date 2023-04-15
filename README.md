@@ -2971,7 +2971,7 @@
 
 *   [xljiulang/KestrelApp](https://github.com/xljiulang/KestrelApp) - 基于Kestrel的网络编程应用示例
 *   [xljiulang/WindivertDotnet](https://github.com/xljiulang/WindivertDotnet) - 面向对象的WinDivert的dotnet异步封装
-*   [xljiulang/ServiceSelf](https://github.com/xljiulang/ServiceSelf) - 让.net6.0+的应用程序自安装为服务进程，支持windows和linux
+*   [xljiulang/ServiceSelf](https://github.com/xljiulang/ServiceSelf) - 为.NET 泛型主机的应用程序提供自安装为服务进程的能力
 *   [Sicos1977/ChromiumHtmlToPdf](https://github.com/Sicos1977/ChromiumHtmlToPdf) - Convert HTML to PDF with a Chromium based browser
 *   [IoTSharp/IoTSharp](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
 *   [drewnoakes/figgle](https://github.com/drewnoakes/figgle) - ASCII banner generation for .NET
