@@ -3620,7 +3620,7 @@
 *   [cmwilliams/google-geocoder-core](https://github.com/cmwilliams/google-geocoder-core) - Simple Google Geocoding Service Library for .NET Core
 *   [aspnet/HttpAbstractions](https://github.com/aspnet/HttpAbstractions) - \[Archived] HTTP abstractions such as HttpRequest, HttpResponse, and HttpContext, as well as common web utilities. Project moved to https://github.com/aspnet/AspNetCore
 *   [aspnet/KestrelHttpServer](https://github.com/aspnet/KestrelHttpServer) - \[Archived] A cross platform web server for ASP.NET Core. Project moved to https://github.com/aspnet/AspNetCore
-*   [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector) - Async MySQL Connector for .NET
+*   [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector) - MySQL Connector for .NET
 *   [abergs/RegExpBuilder](https://github.com/abergs/RegExpBuilder) - A library for building RegExpPattrerns
 *   [neekgreen/paginable-collections.aspnetcore](https://github.com/neekgreen/paginable-collections.aspnetcore) - Use PaginableCollections in AspNetCore! A set of extensions for Microsoft.Extensions.DependencyInjection.
 *   [neekgreen/paginable-collections](https://github.com/neekgreen/paginable-collections) - PaginableCollections is a set of abstractions and extensions used to provide developers with a consistent way to paginate their data across all .NET (and .NET Core) application stacks.
