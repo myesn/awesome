@@ -3185,7 +3185,7 @@
 *   [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 *   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 *   [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 *   [jelledruyts/Ubaku](https://github.com/jelledruyts/Ubaku) - A website that helps kids practice math exercises
 *   [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 *   [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
