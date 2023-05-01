@@ -2084,6 +2084,7 @@
 *   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
 *   [AirCodeLabs/aircode](https://github.com/AirCodeLabs/aircode) - Build intelligent bots with Node.js, remarkably fast.
 *   [xuncv/WechatVideoSniffer](https://github.com/xuncv/WechatVideoSniffer) - 微信视频号PC版、微信看一看、微信公众号视频地址嗅探器
+*   [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 *   [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
 *   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 *   [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
@@ -2156,7 +2157,7 @@
 *   [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacionada a tecnologia.
 *   [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust
 *   [getActivity/AndroidGithubBoss](https://github.com/getActivity/AndroidGithubBoss) - Github Android 个人技术开源影响力排行榜
-*   [fz6m/weixin-fe](https://github.com/fz6m/weixin-fe) - 2022 年前端圈微信公众号合集
+*   [fz6m/weixin-fe](https://github.com/fz6m/weixin-fe) - 2023 年前端圈微信公众号合集
 *   [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 *   [danvk/effective-typescript](https://github.com/danvk/effective-typescript) - Effective TypeScript: 62 Specific Ways to Improve Your TypeScript
 *   [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
@@ -2647,7 +2648,6 @@
 *   [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 *   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 *   [lydiahallie/javascript-react-patterns](https://github.com/lydiahallie/javascript-react-patterns) - Repo related to the FrontendMasters course on JavaScript and React patterns
-*   [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 *   [Privoce/Bot-Studio](https://github.com/Privoce/Bot-Studio) - Dashboard for OpenAI GPT Models with Chat UI
 *   [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 *   [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
