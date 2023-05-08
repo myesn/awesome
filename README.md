@@ -12,8 +12,8 @@
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [PHP](#php)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Shell](#shell)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Rust](#rust)
 *   [C#](#c)
 *   [C](#c-1)
@@ -856,7 +856,7 @@
 *   [jwalton/node-amqp-connection-manager](https://github.com/jwalton/node-amqp-connection-manager) - Auto-reconnect and round robin support for amqplib.
 *   [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 *   [fkhadra/react-contexify](https://github.com/fkhadra/react-contexify) - 👌 Add a context menu to your react app with ease
-*   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
+*   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
 *   [casbin/node-casbin](https://github.com/casbin/node-casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js and Browser
 *   [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 *   [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
@@ -1671,6 +1671,7 @@
 
 *   [GeneralNewsExtractor/GeneralNewsExtractor](https://github.com/GeneralNewsExtractor/GeneralNewsExtractor) -  新闻网页正文通用抽取器 Beta 版.
 *   [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
+*   [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.
 *   [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 *   [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 *   [georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) - AI-Relational Database System | SQL meets Deep Learning
@@ -2885,7 +2886,7 @@
 *   [dntzhang/pasition](https://github.com/dntzhang/pasition) - Path Transition with little JS code, render to anywhere - 轻量级 Path 过渡库，渲染到任何地方
 *   [SimonZhangITer/vue-typescript-dpapp-demo](https://github.com/SimonZhangITer/vue-typescript-dpapp-demo) - :fire: Let's start with TypeScript
 *   [maxwellito/vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
-*   [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+*   [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 *   [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 *   [matthew-andrews/isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) - Isomorphic WHATWG Fetch API, for Node & Browserify
 *   [cyq1162/Aries](https://github.com/cyq1162/Aries) - .NET Develop Framework（适合场景：业务系统、信息系统、管理系统、ERP，含工作流，支持.NET Core）
@@ -3211,21 +3212,6 @@
 *   [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 *   [jcc/blog](https://github.com/jcc/blog) - :star2: PJ Blog is an open source blog built with Laravel and Vue.js.
 
-## Jupyter Notebook
-
-*   [IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) - Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.
-*   [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
-*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-*   [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版
-*   [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
-*   [afizs/chatgpt-clone](https://github.com/afizs/chatgpt-clone) - Build Your own ChatGPT with OpenAI API and Streamlit
-*   [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
-*   [giswqs/earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
-*   [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
-*   [xitu/tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
-*   [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
-*   [xianhu/LearnPython](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习Python
-
 ## Shell
 
 *   [goldze/Anti-Android-KM](https://github.com/goldze/Anti-Android-KM) - 破解某猫社区VIP会员
@@ -3284,6 +3270,20 @@
 *   [xuexb/learn-nginx](https://github.com/xuexb/learn-nginx) - Nginx 入门指南
 *   [tj/n](https://github.com/tj/n) - Node version management
 *   [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
+
+## Jupyter Notebook
+
+*   [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
+*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+*   [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版
+*   [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
+*   [afizs/chatgpt-clone](https://github.com/afizs/chatgpt-clone) - Build Your own ChatGPT with OpenAI API and Streamlit
+*   [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
+*   [giswqs/earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
+*   [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
+*   [xitu/tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
+*   [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
+*   [xianhu/LearnPython](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习Python
 
 ## Rust
 
@@ -3556,6 +3556,7 @@
 *   [sebastienros/jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET
 *   [Coldairarrow/Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue) - Admin Fx Based On .NET 5 + Ant Design Vue
 *   [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
+*   [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透工具，可PowerShell模块化、可CS插件化、可内存加载，无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。10.10.5内置224个功能模块,网络资产探测模块32个通过多种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchange\mssql\FTP\RDP)以及方法快速获取目标网络存活主机IP、计算机名、工作组、共享资源、网卡地址、操作系统版本、网站、子域名、中间件、开放服务、路由器、交换机、数据库、打印机等信息，高危漏洞检测16个含MS17010、Zimbra、Exchange
 *   [sheng-jie/UnitOfWork](https://github.com/sheng-jie/UnitOfWork) - DDD中实体、聚合、仓储、UOW相关实现。
 *   [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET = ❤
 *   [jiyuwu/TemplateCore](https://github.com/jiyuwu/TemplateCore) - .Net Core Good Template （.Net Core 的通用模板项目）
@@ -4746,7 +4747,6 @@
 *   [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 *   [Mr-xn/Penetration\_Testing\_POC](https://github.com/Mr-xn/Penetration_Testing_POC) - 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
 *   [RReverser/WiFi-Password](https://github.com/RReverser/WiFi-Password) - People ask you for the Wi-Fi password. Answer quickly.
-*   [k8gege/Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透工具，可PowerShell模块化、可CS插件化、可内存加载，无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。10.10版本内置212个功能模块,外部模块18个,网络资产探测模块28个通过多种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchange\mssql\FTP\RDP)以及方法快速获取目标网络存活主机IP、计算机名、工作组、共享资源、网卡地址、操作系统版本、网站、子域名、中间件、开放服务、路由器、交换机、数据库、打印机等信息，高危漏洞检测16个包含Cisco、Zimbra、Ex
 *   [dotnet/blazor](https://github.com/dotnet/blazor) - Blazor moved to https://github.com/dotnet/aspnetcore
 
 ## Tcl
