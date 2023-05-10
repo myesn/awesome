@@ -5,8 +5,8 @@
 ## Table of Contents
 
 *   [Python](#python)
-*   [C#](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
+*   [C#](#c)
 *   [Java](#java)
 *   [Go](#go)
 *   [TypeScript](#typescript)
@@ -69,6 +69,7 @@
 
 ## Python
 
+*   [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 *   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 *   [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 *   [GeneralNewsExtractor/GeneralNewsExtractor](https://github.com/GeneralNewsExtractor/GeneralNewsExtractor) -  新闻网页正文通用抽取器 Beta 版.
@@ -272,6 +273,22 @@
 *   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
 *   [taobao/nginx-book](https://github.com/taobao/nginx-book) - Nginx开发从入门到精通
 *   [pandolia/qqbot](https://github.com/pandolia/qqbot) - QQBot: A conversation robot base on Tencent's SmartQQ
+
+## Jupyter Notebook
+
+*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+*   [GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) - 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers"
+*   [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
+*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+*   [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：https://www.bilibili.com/video/BV1Bo4y1A7FU/?share\_source=copy\_web
+*   [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
+*   [afizs/chatgpt-clone](https://github.com/afizs/chatgpt-clone) - Build Your own ChatGPT with OpenAI API and Streamlit
+*   [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
+*   [giswqs/earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
+*   [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
+*   [xitu/tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
+*   [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
+*   [xianhu/LearnPython](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习Python
 
 ## C\#
 
@@ -956,21 +973,6 @@
 *   [dlemstra/Magick.NET](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick
 *   [rmbadmin/DumbQQ-Core](https://github.com/rmbadmin/DumbQQ-Core) - DumbQQ Core   基于DumbQQ更改
 *   [dlemstra/QRCodeCore](https://github.com/dlemstra/QRCodeCore) - A cross-platform .NET library to create QR Codes
-
-## Jupyter Notebook
-
-*   [GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) - 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers"
-*   [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
-*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-*   [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：https://www.bilibili.com/video/BV1Bo4y1A7FU/?share\_source=copy\_web
-*   [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
-*   [afizs/chatgpt-clone](https://github.com/afizs/chatgpt-clone) - Build Your own ChatGPT with OpenAI API and Streamlit
-*   [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
-*   [giswqs/earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
-*   [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
-*   [xitu/tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
-*   [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
-*   [xianhu/LearnPython](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习Python
 
 ## Java
 
@@ -2155,7 +2157,6 @@
 *   [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
 *   [nobrainr/morphism](https://github.com/nobrainr/morphism) - ⚡ Type-safe data transformer for JavaScript, TypeScript & Node.js.
 *   [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
-*   [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 
 ## miscellaneous
 
@@ -2565,7 +2566,6 @@
 *   [NancyFx/Accessories](https://github.com/NancyFx/Accessories) - Accessories for Nancy development
 *   [dotnet/standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
 *   [kittykatattack/learningPixi](https://github.com/kittykatattack/learningPixi) - A step-by-step introduction to making games and interactive media with the Pixi.js rendering engine.
-*   [RepositoryTrash/awesome](https://github.com/RepositoryTrash/awesome) - A curated list of awesome lists
 
 ## Astro
 
@@ -4324,7 +4324,7 @@
 *   [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - 免费 Prompt Engineering 教程
 *   [codrops/LineHoverStyles](https://github.com/codrops/LineHoverStyles) - A couple of simple & subtle line hover animations for links using CSS only.
 *   [twbs/rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
-*   [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
+*   [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 *   [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
 *   [aws/iot-atlas](https://github.com/aws/iot-atlas) - The content of the IoT Atlas
 *   [ruanyf/jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
