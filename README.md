@@ -78,7 +78,7 @@
 *   [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.
 *   [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 *   [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
-*   [georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) - 🔮 Database system for building simpler and faster AI-powered applications 🔮
+*   [georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) - 🔮 Database system for building simpler and faster AI-powered applications
 *   [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 *   [continue-revolution/sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Segment Anything for Stable Diffusion WebUI
 *   [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs)
@@ -207,7 +207,7 @@
 *   [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 *   [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目 | RSS 订阅 |  快知 app 订阅
 *   [cn/GB2260](https://github.com/cn/GB2260) - 中华人民共和国国家标准 GB/T 2260 行政区划代码
-*   [hoochanlon/NeiJuan](https://github.com/hoochanlon/NeiJuan) - 💾 内卷！ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
+*   [hoochanlon/seikaii](https://github.com/hoochanlon/seikaii) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 *   [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 *   [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
@@ -333,7 +333,7 @@
 *   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 *   [poetries/browser-working-principle](https://github.com/poetries/browser-working-principle) - 极客时间浏览器工作原理 https://blog.poetries.top/browser-working-principle
 *   [hkjswong/shadowrocket-ipa](https://github.com/hkjswong/shadowrocket-ipa) - 小火箭Shadowrocket，QuantumultX,Quantumult等app的官方安裝包(未脫殼）
-*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
+*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
 *   [cssmagic/CSS-Secrets](https://github.com/cssmagic/CSS-Secrets) - 《CSS 揭秘》这本书的大本营
 *   [tnfe/awesome-blackmagic](https://github.com/tnfe/awesome-blackmagic) - 🎭 ♠♥奇技淫巧 💠黑魔法大集合♦♣ 👺
 *   [xxlllq/pmp](https://github.com/xxlllq/pmp) - :six:本人2019年06月份PMP备考资料，包含第六版教材、教学视频和练习真题。如资料链接失效，可通过Issues提问或者个人主页邮箱联系。视频资料持续更新中……
