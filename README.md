@@ -1728,7 +1728,7 @@
 *   [georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) - Database system for building simpler and faster AI-powered applications
 *   [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 *   [continue-revolution/sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Segment Anything for Stable Diffusion WebUI
-*   [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs)
+*   [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 *   [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
 *   [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by ChatGPT
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
@@ -1854,7 +1854,7 @@
 *   [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 *   [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目 | RSS 订阅 |  快知 app 订阅
 *   [cn/GB2260](https://github.com/cn/GB2260) - 中华人民共和国国家标准 GB/T 2260 行政区划代码
-*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️“城中村哈姆雷特”，ChatGPT、系统环境各类镜像、重点高校及科研机构社科研究学术论文知识链接库
+*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、系统程序各类镜像、重点高校及科研机构社科、经济、系统工程类学术论文知识链接库
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 *   [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 *   [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
@@ -3033,6 +3033,7 @@
 *   [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2022: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 *   [ava/use-http](https://github.com/ava/use-http) - 🐶  React hook for making isomorphic http requests
 *   [sheinsight/shineout](https://github.com/sheinsight/shineout) - 高性能React组件库
+*   [frejs/fre](https://github.com/frejs/fre) - :ghost: Tiny JSX compiler for building declarative user interfaces.
 *   [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 *   [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder & Player 🖥
 *   [i5ting/imove](https://github.com/i5ting/imove) - INACTIVE: Move your mouse, generate code from flow chart
@@ -3815,7 +3816,6 @@
 *   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 *   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-*   [frejs/fre](https://github.com/frejs/fre) - :ghost: Tiny JSX compiler for building declarative user interfaces.
 *   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 *   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 *   [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
