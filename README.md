@@ -1934,7 +1934,7 @@
 *   [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
 *   [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
 *   [yue1123/ts-config-helper](https://github.com/yue1123/ts-config-helper) - Ts Config Helper是一个配置tsconfig.json的交互式工具。它提供多种功能，如可视化配置、文档查阅、搜索、分类过滤和预设配置，帮助您快速学习和组装tsconfig.json配置文件。
-*   [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern desktop applications with shadcn/ui, Tauri 2, Next.js 13, Tailwind.
+*   [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern desktop applications with Tauri and shadcn/ui.
 *   [liou666/polyglot](https://github.com/liou666/polyglot) - 🤖️ 桌面端AI语言练习应用
 *   [www-zerocode-net-cn/ERD-Online](https://github.com/www-zerocode-net-cn/ERD-Online) - ERD Online is an online collaborative data warehouse design software. It does not need to install applications locally and operate databases online. It is an excellent alternative to desktop data modeling tools.
 *   [Codennnn/Green-Wall](https://github.com/Codennnn/Green-Wall) - ⬜🟩 GitHub Contributions Graph Generator.  :octocat:
