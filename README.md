@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Vala](#vala)
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [Go](#go)
@@ -66,6 +67,10 @@
 *   [FreeMarker](#freemarker)
 *   [Smarty](#smarty)
 *   [Objective-C++](#objective-c-1)
+
+## Vala
+
+*   [cheesecakeufo/komorebi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux
 
 ## JavaScript
 
@@ -4297,7 +4302,6 @@
 *   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
 *   [HostsTools/Windows](https://github.com/HostsTools/Windows) - Hosts tool for googlehosts/hosts
 *   [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
-*   [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 
 ## Starlark
 
