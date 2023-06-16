@@ -2025,7 +2025,7 @@
 *   [mx-space/core](https://github.com/mx-space/core) - 😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.
 *   [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 *   [weekend-project-space/chatgpt-sites](https://github.com/weekend-project-space/chatgpt-sites) - ChatGPT 在线体验免费网站列表，免费的 ChatGPT 。定时任务每日更新，点击下面链接探索更多ai使用技巧和有趣应用
-*   [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
+*   [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 *   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 *   [lydiahallie/javascript-react-patterns](https://github.com/lydiahallie/javascript-react-patterns) - Repo related to the FrontendMasters course on JavaScript and React patterns
 *   [Privoce/Bot-Studio](https://github.com/Privoce/Bot-Studio) - Dashboard for OpenAI GPT Models with Chat UI
@@ -2178,7 +2178,7 @@
 *   [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 *   [fregante/text-field-edit](https://github.com/fregante/text-field-edit) - Insert text in a \<textarea> and \<input> (supports Firefox and Undo)
 *   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
-*   [datavisions/datav](https://github.com/datavisions/datav) - Datav is a observability and APM platform, providing fully observability for your business and infrastructure.
+*   [datavisions/datav](https://github.com/datavisions/datav) - A modern data visualization platform, mainly focus on observability and APM
 *   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 *   [alibaba/lowcode-demo](https://github.com/alibaba/lowcode-demo) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 *   [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
