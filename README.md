@@ -782,6 +782,7 @@
 *   [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 *   [uileader/touchui](https://github.com/uileader/touchui) - 高质量移动端UI框架。官网：https://www.wetouch.net
 *   [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
+*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 *   [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
 *   [aliyun/oss-browser](https://github.com/aliyun/oss-browser) - OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
 *   [mimecorg/vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js.
@@ -2049,7 +2050,7 @@
 *   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
 *   [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
 *   [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
-*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - Maximize your efficiency and productivity, Maximize your efficiency and productivity, support for English, Chinese, Japanese, and Korean. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
+*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, Maximize your efficiency and productivity, support for English, Chinese, Japanese, and Korean. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 *   [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
 *   [smartxworks/sunmao-ui](https://github.com/smartxworks/sunmao-ui) - A Framework for Developing Low-code Tool
 *   [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
@@ -2074,7 +2075,7 @@
 *   [sagold/json-schema-library](https://github.com/sagold/json-schema-library) - Customizable and hackable json-validator and json-schema utilities for traversal, data generation and validation
 *   [9hnd5/nestjs-mediator](https://github.com/9hnd5/nestjs-mediator) -
 *   [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
-*   [rao-pics/core](https://github.com/rao-pics/core) - 任何设备可通过局域网访问媒体。Visit media by LAN on any device.
+*   [rao-pics/core](https://github.com/rao-pics/core) - 任何设备可通过局域网访问素材。Visit material by local network on any device.
 *   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 *   [wbhob/nest-middlewares](https://github.com/wbhob/nest-middlewares) - Common, injectable middlewares for NestJS
 *   [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
@@ -4197,7 +4198,6 @@
 *   [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 *   [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 *   [thomasxu1991/WeChat-Emoticon](https://github.com/thomasxu1991/WeChat-Emoticon) - 微信表情商店部分表情
-*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 *   [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
 *   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 *   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
