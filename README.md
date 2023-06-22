@@ -4507,7 +4507,7 @@
 *   [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 *   [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 *   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-*   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100:2023年系统架构设计师（软考高级）备考资源库。
+*   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100:2023年系统架构设计师（软考高级）备考资料。
 *   [microsoft/BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples) - Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!
 *   [learning-zone/javascript-basics](https://github.com/learning-zone/javascript-basics) - JavaScript Basics
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
