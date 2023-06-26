@@ -13,15 +13,15 @@
 *   [PHP](#php)
 *   [Python](#python)
 *   [C#](#c-1)
-*   [Jupyter Notebook](#jupyter-notebook)
+*   [MDX](#mdx)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Astro](#astro)
 *   [Shell](#shell)
 *   [C++](#c-2)
 *   [Starlark](#starlark)
-*   [MDX](#mdx)
 *   [Elixir](#elixir)
 *   [Lua](#lua)
 *   [Swift](#swift)
@@ -696,7 +696,7 @@
 *   [iamjoel/learn-by-test](https://github.com/iamjoel/learn-by-test) - 通过测试来学习技术
 *   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies.
 *   [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
-*   [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
+*   [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 *   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 *   [webfansplz/vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) - Collection of Vue.js challenges
 *   [loonywizard/js-confetti](https://github.com/loonywizard/js-confetti) - JS Confetti library that supports emojis 🦄 🎉 ⚡️
@@ -3546,21 +3546,10 @@
 *   [KevinWG/OSS.Core](https://github.com/KevinWG/OSS.Core) - .net core下的领域开源电商网站，类库使用的标准库项目，集成微信和支付宝。 暂时还在开发阶段
 *   [SkyChenSky/Sikiro.Tookits](https://github.com/SkyChenSky/Sikiro.Tookits) - Base And Frequently-used Tools Library.You can use it on nuget
 
-## Jupyter Notebook
+## MDX
 
 *   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
-*   [GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) - 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers"
-*   [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
-*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-*   [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》
-*   [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
-*   [afizs/chatgpt-clone](https://github.com/afizs/chatgpt-clone) - Build Your own ChatGPT with OpenAI API and Streamlit
-*   [giswqs/earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
-*   [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
-*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、国立政治大学、新加坡国立大学、早稻田大学、东京大学，以及中国重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
-*   [xitu/tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
-*   [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
+*   [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
 
 ## Vue
 
@@ -4153,6 +4142,21 @@
 *   [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 *   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 
+## Jupyter Notebook
+
+*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+*   [GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) - 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers"
+*   [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
+*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+*   [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》
+*   [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
+*   [afizs/chatgpt-clone](https://github.com/afizs/chatgpt-clone) - Build Your own ChatGPT with OpenAI API and Streamlit
+*   [giswqs/earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
+*   [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
+*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、国立政治大学、新加坡国立大学、早稻田大学、东京大学，以及中国重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
+*   [xitu/tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
+*   [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
+
 ## Astro
 
 *   [Ekarmore/ekar.site](https://github.com/Ekarmore/ekar.site) - My Personal Website
@@ -4306,10 +4310,6 @@
 
 *   [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 *   [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
-
-## MDX
-
-*   [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
 
 ## Elixir
 
