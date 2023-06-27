@@ -540,7 +540,6 @@
 *   [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 *   [okisdev/ChatChat](https://github.com/okisdev/ChatChat) - Chat Chat, unlock your next level AI conversation experience. Deploy your own AI Interface, all AI in one place.
 *   [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-*   [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow using LangchainJS
 *   [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
 *   [yue1123/ts-config-helper](https://github.com/yue1123/ts-config-helper) - Ts Config Helper是一个配置tsconfig.json的交互式工具。它提供多种功能，如可视化配置、文档查阅、搜索、分类过滤和预设配置，帮助您快速学习和组装tsconfig.json配置文件。
 *   [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern desktop applications with Tauri and shadcn/ui.
@@ -1153,6 +1152,7 @@
 *   [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
 *   [IndigoUnited/node-promise-retry](https://github.com/IndigoUnited/node-promise-retry) - Retries a function that returns a promise, leveraging the power of the retry module.
 *   [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
+*   [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 *   [TheRamU/Fay](https://github.com/TheRamU/Fay) - Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！
 *   [sindresorhus/slash](https://github.com/sindresorhus/slash) - Convert Windows backslash paths to slash paths
 *   [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
@@ -2751,7 +2751,7 @@
 *   [gnddev/git-blameall](https://github.com/gnddev/git-blameall) - Shows every line that was ever in the file, along with information about when it was added or deleted.
 *   [feross/SpoofMAC](https://github.com/feross/SpoofMAC) - :briefcase: Change your MAC address for debugging
 *   [pkdone/practical-mongodb-aggregations-book](https://github.com/pkdone/practical-mongodb-aggregations-book) - Practical MongoDB Aggregations book
-*   [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
+*   [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 *   [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 *   [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 *   [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange\_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
@@ -3103,7 +3103,7 @@
 *   [sheng-jie/UnitOfWork](https://github.com/sheng-jie/UnitOfWork) - DDD中实体、聚合、仓储、UOW相关实现。
 *   [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET = ❤
 *   [jiyuwu/TemplateCore](https://github.com/jiyuwu/TemplateCore) - .Net Core Good Template （.Net Core 的通用模板项目）
-*   [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 7, Angular 16, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, Mediator Pattern, Result Pattern, Folder-By-Feature Structure, Separation of Concerns.
+*   [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 7, Angular 16, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, Mediator Pattern, Result Pattern, Folder-by-Feature Structure, Separation of Concerns.
 *   [obfuscar/obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies
 *   [micjahn/ZXing.Net](https://github.com/micjahn/ZXing.Net) - .Net port of the original java-based barcode reader and generator library zxing
 *   [JoyMoe/TinyScraper](https://github.com/JoyMoe/TinyScraper) - A tiny and easy-to-use scraping and web crawling toolkit for .Net Core
