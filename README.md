@@ -23,7 +23,6 @@
 *   [C++](#c-2)
 *   [Starlark](#starlark)
 *   [Elixir](#elixir)
-*   [Lua](#lua)
 *   [Swift](#swift)
 *   [CSS](#css)
 *   [Erlang](#erlang)
@@ -44,6 +43,7 @@
 *   [Clojure](#clojure)
 *   [Cuda](#cuda)
 *   [VBScript](#vbscript)
+*   [Lua](#lua)
 *   [PEG.js](#pegjs)
 *   [PowerShell](#powershell)
 *   [Tcl](#tcl)
@@ -574,7 +574,6 @@
 *   [lydiahallie/javascript-react-patterns](https://github.com/lydiahallie/javascript-react-patterns) - Repo related to the FrontendMasters course on JavaScript and React patterns
 *   [Privoce/Bot-Studio](https://github.com/Privoce/Bot-Studio) - Dashboard for OpenAI GPT Models with Chat UI
 *   [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
-*   [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 *   [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 *   [labring/laf](https://github.com/labring/laf) - 🤖 laf 是云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者快速释放创意。ChatGPT 自动写函数，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
 *   [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework, a npm package solution and a documentation site solution.
@@ -2406,6 +2405,7 @@
 *   [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 *   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 *   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - 简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云、Dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain)
+*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 *   [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 *   [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 *   [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
@@ -2423,7 +2423,6 @@
 *   [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge-based community software. You can use it quickly to build Q\&A community for your products, customers, teams, and more.
 *   [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 *   [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
-*   [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 *   [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
 *   [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 *   [easychen/wecomchan](https://github.com/easychen/wecomchan) - 通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。
@@ -3552,6 +3551,7 @@
 
 *   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 *   [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
+*   [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 
 ## Vue
 
@@ -4170,6 +4170,7 @@
 *   [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 *   [kamranahmedse/db-playground](https://github.com/kamranahmedse/db-playground) - Easily create a sandbox environment for your database exploration.
 *   [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
+*   [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 *   [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 *   [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
 *   [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。| https://awesome-toolbox-chinese.bestxtools.com/ | https://😎🧰.bestxtools.com/
@@ -4317,16 +4318,6 @@
 *   [supabase/supavisor](https://github.com/supabase/supavisor) - A cloud-native, multi-tenant Postgres connection pooler.
 *   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 *   [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
-
-## Lua
-
-*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
-*   [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
-*   [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
-*   [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
-*   [yuanfengyun/q\_algorithm](https://github.com/yuanfengyun/q_algorithm) - 棋牌的胡牌算法，包括麻将、跑胡子、扑克。实现 lua 、c++ 、c# 、golang 、js 、java 、python 版本。( Mahjong  algorithm )
-*   [orlabs/orange](https://github.com/orlabs/orange) - OpenResty/Nginx Gateway for API Monitoring and Management.
-*   [alexazhou/VeryNginx](https://github.com/alexazhou/VeryNginx) -  A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 
 ## Swift
 
@@ -4743,6 +4734,15 @@
 
 *   [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader) - 超方便的微信视频号下载器
 *   [imgVOID/jetbrains-license-2020](https://github.com/imgVOID/jetbrains-license-2020) - JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!
+
+## Lua
+
+*   [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+*   [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+*   [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
+*   [yuanfengyun/q\_algorithm](https://github.com/yuanfengyun/q_algorithm) - 棋牌的胡牌算法，包括麻将、跑胡子、扑克。实现 lua 、c++ 、c# 、golang 、js 、java 、python 版本。( Mahjong  algorithm )
+*   [orlabs/orange](https://github.com/orlabs/orange) - OpenResty/Nginx Gateway for API Monitoring and Management.
+*   [alexazhou/VeryNginx](https://github.com/alexazhou/VeryNginx) -  A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 
 ## PEG.js
 
