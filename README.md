@@ -692,7 +692,7 @@
 *   [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system
 *   [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 *   [iamjoel/learn-by-test](https://github.com/iamjoel/learn-by-test) - 通过测试来学习技术
-*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies.
+*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
 *   [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 *   [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 *   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
@@ -2875,7 +2875,7 @@
 ## C\#
 
 *   [featbit/featbit](https://github.com/featbit/featbit) - A scalable, fast and 100% open-source feature flag tool written in C# .NET
-*   [CoreUnion/CoreShop](https://github.com/CoreUnion/CoreShop) - 基于 Asp.Net Core 5.0、Uni-App开发，支持可视化布局的小程序商城系统，前后端分离，支持分布式部署，跨平台运行，拥有分销、代理、团购、拼团、秒杀、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程。支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、字节跳动小程序版、QQ小程序版等共10个平台。
+*   [CoreUnion/CoreShop](https://github.com/CoreUnion/CoreShop) - 基于 Asp.Net Core 7.0、Uni-App开发，支持可视化布局的小程序商城系统，前后端分离，支持分布式部署，跨平台运行，拥有分销、代理、团购、拼团、秒杀、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程。支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、字节跳动小程序版、QQ小程序版等共10个平台。
 *   [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms. Provides the fundamental infrastructure, production-ready startup templates, application modules, UI themes, tooling, guides and documentation.
 *   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
 *   [microsoft/perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
@@ -2998,7 +2998,7 @@
 *   [microsoft/RulesEngine](https://github.com/microsoft/RulesEngine) - A Json based Rules Engine with extensive Dynamic expression support
 *   [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 *   [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
-*   [nerdcash/Nerdbank.Streams](https://github.com/nerdcash/Nerdbank.Streams) - Specialized .NET Streams and pipes for full duplex in-proc communication, web sockets, and multiplexing
+*   [dotnet/Nerdbank.Streams](https://github.com/dotnet/Nerdbank.Streams) - Specialized .NET Streams and pipes for full duplex in-proc communication, web sockets, and multiplexing
 *   [sheng-jie/Design-Pattern](https://github.com/sheng-jie/Design-Pattern) - 设计模式 C# 版（ .NET 6），有系列文章讲解
 *   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 *   [JosefPihrt/Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
