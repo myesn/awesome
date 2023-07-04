@@ -1544,7 +1544,7 @@
 *   [cteamx/Thief](https://github.com/cteamx/Thief) - 一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。
 *   [lacymorrow/crossover](https://github.com/lacymorrow/crossover) - 🎯 A Crosshair Overlay for any screen.
 *   [mafintosh/why-is-node-running](https://github.com/mafintosh/why-is-node-running) - Node is running but you don't know why? why-is-node-running is here to help you.
-*   [nickola/web-console](https://github.com/nickola/web-console) -  Simple web-based shell, remote shell in your browser
+*   [nickola/web-console](https://github.com/nickola/web-console) - :desktop\_computer: Simple web-based shell in your browser (outdated)
 *   [chunqiuyiyu/ervy](https://github.com/chunqiuyiyu/ervy) - Bring charts to terminal.
 *   [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 *   [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.com/jonschlinkert
@@ -1631,7 +1631,7 @@
 *   [yyx990803/launch-editor](https://github.com/yyx990803/launch-editor) - Open file in editor from Node.js.
 *   [turboMaCk/koa-sslify](https://github.com/turboMaCk/koa-sslify) - Enforce HTTPS in node.js koa apps
 *   [saucxs/watermark-dom](https://github.com/saucxs/watermark-dom) - watermark.js是基于DOM对象实现的BS系统的水印，确保系统保密性，安全性，降低数据泄密风险，简单轻量，支持多属性配置，动态计算水印，水印防被删（监听水印组件元素删除并重新添加，监听改变水印的属性并重新添加）。1、支持2种方式导入使用，2、水印插件-testTool（测试工具），3、内置3种全局API方法，等等。欢迎访问：
-*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 *   [Tinywan/H5-dash-hls-rtmp-webrtc](https://github.com/Tinywan/H5-dash-hls-rtmp-webrtc) - :sunflower: 传统直播：HTML5播放器、M3U8直播/点播、RTMP直播、低延迟、推流/播流地址鉴权。:green\_apple: 实时直播：WebRTC
 *   [koajs/router](https://github.com/koajs/router) - Router middleware for Koa. Maintained by @forwardemail and @ladjs.
 *   [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
@@ -2872,10 +2872,11 @@
 *   [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
 *   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 *   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
+*   [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 
 ## C\#
 
-*   [featbit/featbit](https://github.com/featbit/featbit) - A feature flags + remote config + experimentation management tool written in C# .NET - scalable & fast
+*   [featbit/featbit](https://github.com/featbit/featbit) - A feature flags + remote config service written in C# .NET - scalable & fast
 *   [CoreUnion/CoreShop](https://github.com/CoreUnion/CoreShop) - 基于 Asp.Net Core 7.0、Uni-App开发，支持可视化布局的小程序商城系统，前后端分离，支持分布式部署，跨平台运行，拥有分销、代理、团购、拼团、秒杀、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程。支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、字节跳动小程序版、QQ小程序版等共10个平台。
 *   [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms. Provides the fundamental infrastructure, production-ready startup templates, application modules, UI themes, tooling, guides and documentation.
 *   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
@@ -4540,7 +4541,6 @@
 *   [sindresorhus/multi-download](https://github.com/sindresorhus/multi-download) - Download multiple files at once in the browser
 *   [sense-of-security/ADRecon](https://github.com/sense-of-security/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
 *   [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
-*   [zfaka-plus/zfaka](https://github.com/zfaka-plus/zfaka) - 免费、安全、稳定、高效的发卡系统，值得拥有!
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 *   [windsting/little-aspnetcore-book](https://github.com/windsting/little-aspnetcore-book) - 简明 ASP.NET Core 手册
 *   [bit365/weframework](https://github.com/bit365/weframework) - 零度微框架开源，更多内容访问我们。
