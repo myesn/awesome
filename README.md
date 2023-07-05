@@ -3919,7 +3919,7 @@
 *   [wxpusher/wxpusher-client](https://github.com/wxpusher/wxpusher-client) - 微信消息实时推送服务\[WxPusher]，可以通过API实时给个人微信推送消息。wechat pusher.
 *   [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
 *   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-*   [xiaoxiunique/awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA) -
+*   [xiaoxiunique/awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA) - 收集一些 Intellij IDEA 的一些技巧
 *   [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 *   [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
 *   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
