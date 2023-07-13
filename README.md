@@ -2056,7 +2056,7 @@
 *   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
 *   [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
 *   [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
-*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English, 中文, 日本語, and 한국어. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
+*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English, 中文, 日本語 and 한국어. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 *   [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
 *   [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 *   [smartxworks/sunmao-ui](https://github.com/smartxworks/sunmao-ui) - A Framework for Developing Low-code Tool
@@ -2082,7 +2082,7 @@
 *   [sagold/json-schema-library](https://github.com/sagold/json-schema-library) - Customizable and hackable json-validator and json-schema utilities for traversal, data generation and validation
 *   [9hnd5/nestjs-mediator](https://github.com/9hnd5/nestjs-mediator) -
 *   [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
-*   [rao-pics/rao-pics](https://github.com/rao-pics/rao-pics) - Visit Photos on Any Device.
+*   [rao-pics/rao-pics](https://github.com/rao-pics/rao-pics) - Visit Photos on Any Device. Windows / MacOS :electron:
 *   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 *   [wbhob/nest-middlewares](https://github.com/wbhob/nest-middlewares) - Common, injectable middlewares for NestJS
 *   [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
@@ -3658,7 +3658,7 @@
 *   [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
 *   [jkchao/vue-loading](https://github.com/jkchao/vue-loading) - 😄 vue-loading 😊
 *   [aermin/vue-chat](https://github.com/aermin/vue-chat) - :calling: A web chat application.   Vue + node(koa2) + Mysql + socket.io
-*   [znlbwo/gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
+*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Stars Repositories Manager
 *   [xlogiccc/vue-picture-preview](https://github.com/xlogiccc/vue-picture-preview) - 移动端、PC 端 Vue.js 图片预览插件 | Friendly picture file preview Vue.js plugin based on PhotoSwipe.
 *   [tower1229/Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) - :gem: Frontend access control framework based Vue
 *   [chenxuan0000/svg-progress-bar](https://github.com/chenxuan0000/svg-progress-bar) - :panda\_face: A simple,progress bar for Vue.js
@@ -4477,7 +4477,7 @@
 *   [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
 *   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 *   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
-*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 *   [jiesuotk/Shadowrocket-ID](https://github.com/jiesuotk/Shadowrocket-ID) -
 *   [nestcn/docs.nestjs.cn](https://github.com/nestcn/docs.nestjs.cn) - nestjs 中文文档
 *   [lisahust/FDExam\_Note](https://github.com/lisahust/FDExam_Note) - 2021软考系统架构设计师笔记
