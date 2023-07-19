@@ -107,7 +107,7 @@
 *   [egoist/tooling.one](https://github.com/egoist/tooling.one) - A collection of useful tools for developers.
 *   [egoist/ts-lib-starter](https://github.com/egoist/ts-lib-starter) - My minimal TypeScript library starter
 *   [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (297 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
-*   [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
+*   [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 *   [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 *   [antfu/vue-reuse-template](https://github.com/antfu/vue-reuse-template) - Define and reuse Vue template inside the component scope.
 *   [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
@@ -127,7 +127,6 @@
 *   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 *   [lydiahallie/javascript-react-patterns](https://github.com/lydiahallie/javascript-react-patterns) - Repo related to the FrontendMasters course on JavaScript and React patterns
 *   [Privoce/Bot-Studio](https://github.com/Privoce/Bot-Studio) - Dashboard for OpenAI GPT Models with Chat UI
-*   [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 *   [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 *   [labring/laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
 *   [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework, a npm package solution and a documentation site solution.
@@ -156,7 +155,7 @@
 *   [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 *   [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 *   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
-*   [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 *   [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 *   [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 *   [DevCloudFE/vue-devui](https://github.com/DevCloudFE/vue-devui) - UI components based on Vue3 and DevUI Design
@@ -272,7 +271,7 @@
 *   [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
 *   [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 *   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
-*   [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. \[✩Star] if you support our work!
+*   [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 *   [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 *   [fregante/text-field-edit](https://github.com/fregante/text-field-edit) - Insert text in a \<textarea> and \<input> (supports Firefox and Undo)
 *   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
@@ -1410,6 +1409,7 @@
 *   [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 *   [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
 *   [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
+*   [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 *   [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
 *   [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 *   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs
@@ -3414,7 +3414,7 @@
 *   [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 *   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 *   [umputun/remark42](https://github.com/umputun/remark42) - comment engine
-*   [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
+*   [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 *   [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 *   [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 *   [ga0/netgraph](https://github.com/ga0/netgraph) - A cross platform http sniffer with a web UI
@@ -3700,7 +3700,7 @@
 *   [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 *   [liyupi/code-roadmap](https://github.com/liyupi/code-roadmap) - 原创编程学习路线，包括全面的知识点、免费资源、面试题、学习建议、项目，适用于所有学习编程、求职的同学。已完成 Java、前端
 *   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
-*   [AirCodeLabs/aircode](https://github.com/AirCodeLabs/aircode) - Build intelligent bots with Node.js, remarkably fast.
+*   [AirCodeLabs/aircode](https://github.com/AirCodeLabs/aircode) - Code, debug, deploy, operate, and share your APIs with zero-config, all in a single place.
 *   [xuncv/WechatVideoSniffer](https://github.com/xuncv/WechatVideoSniffer) - 微信视频号PC版、微信看一看、微信公众号视频地址嗅探器
 *   [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 *   [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
@@ -4158,7 +4158,7 @@
 *   [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 *   [giswqs/earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
 *   [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
-*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、系统工程类学术论文等知识库。
+*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 *   [xitu/tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
 *   [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 
