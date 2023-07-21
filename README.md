@@ -1570,6 +1570,7 @@
 *   [microsoft/referencesource](https://github.com/microsoft/referencesource) - Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework
 *   [IdentityModel/IdentityModel](https://github.com/IdentityModel/IdentityModel) - .NET standard helper library for claims-based identity, OAuth 2.0 and OpenID Connect.
 *   [markrendle/Simple.Data](https://github.com/markrendle/Simple.Data) - A light-weight, dynamic data access component for C# 4.0
+*   [aspnet/Security](https://github.com/aspnet/Security) - \[Archived] Middleware for security and authorization of web apps. Project moved to https://github.com/aspnet/AspNetCore
 
 ## Python
 
@@ -1788,7 +1789,6 @@
 
 ## JavaScript
 
-*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 *   [beginor/beginor.github.io](https://github.com/beginor/beginor.github.io) -
 *   [beipiaoyu2011/flexible](https://github.com/beipiaoyu2011/flexible) - flexible 手淘适配H5
 *   [shrimpbighead/showBossActiveTime](https://github.com/shrimpbighead/showBossActiveTime) - 给boss直聘的搜索结果加上hr活跃状态，少看点半年活跃的岗位
@@ -4456,7 +4456,7 @@
 *   [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 *   [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
 *   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-*   [0x-z/fexo](https://github.com/0x-z/fexo) - A minimalist design theme for hexo.
+*   [forsigner/fexo](https://github.com/forsigner/fexo) - A minimalist design theme for hexo.
 
 ## Dockerfile
 
@@ -4479,7 +4479,7 @@
 *   [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
 *   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 *   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
-*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 *   [nestcn/docs.nestjs.cn](https://github.com/nestcn/docs.nestjs.cn) - nestjs 中文文档
 *   [lisahust/FDExam\_Note](https://github.com/lisahust/FDExam_Note) - 2021软考系统架构设计师笔记
 *   [lcx12901/v2ray-](https://github.com/lcx12901/v2ray-) - 收集开源节点
