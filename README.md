@@ -464,6 +464,7 @@
 *   [antfu/unconfig](https://github.com/antfu/unconfig) - A universal solution for loading configurations.
 *   [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 *   [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React
+*   [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 *   [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
 *   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 *   [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
@@ -1435,7 +1436,7 @@
 *   [scottksmith95/LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
 *   [ElderJames/shriek-fx](https://github.com/ElderJames/shriek-fx) - An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provide the infrastructure for event-driven, event backtracking, responsiveness, and more. Let developers enjoy the true meaning of object-oriented design patterns brought by the aesthetic.
 *   [JoyMoe/QcloudSharp](https://github.com/JoyMoe/QcloudSharp) - Unoffical Qcloud.com API wrapper for .Net
-*   [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
+*   [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 *   [RabbitTeam/WeiXinSDK](https://github.com/RabbitTeam/WeiXinSDK) - 微信开发SDK。
 *   [essensoft/paylink](https://github.com/essensoft/paylink) - 一套基于 .NET Core 开发的支付SDK集，它极大简化了API调用及通知的处理流程。
 *   [KevinWG/OSS.Clients.SNS](https://github.com/KevinWG/OSS.Clients.SNS) - 社交网站sdk(标准库)，微信公众号（订阅号，服务号，小程序）接口sdk-包含消息回复(明文和安全模式)，Oauth2.0授权等
@@ -1927,7 +1928,6 @@
 *   [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 *   [imaegoo/twikoo](https://github.com/imaegoo/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 *   [AllJointTW/clean-code-javascript](https://github.com/AllJointTW/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript （無瑕的程式碼 JavaScript）
-*   [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 *   [davidmarkclements/0x](https://github.com/davidmarkclements/0x) - 🔥 single-command flamegraph profiling 🔥
 *   [sindresorhus/boxen](https://github.com/sindresorhus/boxen) - Create boxes in the terminal
 *   [ldqk/Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) - 基于C#/.NET7的 masuit.org个人博客站项目源码，https://masuit.org ，供参考、学习、引用、非商业性质的部署。
@@ -3660,7 +3660,7 @@
 *   [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
 *   [jkchao/vue-loading](https://github.com/jkchao/vue-loading) - 😄 vue-loading 😊
 *   [aermin/vue-chat](https://github.com/aermin/vue-chat) - :calling: A web chat application.   Vue + node(koa2) + Mysql + socket.io
-*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Stars Repositories Manager
+*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 *   [xlogiccc/vue-picture-preview](https://github.com/xlogiccc/vue-picture-preview) - 移动端、PC 端 Vue.js 图片预览插件 | Friendly picture file preview Vue.js plugin based on PhotoSwipe.
 *   [tower1229/Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) - :gem: Frontend access control framework based Vue
 *   [chenxuan0000/svg-progress-bar](https://github.com/chenxuan0000/svg-progress-bar) - :panda\_face: A simple,progress bar for Vue.js
