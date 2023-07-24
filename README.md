@@ -2028,7 +2028,7 @@
 *   [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
 *   [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
 *   [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
-*   [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2023)
+*   [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
 *   [shfshanyue/blog](https://github.com/shfshanyue/blog) - 在这里写一些工作中遇到的前端，后端以及运维的问题
 *   [delvedor/find-my-way](https://github.com/delvedor/find-my-way) - A crazy fast HTTP router
 *   [sindresorhus/electron-dl](https://github.com/sindresorhus/electron-dl) - Simplified file downloads for your Electron app
