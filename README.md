@@ -994,7 +994,7 @@
 *   [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 *   [thekaganugur/formik-chakra-ui](https://github.com/thekaganugur/formik-chakra-ui) - Chakra-UI bindings for Formik
 *   [upstash/ratelimit](https://github.com/upstash/ratelimit) - Rate limiting library for serverless runtimes
-*   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 The best on-chain and open-source blogging community for everyone.
+*   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
 *   [typegoose/typegoose](https://github.com/typegoose/typegoose) - Typegoose - Define Mongoose models using TypeScript classes.
 *   [neuledge/engine-js](https://github.com/neuledge/engine-js) - ⚡️ Neuledge streamlines database modeling with clear data entity definitions, customizable validation, and advanced business-logic representation.
 *   [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
@@ -2298,7 +2298,6 @@
 *   [MuYunyun/blog](https://github.com/MuYunyun/blog) - Life is a moment :notebook\_with\_decorative\_cover:
 *   [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 *   [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
-*   [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 *   [pingan8787/Leo-JavaScript](https://github.com/pingan8787/Leo-JavaScript) - 欢迎关注公众号“前端自习课”，本仓库包含丰富的前端学习资料，包括 JavaScript、前端框架、HTTP、GraphQL、TS、Vue、React、Webpack等，还有很多我的原创文章，喜欢的朋友欢迎stat。:rocket:持续更新中...
 *   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager \[GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
 *   [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
@@ -3056,7 +3055,7 @@
 *   [amigoscode/full-stack-professional](https://github.com/amigoscode/full-stack-professional) -
 *   [shiyindaxiaojie/eden-demo-cola](https://github.com/shiyindaxiaojie/eden-demo-cola) - 阿里巴巴 COLA 架构，基于个人对 DDD、CQRS、SOLID 等设计思想的理解，在企业完成生产落地。
 *   [goldze/MVVMHabit](https://github.com/goldze/MVVMHabit) - 👕基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个高质量、易维护的Android应用。
-*   [hncboy/ai-beehive](https://github.com/hncboy/ai-beehive) - AI 蜂巢，基于 Java 使用 Spring Boot 3 和 JDK 17，支持的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing 等等
+*   [hncboy/ai-beehive](https://github.com/hncboy/ai-beehive) - AI 蜂巢，基于 Java 使用 Spring Boot 3 和 JDK 17，支持的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing、文心一言等等
 *   [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。
 *   [dataease/dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具。
 *   [dromara/liteflow](https://github.com/dromara/liteflow) - Lightweight, fast, stable, and programmable component-based rule engine/process engine. Component reuse, synchronous/asynchronous orchestration, dynamic orchestration, multi-language scripting support, complex nested rules, hot deployment, smooth refreshing. Let you improve your development efficiency!
@@ -3458,6 +3457,7 @@
 *   [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 *   [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 *   [peng-zhihui/HDMI-PI](https://github.com/peng-zhihui/HDMI-PI) - 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。
+*   [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 *   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 *   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 *   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
