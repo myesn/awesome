@@ -1049,7 +1049,7 @@
 *   [sagold/json-schema-library](https://github.com/sagold/json-schema-library) - Customizable and hackable json-validator and json-schema utilities for traversal, data generation and validation
 *   [9hnd5/nestjs-mediator](https://github.com/9hnd5/nestjs-mediator) -
 *   [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
-*   [rao-pics/rao-pics](https://github.com/rao-pics/rao-pics) - Visit Photos on Any Device. Supported Win/MacOS/Linux :electron:
+*   [rao-pics/rao-pics](https://github.com/rao-pics/rao-pics) - Visit photos on any devices. Supported Win/MacOS/Linux :electron:
 *   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 *   [wbhob/nest-middlewares](https://github.com/wbhob/nest-middlewares) - Common, injectable middlewares for NestJS
 *   [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
@@ -1855,7 +1855,7 @@
 *   [hujiulong/simple-react](https://github.com/hujiulong/simple-react) - simple react
 *   [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 *   [ArekSredzki/electron-release-server](https://github.com/ArekSredzki/electron-release-server) - A fully featured, self-hosted release server for electron applications, compatible with auto-updater.
-*   [changcheng1/miniReact\_v17](https://github.com/changcheng1/miniReact_v17) - 精简版React实现，包含逐行注释(未实现classComponent
+*   [changcheng1/miniReact\_v17](https://github.com/changcheng1/miniReact_v17) - Implement a simple React from 0 to 1，only include core functions
 *   [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) -  M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
 *   [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 *   [yisainan/vue2](https://github.com/yisainan/vue2) - 💯 比较好的vue2.X项目,值得借鉴与学习
@@ -2299,7 +2299,7 @@
 *   [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 *   [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 *   [pingan8787/Leo-JavaScript](https://github.com/pingan8787/Leo-JavaScript) - 欢迎关注公众号“前端自习课”，本仓库包含丰富的前端学习资料，包括 JavaScript、前端框架、HTTP、GraphQL、TS、Vue、React、Webpack等，还有很多我的原创文章，喜欢的朋友欢迎stat。:rocket:持续更新中...
-*   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager \[GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
+*   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
 *   [thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy) - A game for learning CSS flexbox 🐸
 *   [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 *   [nano-react-app/nano-react-app](https://github.com/nano-react-app/nano-react-app) - 🔍 A truly minimal replacement for Create-React-App.
