@@ -2818,7 +2818,7 @@
 *   [didi/cube-ui](https://github.com/didi/cube-ui) - :large\_orange\_diamond: A fantastic mobile ui lib implement by Vue
 *   [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
 *   [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
-*   [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
+*   [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 *   [ecomfe/fontmin](https://github.com/ecomfe/fontmin) - Minify font seamlessly
 *   [ecomfe/esl](https://github.com/ecomfe/esl) - enterprise standard loader
 *   [ElemeFE/element-helper](https://github.com/ElemeFE/element-helper) - 🚀 Element-Helper is a Atom package for Element-UI.
