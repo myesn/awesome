@@ -663,6 +663,7 @@
 *   [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 *   [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 *   [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
+*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 *   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 *   [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 *   [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
@@ -2901,7 +2902,6 @@
 *   [eggjs/examples](https://github.com/eggjs/examples) - Store all egg examples in one place
 *   [nmarus/node-ews](https://github.com/nmarus/node-ews) - A simple JSON wrapper for the Exchange Web Services (EWS) SOAP API.
 *   [cloudroc/baidu-nolimit](https://github.com/cloudroc/baidu-nolimit) - 百度云大文件下载破解,chrome插件
-*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 *   [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 *   [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 *   [postcss/autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
