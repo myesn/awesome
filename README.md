@@ -2005,7 +2005,7 @@
 *   [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
 *   [daxnet/forms-ui](https://github.com/daxnet/forms-ui) - A Windows Forms library for solving real life problems.
 *   [martincostello/sqllocaldb](https://github.com/martincostello/sqllocaldb) - SQL LocalDB Wrapper is a .NET library providing interop with the Microsoft SQL Server LocalDB Instance API
-*   [Calabonga/Microservice-Template](https://github.com/Calabonga/Microservice-Template) - Templates for microservice architecture. It contains two modules of solutions (with OpenIddict and without OpenIddict). Templates are built on ASP.NET Core platform with different versions Core 3.1, NET 5, NET 6, NET 7
+*   [Calabonga/Microservice-Template](https://github.com/Calabonga/Microservice-Template) - Templates for microservice architecture. Nimble Microservice Framework contains two modules. The first with OpenIddict and the second without OpenIddict. Templates are built on ASP.NET Core platform with different versions Core 3.1, NET 5, NET 6, NET 7. You can create a new project extremely fast: in Visual Studio, Rider, dotnet CLI.
 *   [vla/BloomFilter.NetCore](https://github.com/vla/BloomFilter.NetCore) - A bloom filter implementation
 *   [DamianEdwards/MinimalApiPlayground](https://github.com/DamianEdwards/MinimalApiPlayground) - A place I'm trying out the new ASP.NET Core minimal APIs features.
 *   [2881099/csredis](https://github.com/2881099/csredis) - .NET Core or .NET Framework 4.0+ client for Redis and Redis Sentinel (2.8) and Cluster. Includes both synchronous and asynchronous clients.
