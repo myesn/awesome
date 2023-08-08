@@ -1094,7 +1094,7 @@
 *   [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 *   [joewalnes/web-vmstats](https://github.com/joewalnes/web-vmstats) - Prettify vmstats in your browser
 *   [azl397985856/daily-featured](https://github.com/azl397985856/daily-featured) - 不仅仅是冷冰冰的链接（Not just link）
-*   [deta/cloud-docs](https://github.com/deta/cloud-docs) - Legacy docs for Deta Cloud
+*   [deta/cloud-docs](https://github.com/deta/cloud-docs) - old docs. visit space docs instead:
 *   [cer/microservices-examples](https://github.com/cer/microservices-examples) - Examples of microservices
 *   [developit/snarkdown](https://github.com/developit/snarkdown) - :smirk\_cat: A snarky 1kb Markdown parser written in JavaScript
 *   [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
