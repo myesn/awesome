@@ -730,7 +730,7 @@
 *   [zu1k/translator](https://github.com/zu1k/translator) - 简单、轻量、好用的划词翻译软件
 *   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 *   [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 *   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 *   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -3643,7 +3643,6 @@
 *   [Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) - An awesome README template for your projects!
 *   [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 *   [xiaochunjimmy/Sogou-Input-Skin](https://github.com/xiaochunjimmy/Sogou-Input-Skin) - 搜狗拼音输入法的几款极简风格皮肤
-*   [bulianglin/demo](https://github.com/bulianglin/demo) - 阿巴阿巴阿巴阿巴阿巴阿巴阿巴阿巴
 *   [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 *   [linuxkerneltravel/linux\_kernel\_wiki](https://github.com/linuxkerneltravel/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 *   [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
@@ -4178,6 +4177,7 @@
 *   [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 *   [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 *   [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
+*   [bulianglin/demo](https://github.com/bulianglin/demo) - 阿巴阿巴阿巴阿巴阿巴阿巴阿巴阿巴
 *   [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。| https://awesome-toolbox-chinese.bestxtools.com/ | https://😎🧰.bestxtools.com/
 *   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 *   [jaywcjlove/shell-tutorial](https://github.com/jaywcjlove/shell-tutorial) - Shell入门教程（Shell tutorial book）
@@ -4237,7 +4237,7 @@
 *   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 *   [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - ⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end optimization, multi-platform and multi-framework support.
 *   [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
-*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Nintendo Switch上  |   Yet another Bilibili client
+*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita 和 Nintendo Switch上  |   Yet another Bilibili client
 *   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 *   [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 *   [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
