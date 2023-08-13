@@ -1366,8 +1366,8 @@
 *   [aspnet/KestrelHttpServer](https://github.com/aspnet/KestrelHttpServer) - \[Archived] A cross platform web server for ASP.NET Core. Project moved to https://github.com/aspnet/AspNetCore
 *   [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector) - MySQL Connector for .NET
 *   [abergs/RegExpBuilder](https://github.com/abergs/RegExpBuilder) - A library for building RegExpPattrerns
-*   [neekgreen/paginable-collections.aspnetcore](https://github.com/neekgreen/paginable-collections.aspnetcore) - Use PaginableCollections in AspNetCore! A set of extensions for Microsoft.Extensions.DependencyInjection.
-*   [neekgreen/paginable-collections](https://github.com/neekgreen/paginable-collections) - PaginableCollections is a set of abstractions and extensions used to provide developers with a consistent way to paginate their data across all .NET (and .NET Core) application stacks.
+*   [dataneek/paginable-collections.aspnetcore](https://github.com/dataneek/paginable-collections.aspnetcore) - Use PaginableCollections in AspNetCore! A set of extensions for Microsoft.Extensions.DependencyInjection.
+*   [dataneek/paginable-collections](https://github.com/dataneek/paginable-collections) - PaginableCollections is a set of abstractions and extensions used to provide developers with a consistent way to paginate their data across all .NET (and .NET Core) application stacks.
 *   [messagetemplates/messagetemplates-csharp](https://github.com/messagetemplates/messagetemplates-csharp) - A C# implementation of Message Templates
 *   [titarenko/OAuth2](https://github.com/titarenko/OAuth2) - OAuth2 client implementation for .NET
 *   [MichaCo/CacheManager](https://github.com/MichaCo/CacheManager) - CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
