@@ -3452,7 +3452,7 @@
 *   [snakerflow/snakerflow](https://github.com/snakerflow/snakerflow) - 简单、轻巧、灵活的工作流引擎
 *   [danbernier/WordCram](https://github.com/danbernier/WordCram) - open-source word clouds for Processing
 *   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
-*   [apache/dubbo](https://github.com/apache/dubbo) - Apache Dubbo is a high-performance, java based, open source RPC framework.
+*   [apache/dubbo](https://github.com/apache/dubbo) - The java implementation of Apache Dubbo. An RPC and microservice framework.
 *   [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document\_detail/137663.html) 团队出品，为监控而生的数据库连接池
 *   [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 *   [DuGuQiuBai/Java](https://github.com/DuGuQiuBai/Java) - 27天成为Java大神
