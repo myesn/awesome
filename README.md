@@ -147,6 +147,7 @@
 *   [XhmikosR/notepad2-mod](https://github.com/XhmikosR/notepad2-mod) - LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting
 *   [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 *   [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
+*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 *   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 *   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 *   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
@@ -176,7 +177,7 @@
 *   [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
 *   [unjs/citty](https://github.com/unjs/citty) - 🌆 Elegant CLI Builder
 *   [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
-*   [openai/openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
+*   [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
 *   [nestjs/mapped-types](https://github.com/nestjs/mapped-types) - Configuration module for Nest framework (node.js) 🐺
 *   [ddiu8081/fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker) - 🤣 Generate your own Fluent Emojis!
 *   [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
@@ -3543,7 +3544,6 @@
 *   [TakWolf/CNode-Material-Design](https://github.com/TakWolf/CNode-Material-Design) - CNode 社区第三方 Android 客户端，原生 App，Material Design 风格，支持夜间模式。
 *   [microsoft/team-explorer-everywhere](https://github.com/microsoft/team-explorer-everywhere) - Team Explorer Everywhere Plugin for Eclipse
 *   [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
-*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 *   [beefe/react-native-picker](https://github.com/beefe/react-native-picker) - A Native Picker with high performance.
 *   [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 *   [shuzheng/zheng](https://github.com/shuzheng/zheng) - 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
