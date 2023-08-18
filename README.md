@@ -242,7 +242,7 @@
 *   [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 *   [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
 *   [raunofreiberg/inspx](https://github.com/raunofreiberg/inspx) - Pixel perfect layout inspection.
-*   [chengpeiquan/learning-vue3](https://github.com/chengpeiquan/learning-vue3) - 《Vue3 入门指南与实战案例》，关于前端工程化、 TypeScript 、 Vue 3 以及 Pinia 的入门学习指南。
+*   [chengpeiquan/learning-vue3](https://github.com/chengpeiquan/learning-vue3) - 超过 230w+ 阅读人次的《Vue3 入门指南与实战案例》，关于前端工程化开发的基础知识点，以及 TypeScript 、 Vue 3 、 Pinia 的入门学习指南。
 *   [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 *   [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 *   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
@@ -392,6 +392,7 @@
 *   [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 *   [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
 *   [gajus/table](https://github.com/gajus/table) - Formats data into a string table.
+*   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 *   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
 *   [NaturalSelectionLabs/Unidata](https://github.com/NaturalSelectionLabs/Unidata) - 💡 Providing easy access to human-friendly Web3 data.
 *   [unjs/serve-placeholder](https://github.com/unjs/serve-placeholder) - ♡  Smart placeholder for missing assets
@@ -1704,7 +1705,6 @@
 *   [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
 *   [mindskip/xzs](https://github.com/mindskip/xzs) - 在线考试系统
 *   [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
-*   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 *   [vercel/nextjs-portfolio-starter](https://github.com/vercel/nextjs-portfolio-starter) - Easily create a portfolio with Next.js and Markdown.
 *   [fastify/light-my-request](https://github.com/fastify/light-my-request) - Fake HTTP injection library
 *   [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning
