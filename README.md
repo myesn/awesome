@@ -3663,7 +3663,7 @@
 *   [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
 *   [phpdish/phpdish](https://github.com/phpdish/phpdish) - :house: PHPDish is a powerful forum system written in PHP. It is based on the Symfony PHP Framework.
 *   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
-*   [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - :calling: 一款满足你的多种发送需求的短信发送组件
+*   [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 📲 一款满足你的多种发送需求的短信发送组件
 *   [walkor/workerman-vmstat](https://github.com/walkor/workerman-vmstat) - 在浏览器里面显示以更友好的方式实时显示vmstats信息，包括内存、IO、cpu等信息
 *   [metowolf/script](https://github.com/metowolf/script) - some exciting script :P
 *   [helei112g/payment](https://github.com/helei112g/payment) - Payment是php版本的支付聚合第三方sdk，集成了微信支付、支付宝支付、招商一网通支付。提供统一的调用接口，方便快速接入各种支付、查询、退款、转账能力。服务端接入支付功能，方便、快捷。
