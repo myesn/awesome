@@ -2270,7 +2270,7 @@
 *   [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 *   [pawelgrzybek/siema](https://github.com/pawelgrzybek/siema) - Siema - Lightweight and simple carousel in pure JavaScript
 *   [stevenwanderski/bxslider-4](https://github.com/stevenwanderski/bxslider-4) - Responsive jQuery content slider
-*   [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+*   [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 *   [jonschlinkert/is-number](https://github.com/jonschlinkert/is-number) - JavaScript/Node.js utility. Returns `true` if the value is a number or string number. Useful for checking regex match results, user input, parsed strings, etc.
 *   [gongph/one-api](https://github.com/gongph/one-api) - 韩寒「ONE · 一个」API接口文档整理，持续更新中... 仅供学习之用！ api文档地址：
 *   [mpetroff/pannellum](https://github.com/mpetroff/pannellum) - Pannellum is a lightweight, free, and open source panorama viewer for the web.
@@ -4094,6 +4094,7 @@
 *   [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
 *   [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 *   [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
+*   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 *   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 
 ## Vue
@@ -4439,7 +4440,6 @@
 *   [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
 *   [khang-nd/7.css](https://github.com/khang-nd/7.css) - A JS-independent, tree-shakeable CSS framework for building faithful recreations of the Windows 7 UI.
 *   [phuocng/this-vs-that](https://github.com/phuocng/this-vs-that) - What is the difference between \_\_\_ and \_\_\_ in the front-end development?
-*   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 *   [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 *   [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 *   [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
