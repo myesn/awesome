@@ -3790,6 +3790,7 @@
 *   [wangyongtao/ruankao\_itpm\_guide](https://github.com/wangyongtao/ruankao_itpm_guide) -  软考-信息系统项目管理师 & 系统集成项目管理师 备考指南
 *   [whx123/JavaHome](https://github.com/whx123/JavaHome) - 一份超级详细的Java面试题【大厂面试真题+Java学习指南+工作总结】
 *   [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 *   [liferay/liferay-portal](https://github.com/liferay/liferay-portal) -
 *   [learning-zone/react-basics](https://github.com/learning-zone/react-basics) - React Basics ( v18.x )
 *   [Seazean/JavaNote](https://github.com/Seazean/JavaNote) - 📁我不是的知识的生产者，我只是知识的搬运工
@@ -4082,7 +4083,7 @@
 *   [ABPFrameWorkGroup/AbpDocument2Chinese](https://github.com/ABPFrameWorkGroup/AbpDocument2Chinese) - Abp翻译文档
 *   [seayxu/git-guide](https://github.com/seayxu/git-guide) - Git 简易指南
 *   [EarsEyesMouth/computerese-cross-references](https://github.com/EarsEyesMouth/computerese-cross-references) - 计算机专业术语中英文对照。
-*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 科学上网-翻墙、免费科学上网、免费翻墙、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、免费科学上网、免费翻墙、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
 *   [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools) - A list of tools to extend the .NET Core command line (dotnet)
 
 ## MDX
@@ -4774,7 +4775,6 @@
 ## Makefile
 
 *   [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 *   [Einstore/Einstore](https://github.com/Einstore/Einstore) - Enterprise appstore for easy app deployment, completely open sourced
 *   [servicemesher/istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio服务网格进阶实战
 *   [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
