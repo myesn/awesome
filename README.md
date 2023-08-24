@@ -1439,7 +1439,7 @@
 *   [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 *   [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 *   [typings/typings](https://github.com/typings/typings) - *DEPRECATED* The TypeScript Definition Manager
-*   [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
+*   [eclipse/che](https://github.com/eclipse/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
 *   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 *   [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 *   [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
@@ -4179,7 +4179,7 @@
 *   [euvl/vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) - :fish\_cake: Vue.js 2 toggle / switch button - simple, pretty, customizable
 *   [euvl/vue-js-modal](https://github.com/euvl/vue-js-modal) - Easy to use, highly customizable Vue.js modal library.
 *   [grishkovelli/vue-audio-recorder](https://github.com/grishkovelli/vue-audio-recorder) - A simple audio recorder for VueJS applications
-*   [meloalright/vue-ins-progress-bar](https://github.com/meloalright/vue-ins-progress-bar) - ins 风格的 Vue 进度条组件
+*   [meloalright/vue-ins-progress-bar](https://github.com/meloalright/vue-ins-progress-bar) - Rainbow progress bar Vue component in instagram style 🌈 Instagram 风格的 Vue 彩虹进度条组件
 *   [vinz3872/vuejs-tree](https://github.com/vinz3872/vuejs-tree) - A highly customizable and blazing fast Vue tree component ⚡🌲
 *   [euvl/vue-js-grid](https://github.com/euvl/vue-js-grid) - :bento:  Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
 *   [jeneser/douban](https://github.com/jeneser/douban) - Awesome douban DEMO created with Vue2.x + Vuex + Vue-router + Superagent
