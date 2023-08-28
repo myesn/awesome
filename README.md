@@ -146,7 +146,7 @@
 *   [ScottPlot/ScottPlot](https://github.com/ScottPlot/ScottPlot) - Interactive plotting library for .NET
 *   [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 *   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
-*   [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio
+*   [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio & CLI
 *   [lepoco/wpfui](https://github.com/lepoco/wpfui) - WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.
 *   [inthehand/32feet](https://github.com/inthehand/32feet) - Personal Area Networking for .NET
 *   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
@@ -1505,7 +1505,7 @@
 
 ## JavaScript
 
-*   [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - webrtc media(file, video, screen, live and others) transfer tool，p2p网页在线文件传输，跨终端，不限平台，内网不限速，支持私有部署，支持多文件拖拽发送，支持本地屏幕录制，远程屏幕共享，远程音视频通话，密码房间，直播，oss云存储，中继服务设置，webrtc检测，统计，文字传输，公共聊天，远程画板，丰富的后台管理，实时执行日志展示，机器人告警通知等功能
+*   [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text, etc.) with management and statistical monitoring capabilities.
 *   [beginor/beginor.github.io](https://github.com/beginor/beginor.github.io) -
 *   [beipiaoyu2011/flexible](https://github.com/beipiaoyu2011/flexible) - flexible 手淘适配H5
 *   [shrimpbighead/showBossActiveTime](https://github.com/shrimpbighead/showBossActiveTime) - 给boss直聘的搜索结果加上hr活跃状态，少看点半年活跃的岗位
