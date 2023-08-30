@@ -1159,7 +1159,7 @@
 *   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 *   [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 *   [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
-*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
+*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - The fastest React styling library that just happens to work on native, too.
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 *   [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 *   [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
