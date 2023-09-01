@@ -122,7 +122,7 @@
 *   [KirillOsenkov/MSBuildStructuredLog](https://github.com/KirillOsenkov/MSBuildStructuredLog) - A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.
 *   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 *   [victor-iyif/ferventdeserte](https://github.com/victor-iyif/ferventdeserte) - visualized crawler & ETL IDE written with C#/WPF
-*   [meysamhadeli/booking-microservices](https://github.com/meysamhadeli/booking-microservices) - A microservices, built with .Net, DDD, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
+*   [meysamhadeli/booking-microservices](https://github.com/meysamhadeli/booking-microservices) - A practical microservices, built with .Net, DDD, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
 *   [dotnet/dotnet-api-docs](https://github.com/dotnet/dotnet-api-docs) - .NET API reference documentation (.NET 5+, .NET Core, .NET Framework)
 *   [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 *   [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
@@ -350,7 +350,7 @@
 *   [tmds/Tmds.Systemd](https://github.com/tmds/Tmds.Systemd) - .NET Core library for interacting with systemd
 *   [Kooboo/Kooboo](https://github.com/Kooboo/Kooboo) - A new web development methodology for JavaScript & C# developers.  A super fast and very easy to use CMS.
 *   [SkyChenSky/Sikiro.Dapper.Extension](https://github.com/SkyChenSky/Sikiro.Dapper.Extension) - This is an extension based on dapper, supporting lambda expression, with chain style which allows developers to use more gracely and innovationally.
-*   [ldqk/Masuit.Tools](https://github.com/ldqk/Masuit.Tools) - 新手友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载和FTP客户端，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！
+*   [ldqk/Masuit.Tools](https://github.com/ldqk/Masuit.Tools) - 新手友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！
 *   [Lokad/ILPack](https://github.com/Lokad/ILPack) - Serialize .NET Core assemblies
 *   [hardkoded/puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp) - Headless Chrome .NET API
 *   [tmoonlight/NSmartProxy](https://github.com/tmoonlight/NSmartProxy) - NSmartProxy是一款开源的内网穿透工具。采用.NET CORE的全异步模式打造。(NSmartProxy is an open source reverse proxy tool that creates a secure tunnel from a public endpoint to a locally service.)
