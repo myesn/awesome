@@ -42,7 +42,6 @@
 *   [Perl](#perl)
 *   [Clojure](#clojure)
 *   [Cuda](#cuda)
-*   [VBScript](#vbscript)
 *   [Lua](#lua)
 *   [PEG.js](#pegjs)
 *   [PowerShell](#powershell)
@@ -59,6 +58,7 @@
 *   [Svelte](#svelte)
 *   [Groovy](#groovy)
 *   [Sass](#sass)
+*   [VBScript](#vbscript)
 *   [CoffeeScript](#coffeescript)
 *   [Handlebars](#handlebars)
 *   [Less](#less)
@@ -1160,7 +1160,7 @@
 *   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 *   [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 *   [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
-*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - The fastest React styling library that just happens to work on native, too.
+*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - The fastest React style library just happens to work on native, too.
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 *   [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 *   [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -1657,6 +1657,7 @@
 *   [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 *   [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 *   [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste)
+*   [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader) - 超方便的微信视频号下载器
 *   [liguobao/58HouseSearch](https://github.com/liguobao/58HouseSearch) - 地图搜租房【微信公众号、小程序：人生删除指南】
 *   [rcdexta/react-trello](https://github.com/rcdexta/react-trello) - Pluggable components to add a kanban board to your application
 *   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -4731,11 +4732,6 @@
 
 *   [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 
-## VBScript
-
-*   [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader) - 超方便的微信视频号下载器
-*   [imgVOID/jetbrains-license-2020](https://github.com/imgVOID/jetbrains-license-2020) - JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!
-
 ## Lua
 
 *   [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -4819,6 +4815,10 @@
 
 *   [jgthms/wysiwyg.css](https://github.com/jgthms/wysiwyg.css) - A tiny CSS for generated HTML or Markdown content
 *   [raphaelfabeni/css-loader](https://github.com/raphaelfabeni/css-loader) - Simple loaders for your web applications using only one div and pure CSS :heart:
+
+## VBScript
+
+*   [imgVOID/jetbrains-license-2020](https://github.com/imgVOID/jetbrains-license-2020) - JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!
 
 ## CoffeeScript
 
