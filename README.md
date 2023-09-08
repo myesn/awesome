@@ -5,8 +5,9 @@
 ## Table of Contents
 
 *   [C#](#c)
-*   [C++](#c-1)
 *   [TypeScript](#typescript)
+*   [Shell](#shell)
+*   [C++](#c-1)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [Go](#go)
@@ -20,7 +21,6 @@
 *   [Vue](#vue)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Astro](#astro)
-*   [Shell](#shell)
 *   [Starlark](#starlark)
 *   [Elixir](#elixir)
 *   [Swift](#swift)
@@ -70,6 +70,8 @@
 
 ## C\#
 
+*   [notion-dotnet/notion-sdk-net](https://github.com/notion-dotnet/notion-sdk-net) - A Notion SDK for .Net
+*   [russkyc/groomwise](https://github.com/russkyc/groomwise) - A Pet Grooming CRM
 *   [PrismLibrary/Prism](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Xamarin Forms, and Uno / Win UI Applications..
 *   [ookii-dialogs/ookii-dialogs-wpf](https://github.com/ookii-dialogs/ookii-dialogs-wpf) - Awesome dialogs for Windows Desktop applications built with Microsoft .NET (WPF)
 *   [ButchersBoy/Dragablz](https://github.com/ButchersBoy/Dragablz) - Dragable and tearable tab control for WPF
@@ -739,98 +741,10 @@
 *   [IdentityServer/IdentityServer4.WsFederation](https://github.com/IdentityServer/IdentityServer4.WsFederation) - Sample for implementing WS-Federation IdP support for IdentityServer4
 *   [OrchardCMS/Orchard](https://github.com/OrchardCMS/Orchard) - Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.
 *   [dsbenghe/Novell.Directory.Ldap.NETStandard](https://github.com/dsbenghe/Novell.Directory.Ldap.NETStandard) - LDAP client library for .NET Standard 1.3 up to 2.1 and NET5/NET6 - works with any LDAP protocol compatible directory server (including Microsoft Active Directory).
-*   [scriptcs/scriptcs](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
-*   [Azure/DotNetty](https://github.com/Azure/DotNetty) - DotNetty project – a port of netty, event-driven asynchronous network application framework
-*   [microsoft/referencesource](https://github.com/microsoft/referencesource) - Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework
-
-## C++
-
-*   [kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) - bcrypt for NodeJs
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
-*   [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
-*   [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
-*   [X-Profiler/xprofiler](https://github.com/X-Profiler/xprofiler) - 🌀An addon for node.js, which supporting output performance log and real-time profiling through sampling.
-*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-*   [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - ⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end optimization, multi-platform and multi-framework support.
-*   [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
-*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita 和 Nintendo Switch上  |   Yet another Bilibili client
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-*   [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
-*   [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
-*   [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
-*   [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-*   [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
-*   [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
-*   [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
-*   [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
-*   [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
-*   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
-*   [y123456yz/reading-and-annotate-mongodb-3.6](https://github.com/y123456yz/reading-and-annotate-mongodb-3.6) - 分布式文档数据库mongodb-3.6(mongos、mongod、wiredtiger存储引擎)源码中文注释分析，持续更新。后期重点进行mongodb-4.4最新版本内核源码分析
-*   [vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader) - （已长久停更）
-*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
-*   [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
-*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-*   [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-*   [erickutcher/httpdownloader](https://github.com/erickutcher/httpdownloader) - HTTP(S) download manager that uses input/output completion ports (IOCP).
-*   [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
-*   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
-*   [ideawu/ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis
-*   [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
-*   [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf\_events
-*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-*   [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
-*   [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
-*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
-*   [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
-*   [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
-*   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
-*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-*   [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
-*   [DayBreak-u/chineseocr\_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
-*   [dchapyshev/aspia](https://github.com/dchapyshev/aspia) - Remote desktop and file transfer tool.
-*   [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人 、微信接口、企微、企微hook、企业微信接口、WXWork
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-*   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
-*   [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
-*   [rootm0s/Injectors](https://github.com/rootm0s/Injectors) - 💉 DLL/Shellcode injection techniques
-*   [shadowsocks/shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) - A cross-platform shadowsocks GUI client
-*   [OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika) - Pika is a NoSQL database compatible with redis which is developed by Qihoo's infrastructure team.
-*   [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
-*   [me115/design\_patterns](https://github.com/me115/design_patterns) - 图说设计模式
-*   [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
-*   [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-*   [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-*   [yangyangwithgnu/hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
-*   [Tencent/mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
-*   [pmq20/node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
-*   [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
-*   [aspnet/dnx](https://github.com/aspnet/dnx) - OBSOLETE - see readme
-*   [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
-*   [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
-*   [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
-*   [microsoft/vswhere](https://github.com/microsoft/vswhere) - Locate Visual Studio 2017 and newer installations
-*   [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-*   [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
-*   [alibaba/AliSQL](https://github.com/alibaba/AliSQL) - AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.
-*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-*   [Qihoo360/QConf](https://github.com/Qihoo360/QConf) - Qihoo Distributed Configuration Management System
-*   [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
-*   [wangyu-/tinyfecVPN](https://github.com/wangyu-/tinyfecVPN) - A VPN Designed for Lossy Links, with Build-in Forward Error Correction(FEC) Support. Improves your Network Quality on a High-latency Lossy Link.
-*   [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
-*   [XhmikosR/notepad2-mod](https://github.com/XhmikosR/notepad2-mod) - LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting
-*   [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
-*   [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
-*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-*   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
-*   [HostsTools/Windows](https://github.com/HostsTools/Windows) - Hosts tool for googlehosts/hosts
-*   [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 
 ## TypeScript
 
+*   [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 *   [yuaanlin/pick-time.io](https://github.com/yuaanlin/pick-time.io) - A tool that help you pick time with friends. 一款幫助您和朋友喬時間的工具。
 *   [yuaanlin/yuanlin.dev](https://github.com/yuaanlin/yuanlin.dev) - The main repository of my blog (https://yuanlin.dev/), made with Next.js and TailwindCss.
 *   [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - 免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
@@ -1254,6 +1168,7 @@
 *   [esbuild-kit/esbuild-loader](https://github.com/esbuild-kit/esbuild-loader) - Webpack loader for esbuild: Speed up your build ⚡️
 *   [youzan/zent](https://github.com/youzan/zent) - A collection of essential UI components written with React.
 *   [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
+*   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 *   [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 *   [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 *   [mengsixing/cdfang-spider](https://github.com/mengsixing/cdfang-spider) - 📊 成都房协网数据分析，喜欢请点 star！
@@ -1458,6 +1373,154 @@
 *   [nobrainr/morphism](https://github.com/nobrainr/morphism) - ⚡ Type-safe data transformer for JavaScript, TypeScript & Node.js.
 *   [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
 
+## Shell
+
+*   [pengzhile/cocopilot](https://github.com/pengzhile/cocopilot) - 你可以把它称为：联合副驾驶。
+*   [goldze/Anti-Android-KM](https://github.com/goldze/Anti-Android-KM) - 破解某猫社区VIP会员
+*   [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
+*   [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+*   [kamranahmedse/db-playground](https://github.com/kamranahmedse/db-playground) - Easily create a sandbox environment for your database exploration.
+*   [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
+*   [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
+*   [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
+*   [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
+*   [bulianglin/demo](https://github.com/bulianglin/demo) - 阿巴阿巴阿巴阿巴阿巴阿巴阿巴阿巴
+*   [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。| https://awesome-toolbox-chinese.bestxtools.com/ | https://😎🧰.bestxtools.com/
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+*   [jaywcjlove/shell-tutorial](https://github.com/jaywcjlove/shell-tutorial) - Shell入门教程（Shell tutorial book）
+*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 一键更换系统软件源脚本
+*   [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
+*   [aheckmann/m](https://github.com/aheckmann/m) - mongodb version management
+*   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.
+*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+*   [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
+*   [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端 （Java Golang）全栈知识架构体系总结
+*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+*   [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+*   [hq450/fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
+*   [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+*   [LeCoupa/awesome-bootstrappers](https://github.com/LeCoupa/awesome-bootstrappers) - 👩‍🚀👨‍🚀 Must-read articles, videos and books for coders, marketers and bootstrappers.
+*   [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
+*   [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
+*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+*   [esrrhs/xiaohuangji](https://github.com/esrrhs/xiaohuangji) - 小黄鸡表情收集
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+*   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
+*   [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+*   [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook
+*   [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+*   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
+*   [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
+*   [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
+*   [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
+*   [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
+*   [thomasxu1991/WeChat-Emoticon](https://github.com/thomasxu1991/WeChat-Emoticon) - 微信表情商店部分表情
+*   [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
+*   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+*   [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
+*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
+*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
+*   [jdaaaaaavid/mysql\_best\_configuration](https://github.com/jdaaaaaavid/mysql_best_configuration) - MySQL Optimal  Configuration Template
+*   [teddysun/shadowsocks\_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+*   [aliyun-node/tnvm](https://github.com/aliyun-node/tnvm) - The Node version manager
+*   [redhat-developer/s2i-dotnetcore](https://github.com/redhat-developer/s2i-dotnetcore) - .NET Core OpenShift images
+*   [wangdoc/webapi-tutorial](https://github.com/wangdoc/webapi-tutorial) - Web API 教程
+*   [oracle/docker-images](https://github.com/oracle/docker-images) - Official source of container configurations, images, and examples for Oracle products and projects
+*   [oneinstack/oneinstack](https://github.com/oneinstack/oneinstack) - OneinStack - A PHP/JAVA Deployment Tool
+*   [xuexb/learn-nginx](https://github.com/xuexb/learn-nginx) - Nginx 入门指南
+*   [tj/n](https://github.com/tj/n) - Node version management
+*   [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
+
+## C++
+
+*   [kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) - bcrypt for NodeJs
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+*   [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
+*   [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
+*   [X-Profiler/xprofiler](https://github.com/X-Profiler/xprofiler) - 🌀An addon for node.js, which supporting output performance log and real-time profiling through sampling.
+*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
+*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+*   [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) - ⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end optimization, multi-platform and multi-framework support.
+*   [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
+*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita 和 Nintendo Switch上  |   Yet another Bilibili client
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+*   [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
+*   [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
+*   [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+*   [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
+*   [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
+*   [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
+*   [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
+*   [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+*   [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
+*   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
+*   [y123456yz/reading-and-annotate-mongodb-3.6](https://github.com/y123456yz/reading-and-annotate-mongodb-3.6) - 分布式文档数据库mongodb-3.6(mongos、mongod、wiredtiger存储引擎)源码中文注释分析，持续更新。后期重点进行mongodb-4.4最新版本内核源码分析
+*   [vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader) - （已长久停更）
+*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
+*   [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
+*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+*   [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+*   [erickutcher/httpdownloader](https://github.com/erickutcher/httpdownloader) - HTTP(S) download manager that uses input/output completion ports (IOCP).
+*   [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
+*   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+*   [ideawu/ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis
+*   [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
+*   [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf\_events
+*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+*   [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
+*   [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
+*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
+*   [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
+*   [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
+*   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
+*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+*   [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
+*   [DayBreak-u/chineseocr\_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
+*   [dchapyshev/aspia](https://github.com/dchapyshev/aspia) - Remote desktop and file transfer tool.
+*   [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人 、微信接口、企微、企微hook、企业微信接口、WXWork
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+*   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
+*   [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
+*   [rootm0s/Injectors](https://github.com/rootm0s/Injectors) - 💉 DLL/Shellcode injection techniques
+*   [shadowsocks/shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) - A cross-platform shadowsocks GUI client
+*   [OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika) - Pika is a NoSQL database compatible with redis which is developed by Qihoo's infrastructure team.
+*   [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
+*   [me115/design\_patterns](https://github.com/me115/design_patterns) - 图说设计模式
+*   [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
+*   [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+*   [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+*   [yangyangwithgnu/hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
+*   [Tencent/mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
+*   [pmq20/node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
+*   [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
+*   [aspnet/dnx](https://github.com/aspnet/dnx) - OBSOLETE - see readme
+*   [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
+*   [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
+*   [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
+*   [microsoft/vswhere](https://github.com/microsoft/vswhere) - Locate Visual Studio 2017 and newer installations
+*   [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+*   [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
+*   [alibaba/AliSQL](https://github.com/alibaba/AliSQL) - AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.
+*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+*   [Qihoo360/QConf](https://github.com/Qihoo360/QConf) - Qihoo Distributed Configuration Management System
+*   [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
+*   [wangyu-/tinyfecVPN](https://github.com/wangyu-/tinyfecVPN) - A VPN Designed for Lossy Links, with Build-in Forward Error Correction(FEC) Support. Improves your Network Quality on a High-latency Lossy Link.
+*   [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
+*   [XhmikosR/notepad2-mod](https://github.com/XhmikosR/notepad2-mod) - LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting
+*   [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
+*   [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
+*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+*   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
+*   [HostsTools/Windows](https://github.com/HostsTools/Windows) - Hosts tool for googlehosts/hosts
+*   [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
+
 ## Rust
 
 *   [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
@@ -1643,7 +1706,7 @@
 *   [smpnjn/ankor](https://github.com/smpnjn/ankor) -
 *   [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 *   [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
-*   [imaegoo/twikoo](https://github.com/imaegoo/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
+*   [twikoojs/twikoo](https://github.com/twikoojs/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 *   [AllJointTW/clean-code-javascript](https://github.com/AllJointTW/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript （無瑕的程式碼 JavaScript）
 *   [davidmarkclements/0x](https://github.com/davidmarkclements/0x) - 🔥 single-command flamegraph profiling 🔥
 *   [sindresorhus/boxen](https://github.com/sindresorhus/boxen) - Create boxes in the terminal
@@ -2746,7 +2809,6 @@
 *   [aui/art-template](https://github.com/aui/art-template) - High performance JavaScript templating engine
 *   [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 *   [floatinghotpot/qqbot](https://github.com/floatinghotpot/qqbot) - :fire: SmartQQ Robot and API Server, powered by node.js
-*   [strongloop/microgateway](https://github.com/strongloop/microgateway) - IBM API Connect Microgateway framework, built on Node.js & Nginx
 
 ## Go
 
@@ -4167,7 +4229,6 @@
 *   [artiely/admin-0-1](https://github.com/artiely/admin-0-1) - 管理系统从0到1系列
 *   [artiely/vue-admin-iview](https://github.com/artiely/vue-admin-iview) - vue后端管理系统界面 基于ui组件iview
 *   [artiely/vue-admin](https://github.com/artiely/vue-admin) - 基于and-design-vue的vue后台管理系统模板
-*   [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 *   [DataV-Team/DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
 *   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 *   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -4255,67 +4316,6 @@
 
 *   [Ekarmore/ekar.site](https://github.com/Ekarmore/ekar.site) - My Personal Website
 *   [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
-
-## Shell
-
-*   [goldze/Anti-Android-KM](https://github.com/goldze/Anti-Android-KM) - 破解某猫社区VIP会员
-*   [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
-*   [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
-*   [kamranahmedse/db-playground](https://github.com/kamranahmedse/db-playground) - Easily create a sandbox environment for your database exploration.
-*   [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
-*   [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
-*   [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
-*   [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
-*   [bulianglin/demo](https://github.com/bulianglin/demo) - 阿巴阿巴阿巴阿巴阿巴阿巴阿巴阿巴
-*   [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。| https://awesome-toolbox-chinese.bestxtools.com/ | https://😎🧰.bestxtools.com/
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-*   [jaywcjlove/shell-tutorial](https://github.com/jaywcjlove/shell-tutorial) - Shell入门教程（Shell tutorial book）
-*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 一键更换系统软件源脚本
-*   [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
-*   [aheckmann/m](https://github.com/aheckmann/m) - mongodb version management
-*   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-*   [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.
-*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-*   [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
-*   [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端 （Java Golang）全栈知识架构体系总结
-*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-*   [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
-*   [hq450/fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
-*   [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-*   [LeCoupa/awesome-bootstrappers](https://github.com/LeCoupa/awesome-bootstrappers) - 👩‍🚀👨‍🚀 Must-read articles, videos and books for coders, marketers and bootstrappers.
-*   [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
-*   [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
-*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-*   [esrrhs/xiaohuangji](https://github.com/esrrhs/xiaohuangji) - 小黄鸡表情收集
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-*   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
-*   [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-*   [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook
-*   [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
-*   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
-*   [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-*   [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
-*   [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
-*   [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
-*   [thomasxu1991/WeChat-Emoticon](https://github.com/thomasxu1991/WeChat-Emoticon) - 微信表情商店部分表情
-*   [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
-*   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-*   [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
-*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
-*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
-*   [jdaaaaaavid/mysql\_best\_configuration](https://github.com/jdaaaaaavid/mysql_best_configuration) - MySQL Optimal  Configuration Template
-*   [teddysun/shadowsocks\_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-*   [aliyun-node/tnvm](https://github.com/aliyun-node/tnvm) - The Node version manager
-*   [redhat-developer/s2i-dotnetcore](https://github.com/redhat-developer/s2i-dotnetcore) - .NET Core OpenShift images
-*   [wangdoc/webapi-tutorial](https://github.com/wangdoc/webapi-tutorial) - Web API 教程
-*   [oracle/docker-images](https://github.com/oracle/docker-images) - Official source of container configurations, images, and examples for Oracle products and projects
-*   [oneinstack/oneinstack](https://github.com/oneinstack/oneinstack) - OneinStack - A PHP/JAVA Deployment Tool
-*   [xuexb/learn-nginx](https://github.com/xuexb/learn-nginx) - Nginx 入门指南
-*   [tj/n](https://github.com/tj/n) - Node version management
-*   [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 
 ## Starlark
 
