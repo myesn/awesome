@@ -1982,7 +1982,7 @@
 *   [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
 *   [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale, as easy as 1-2-3. Serverless & distributed out-of-the-box. Never fail to scale!
 *   [adoxography/tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar) - Scrollbar plugin for Tailwind CSS
-*   [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
+*   [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 *   [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, sourcegraph, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers. Please follow gray-matter's author: https://github.com/jonschlinkert
 *   [felixfbecker/node-sql-template-strings](https://github.com/felixfbecker/node-sql-template-strings) - ES6 tagged template strings for prepared SQL statements 📋
 *   [Ice-Hazymoon/163\_daka](https://github.com/Ice-Hazymoon/163_daka) - 网易云每日刷歌打卡应用
@@ -2528,7 +2528,6 @@
 *   [luoxue-victor/workflow](https://github.com/luoxue-victor/workflow) - 一个工作流平台
 *   [gxtrobot/bustag](https://github.com/gxtrobot/bustag) - a tag and recommend system for old bus driver 给老司机用的一个番号推荐系统
 *   [KOHGYLW/kiftd](https://github.com/KOHGYLW/kiftd) - sky driver & cloud driver open source server application : kiftd . welcome to the home page: https://kohgylw.gitee.io/ to quick start——kiftd是一款专门面向个人、团队和小型组织的私有网盘系统。轻量、开源、完善。无论是在家庭、学校还是在办公室，您都能立刻开始使用它！了解更多请访问官方网站：
-*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
 *   [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 *   [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
 *   [cburgmer/rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) - Renders HTML into the browser's canvas
@@ -3432,6 +3431,7 @@
 *   [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
 *   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
 *   [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 *   [YaoFANGUK/video-subtitle-generator](https://github.com/YaoFANGUK/video-subtitle-generator) - 视频音频生成字幕，生成srt文件。无需申请第三方API，本地实现音频转文本。基于Transformer的视频字幕生成框架。A GUI tool for generating subtitle from videos and generating srt files.
 *   [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 *   [microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) - Example models using DeepSpeed
@@ -4303,7 +4303,6 @@
 *   [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 *   [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
-*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 *   [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
 *   [afizs/chatgpt-clone](https://github.com/afizs/chatgpt-clone) - Build Your own ChatGPT with OpenAI API and Streamlit
 *   [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
@@ -4545,6 +4544,7 @@
 *   [sindresorhus/multi-download](https://github.com/sindresorhus/multi-download) - Download multiple files at once in the browser
 *   [sense-of-security/ADRecon](https://github.com/sense-of-security/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
 *   [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
+*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 *   [windsting/little-aspnetcore-book](https://github.com/windsting/little-aspnetcore-book) - 简明 ASP.NET Core 手册
 *   [bit365/weframework](https://github.com/bit365/weframework) - 零度微框架开源，更多内容访问我们。
@@ -4639,7 +4639,7 @@
 *   [sshiqiao/douyin-ios-objectc](https://github.com/sshiqiao/douyin-ios-objectc) - 抖音 iOS Object-C版
 *   [jkpang/PPRows](https://github.com/jkpang/PPRows) - It Can Calculate how many lines of code you write on Mac ; 在Mac上计算你写了多少行代码
 *   [facebook/idb](https://github.com/facebook/idb) - idb is a flexible command line interface for automating iOS simulators and devices
-*   [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets
+*   [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash for iOS was discontinued. Please check out Dash for macOS instead.
 *   [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open\_file\_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 *   [TKkk-iOSer/WeChatPlugin-iOS](https://github.com/TKkk-iOSer/WeChatPlugin-iOS) -
 
