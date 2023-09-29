@@ -948,7 +948,7 @@
 *   [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 *   [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 *   [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
-*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 *   [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 *   [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 *   [sxei/vscode-plugin-demo](https://github.com/sxei/vscode-plugin-demo) - VSCode插件开发全攻略配套demo
@@ -2261,7 +2261,7 @@
 *   [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 *   [fregante/text-field-edit](https://github.com/fregante/text-field-edit) - Insert text in a \<textarea> and \<input> (supports Firefox and Undo)
 *   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
-*   [data-observe/datav](https://github.com/data-observe/datav) - Datav is an observability platform with native support for OpenTelemetry, Prometheus and Jaeger.  :unicorn: You can conveniently view metrics, traces, and logs all in one place and correlate them seamlessly. 📈 It can also be considered as an alternative to Grafana in observability scenarios.
+*   [data-observe/datav](https://github.com/data-observe/datav) - Datav is an observability platform with native support for OpenTelemetry, Prometheus and Jaeger.  :unicorn: You can conveniently view metrics, traces, and logs all in one place and correlate them seamlessly. 📈It is fully customizable and very friendly for developers.
 *   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 *   [alibaba/lowcode-demo](https://github.com/alibaba/lowcode-demo) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 *   [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
@@ -3277,7 +3277,7 @@
 *   [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document\_detail/137663.html) 团队出品，为监控而生的数据库连接池
 *   [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 *   [DuGuQiuBai/Java](https://github.com/DuGuQiuBai/Java) - 27天成为Java大神
-*   [TakWolf/CNode-Material-Design](https://github.com/TakWolf/CNode-Material-Design) - CNode 社区第三方 Android 客户端，原生 App，Material Design 风格，支持夜间模式。
+*   [TakWolf-Deprecated/CNode-Material-Design](https://github.com/TakWolf-Deprecated/CNode-Material-Design) - CNode 社区第三方 Android 客户端，原生 App，Material Design 风格，支持夜间模式。
 *   [microsoft/team-explorer-everywhere](https://github.com/microsoft/team-explorer-everywhere) - Team Explorer Everywhere Plugin for Eclipse
 *   [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 *   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
@@ -4579,7 +4579,7 @@
 *   [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
 *   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 *   [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书
-*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 *   [nestcn/docs.nestjs.cn](https://github.com/nestcn/docs.nestjs.cn) - nestjs 中文文档
 *   [lisahust/FDExam\_Note](https://github.com/lisahust/FDExam_Note) - 2021软考系统架构设计师笔记
 *   [lcx12901/v2ray-](https://github.com/lcx12901/v2ray-) - 收集开源节点
@@ -4905,7 +4905,7 @@
 
 ## Svelte
 
-*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
+*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Groovy
 
