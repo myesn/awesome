@@ -2074,7 +2074,7 @@
 *   [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
 *   [nestjs/mapped-types](https://github.com/nestjs/mapped-types) - Configuration module for Nest framework (node.js) 🐺
 *   [ddiu8081/fluent-emoji-maker](https://github.com/ddiu8081/fluent-emoji-maker) - 🤣 Generate your own Fluent Emojis!
-*   [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
+*   [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 *   [okisdev/ChatChat](https://github.com/okisdev/ChatChat) - Chat Chat, unlock your next level AI conversation experience. Deploy your own AI Interface, all AI in one place.
 *   [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 *   [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
