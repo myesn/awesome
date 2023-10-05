@@ -880,7 +880,7 @@
 *   [imba97/js](https://github.com/imba97/js) - javascript bookmark
 *   [lindell/JsBarcode](https://github.com/lindell/JsBarcode) - Barcode generation library written in JavaScript that works in both the browser and on Node.js
 *   [remix-run/history](https://github.com/remix-run/history) - Manage session history with JavaScript
-*   [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 *   [evanwashere/mitata](https://github.com/evanwashere/mitata) - cross-runtime benchmarking lib and cli
 *   [sindresorhus/temp-dir](https://github.com/sindresorhus/temp-dir) - Get the real path of the system temp directory
 *   [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
