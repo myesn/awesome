@@ -836,7 +836,7 @@
 *   [hujiulong/simple-react](https://github.com/hujiulong/simple-react) - simple react
 *   [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 *   [ArekSredzki/electron-release-server](https://github.com/ArekSredzki/electron-release-server) - A fully featured, self-hosted release server for electron applications, compatible with auto-updater.
-*   [changcheng1/simple\_React](https://github.com/changcheng1/simple_React) - 基于最新版React18，源码精简至3500行代码，包含超700行注释，包含最核心的代码，图解React
+*   [changcheng1/mini\_React](https://github.com/changcheng1/mini_React) - 基于最新版React18，源码精简至3500行代码，包含超700行注释，包含最核心的代码，图解React
 *   [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) -  M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
 *   [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 *   [yisainan/vue2](https://github.com/yisainan/vue2) - 💯 比较好的vue2.X项目,值得借鉴与学习
@@ -2194,7 +2194,7 @@
 *   [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 *   [ashleydavis/pnpm-workspace-examples](https://github.com/ashleydavis/pnpm-workspace-examples) - Example code showing how to create a multi-package mono repo using pnpm.
 *   [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
-*   [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
+*   [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer
 *   [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 *   [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Minimalistic project template to jump start a Node.js back-end application in TypeScript. ESLint, Jest and type definitions included.
 *   [bitjson/typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
@@ -4409,7 +4409,7 @@
 
 ## Astro
 
-*   [Ekarmore/ekar.site](https://github.com/Ekarmore/ekar.site) - My Personal Website
+*   [olcchi/ekar.site](https://github.com/olcchi/ekar.site) - My Personal Website
 *   [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
 *   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
