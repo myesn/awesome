@@ -1312,7 +1312,7 @@
 *   [praeclarum/FuGetGallery](https://github.com/praeclarum/FuGetGallery) - An alternative web UI for browsing nuget packages
 *   [dotnetcore/AgileConfig](https://github.com/dotnetcore/AgileConfig) - 基于.NET Core开发的轻量级分布式配置中心 / .NET  Core lightweight configuration server
 *   [zmjack/Chinese](https://github.com/zmjack/Chinese) - 中文解析通用工具。包括拼音，简繁转换，数字读法，货币读法。
-*   [PiranhaCMS/piranha.core](https://github.com/PiranhaCMS/piranha.core) - Piranha CMS is the friendly editor-focused CMS for .NET6 that can be used both as an integrated CMS or as a headless API.
+*   [PiranhaCMS/piranha.core](https://github.com/PiranhaCMS/piranha.core) - Piranha CMS is the friendly editor-focused CMS for .NET that can be used both as an integrated CMS or as a headless API.
 *   [abock/dotnet-ecoji](https://github.com/abock/dotnet-ecoji) - 😻 Encode and decode data using emoji in .NET❣️ Like base64, except base1024, and uses an emoji alphabet. 🎉
 *   [TortugaResearch/DotNet-ORM-Cookbook](https://github.com/TortugaResearch/DotNet-ORM-Cookbook) - This repository is meant to show how to perform common tasks using C# with variety of ORMs.
 *   [vbilopav/NoOrm.Net](https://github.com/vbilopav/NoOrm.Net) - Fast, modern and extendible C# Data Access library
@@ -4671,7 +4671,7 @@
 *   [LeaVerou/animatable](https://github.com/LeaVerou/animatable) - One property, two values, endless possiblities
 *   [atifaziz/High5](https://github.com/atifaziz/High5) - HTML parsing & serialization toolset for .NET Standard
 *   [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
-*   [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
+*   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 *   [jasonmoo/t.js](https://github.com/jasonmoo/t.js) - A tiny javascript templating framework in ~400 bytes gzipped
 *   [jadjoubran/webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
 *   [hit9/img2txt](https://github.com/hit9/img2txt) - Image to Ascii Text with color support, can output to html or ansi terminal.
