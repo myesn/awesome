@@ -2115,7 +2115,7 @@
 *   [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) -  M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
 *   [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 *   [yisainan/vue2](https://github.com/yisainan/vue2) - 💯 比较好的vue2.X项目,值得借鉴与学习
-*   [142vip/408CSFamily](https://github.com/142vip/408CSFamily) - 计算机408专业课。等等我呀，还在努力...
+*   [142vip/408CSFamily](https://github.com/142vip/408CSFamily) - 计算机408专业课。等等我，还在努力...
 *   [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 *   [lei-mu/luch-request](https://github.com/lei-mu/luch-request) - luch-request 是一个基于Promise 开发的uni-app跨平台、项目级别的请求库，它有更小的体积，易用的api，方便简单的自定义能力。
 *   [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
@@ -2517,7 +2517,7 @@
 *   [huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs) - Node.js 资源大全中文版。An awesome Node.js packages and resources
 *   [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
 *   [sindresorhus/chunkify](https://github.com/sindresorhus/chunkify) - Split an iterable into evenly sized chunks
-*   [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+*   [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 *   [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 *   [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 *   [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript
