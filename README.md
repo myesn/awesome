@@ -1064,6 +1064,7 @@
 *   [jaywcjlove/console-emojis](https://github.com/jaywcjlove/console-emojis) - Custom Console Logging with Emoji.
 *   [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 *   [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
+*   [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - mdui 是使用 Web Components 实现 Material You 设计规范的前端组件库
 *   [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 *   [tediousjs/tedious](https://github.com/tediousjs/tedious) - Node TDS module for connecting to SQL Server databases.
 *   [egoist/docup](https://github.com/egoist/docup) - The easiest way to write beautiful docs.
@@ -3154,7 +3155,7 @@
 *   [cloudroc/baidu-nolimit](https://github.com/cloudroc/baidu-nolimit) - 百度云大文件下载破解,chrome插件
 *   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 *   [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
-*   [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
+*   [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 *   [postcss/autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
 *   [cnodejs/nodeclub](https://github.com/cnodejs/nodeclub) - :baby\_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 *   [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
@@ -4935,7 +4936,6 @@
 ## Less
 
 *   [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp) - 一套高质量的微信小程序 UI 组件库
-*   [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - MDUI 是一个基于 Material Design 的前端框架。
 
 ## Stylus
 
