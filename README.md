@@ -370,7 +370,6 @@
 *   [H5-Dooring/dooringx](https://github.com/H5-Dooring/dooringx) - 快速高效搭建可视化拖拽平台
 *   [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 *   [typescript-exercises/typescript-exercises](https://github.com/typescript-exercises/typescript-exercises) - A set of interactive TypeScript exercises
-*   [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 *   [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 *   [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 *   [microsoft/DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools) - Infrastructure for DefinitelyTyped
@@ -4410,6 +4409,7 @@
 *   [phuocng/frontend-tips](https://github.com/phuocng/frontend-tips) - Super tiny, quick tips, tricks and best practices of front-end development
 *   [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 *   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+*   [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 *   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 
 ## Jupyter Notebook
