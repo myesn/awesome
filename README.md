@@ -70,6 +70,7 @@
 
 ## JavaScript
 
+*   [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 *   [wyq2214368/remove-water-mark-mp](https://github.com/wyq2214368/remove-water-mark-mp) - 短视频去水印小程序系列教程源码【小程序端】
 *   [CloudWise-OpenSource/FlyFish](https://github.com/CloudWise-OpenSource/FlyFish) - FlyFish is a data visualization coding platform. We can create a data model quickly in a simple way, and quickly generate a set of data visualization solutions by dragging.
 *   [learning-zone/mongodb-basics](https://github.com/learning-zone/mongodb-basics) - MongoDB Basics ( v6.x )
@@ -1339,7 +1340,6 @@
 *   [egoist/vuepack](https://github.com/egoist/vuepack) - :package: A modern starter  which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron)
 *   [iview/iview-cli](https://github.com/iview/iview-cli) - Create an iView project in visual way
 *   [Aedron/Page.qy](https://github.com/Aedron/Page.qy) - 🤘 以简单的方式, 建立你的个人网站, 无需一行代码
-*   [aweary/tinytime](https://github.com/aweary/tinytime) - ⏰ A straightforward date and time formatter in <1kb
 
 ## TypeScript
 
