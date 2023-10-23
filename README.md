@@ -70,6 +70,7 @@
 
 ## TypeScript
 
+*   [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 *   [immerjs/use-immer](https://github.com/immerjs/use-immer) - Use immer to drive state with a React hooks
 *   [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 *   [leaferjs/ui](https://github.com/leaferjs/ui) - Leafer UI 是基于 Leafer 开发的一套绚丽多彩的 UI 绘图框架，可结合 AI 绘图、生成界面。
@@ -1983,7 +1984,6 @@
 *   [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 *   [egoist/vuepack](https://github.com/egoist/vuepack) - :package: A modern starter  which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron)
 *   [iview/iview-cli](https://github.com/iview/iview-cli) - Create an iView project in visual way
-*   [Aedron/Page.qy](https://github.com/Aedron/Page.qy) - 🤘 以简单的方式, 建立你的个人网站, 无需一行代码
 
 ## Vue
 
