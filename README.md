@@ -4575,7 +4575,6 @@
 *   [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 *   [jessepollak/card](https://github.com/jessepollak/card) - :credit\_card: make your credit card form better in one line of code
 *   [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
-*   [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 *   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 *   [forsigner/fexo](https://github.com/forsigner/fexo) - A minimalist design theme for hexo.
 
@@ -4710,6 +4709,7 @@
 *   [barretlee/blogChat](https://github.com/barretlee/blogChat) - Chat room source code for Barret Lee's Personal Blog.
 *   [IonicaBizau/gridly](https://github.com/IonicaBizau/gridly) - :zap: The minimal (~100-170 bytes) grid system for modern browsers.
 *   [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
+*   [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 *   [airingursb/canvas](https://github.com/airingursb/canvas) - 🖌《Canvas：Draw on the Web》
 *   [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon) - 🌓 Moon is a minimal, one column jekyll theme.
 *   [microsoft/dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
