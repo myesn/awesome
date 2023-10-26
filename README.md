@@ -201,7 +201,7 @@
 *   [YJammak/Weather](https://github.com/YJammak/Weather) - 用WPF写的日历天气桌面小程序
 *   [UglyToad/PdfPig](https://github.com/UglyToad/PdfPig) - Read and extract text and other content from PDFs in C# (port of PDFBox)
 *   [tinylit/codearts](https://github.com/tinylit/codearts) - 【代码艺术】一款轻量高效的基础框架（包含类型转换、复制、映射，以及ORM支持）。
-*   [zhontai/Admin.Core](https://github.com/zhontai/Admin.Core) - Admin后端，前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。基于.Net跨平台开发的WebApi。集成统一认证授权、事件总线、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。
+*   [zhontai/Admin.Core](https://github.com/zhontai/Admin.Core) - 中台Admin前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。基于.Net跨平台开发的WebApi。集成统一认证授权、事件总线、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。
 *   [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) - UI automation library for .Net
 *   [dotnetconfig/dotnet-config](https://github.com/dotnetconfig/dotnet-config) - A global tool and accompanying API for managing hierarchical configurations for dotnet tools, using git config format
 *   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
