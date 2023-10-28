@@ -1181,7 +1181,7 @@
 *   [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 *   [alibaba/pont](https://github.com/alibaba/pont) - 🌉数据服务层解决方案
 *   [alibaba/kiwi](https://github.com/alibaba/kiwi) - 🐤 Kiwi-国际化翻译全流程解决方案
-*   [southern-aurora/milkio](https://github.com/southern-aurora/milkio) -
+*   [southern-aurora/milkio](https://github.com/southern-aurora/milkio) - 🥛 Next generation state management: can persist data, suitable for all applications written in JavaScript, including Electron!
 *   [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 *   [uiwjs/react-baidu-map](https://github.com/uiwjs/react-baidu-map) - 基于 React 封装的百度地图组件，支持 React Hook，帮助你轻松的接入地图到 React 项目中。
 *   [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
