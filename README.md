@@ -371,6 +371,7 @@
 *   [H5-Dooring/dooringx](https://github.com/H5-Dooring/dooringx) - 快速高效搭建可视化拖拽平台
 *   [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 *   [typescript-exercises/typescript-exercises](https://github.com/typescript-exercises/typescript-exercises) - A set of interactive TypeScript exercises
+*   [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 *   [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 *   [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 *   [microsoft/DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools) - Infrastructure for DefinitelyTyped
@@ -483,6 +484,7 @@
 *   [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 *   [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
 *   [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run
 *   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 *   [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 *   [outline/rich-markdown-editor](https://github.com/outline/rich-markdown-editor) - The open source React and Prosemirror based markdown editor that powers Outline. Want to try it out? Create an account:
@@ -1432,7 +1434,7 @@
 *   [node-inspector/node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
 *   [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 *   [arleyGuoLei/wx-words-pk](https://github.com/arleyGuoLei/wx-words-pk) - 微信小程序云开发 「 单词天天斗 」，单词对战游戏，支持好友对战、随机匹配、人机对战等，单词 毕业设计
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 *   [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
 *   [IndigoUnited/node-promise-retry](https://github.com/IndigoUnited/node-promise-retry) - Retries a function that returns a promise, leveraging the power of the retry module.
 *   [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
@@ -3286,7 +3288,7 @@
 *   [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 *   [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
 *   [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
-*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 *   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 *   [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
 *   [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
@@ -3379,7 +3381,6 @@
 *   [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 *   [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
 *   [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
 *   [qeesung/asciiplayer](https://github.com/qeesung/asciiplayer) - :tv: ASCII gif/video player write in golang
 *   [qeesung/image2ascii](https://github.com/qeesung/image2ascii) - :foggy: Convert image to ASCII
 *   [bilibili/overlord](https://github.com/bilibili/overlord) - Overlord是哔哩哔哩基于Go语言编写的memcache和redis\&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。
@@ -4410,7 +4411,6 @@
 *   [phuocng/frontend-tips](https://github.com/phuocng/frontend-tips) - Super tiny, quick tips, tricks and best practices of front-end development
 *   [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 *   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
-*   [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 *   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 
 ## Jupyter Notebook
