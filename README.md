@@ -697,7 +697,7 @@
 *   [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 *   [tamagui/tamagui](https://github.com/tamagui/tamagui) - A style library, UI kit, and optimizing compiler that makes React run faster - on both native and web
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
-*   [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
+*   [xyflow/react-flow](https://github.com/xyflow/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 *   [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 *   [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 *   [wojtekmaj/react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) - Interactive React Lifecycle Methods diagram.
@@ -4720,7 +4720,6 @@
 *   [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
 *   [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 *   [Liberxue/liberxue.github.io](https://github.com/Liberxue/liberxue.github.io) - Liberxue blog for lightweight Jekyll  themes  轻量级自适应 简洁 卡片式博客主题 3秒搞定GitHub blog
-*   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 *   [jamietre/CsQuery](https://github.com/jamietre/CsQuery) - CsQuery is a complete CSS selector engine, HTML parser, and jQuery port for C# and .NET 4.
 
 ## Ruby
@@ -4885,7 +4884,7 @@
 ## OCaml
 
 *   [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
-*   [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+*   [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 *   [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 
 ## AutoIt
@@ -4936,6 +4935,7 @@
 ## Less
 
 *   [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp) - 一套高质量的微信小程序 UI 组件库
+*   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 
 ## Stylus
 
