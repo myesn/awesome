@@ -697,7 +697,7 @@
 *   [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 *   [tamagui/tamagui](https://github.com/tamagui/tamagui) - A style library, UI kit, and optimizing compiler that makes React run faster - on both native and web
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
-*   [xyflow/react-flow](https://github.com/xyflow/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
+*   [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React or Svelte. Ready out-of-the-box and infinitely customizable
 *   [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 *   [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 *   [wojtekmaj/react-lifecycle-methods-diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram) - Interactive React Lifecycle Methods diagram.
@@ -2974,6 +2974,7 @@
 *   [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 *   [egoist/vuepack](https://github.com/egoist/vuepack) - :package: A modern starter  which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron)
 *   [iview/iview-cli](https://github.com/iview/iview-cli) - Create an iView project in visual way
+*   [Aedron/Page.qy](https://github.com/Aedron/Page.qy) - 🤘 以简单的方式, 建立你的个人网站, 无需一行代码
 
 ## Vue
 
@@ -4392,7 +4393,6 @@
 *   [yansongda/pay](https://github.com/yansongda/pay) - 可能是我用过的最优雅的 Alipay/WeChat/Unipay 的支付 SDK 扩展包了
 *   [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
 *   [esotalk/esoTalk](https://github.com/esotalk/esoTalk) - Fat-free forum software.
-*   [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 *   [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
 *   [youzan/zanphp](https://github.com/youzan/zanphp) - PHP开发面向C10K+的高并发SOA服务  和RPC服务首选框架
 *   [Tencent/Biny](https://github.com/Tencent/Biny) - Biny is a tiny, high-performance PHP framework for web applications
