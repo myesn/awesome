@@ -4604,7 +4604,7 @@
 *   [lcx12901/v2ray-](https://github.com/lcx12901/v2ray-) - 收集开源节点
 *   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 *   [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
-*   [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
+*   [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 *   [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
 *   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 *   [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
@@ -4619,7 +4619,7 @@
 *   [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 *   [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 *   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-*   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100:2023年系统架构设计师（软考高级）备考资料。
+*   [xxlllq/system\_architect](https://github.com/xxlllq/system_architect) - :100:2024年系统架构设计师（软考高级）备考资料。
 *   [microsoft/BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples) - Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!
 *   [learning-zone/javascript-basics](https://github.com/learning-zone/javascript-basics) - JavaScript Basics
 *   [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
