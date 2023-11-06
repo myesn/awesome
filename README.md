@@ -1560,7 +1560,7 @@
 *   [fregante/text-field-edit](https://github.com/fregante/text-field-edit) - Insert text in a \<textarea> and \<input> (supports Firefox and Undo)
 *   [yugasun/vue-ts-starter](https://github.com/yugasun/vue-ts-starter) - Vue template for starter using Vue3 + TypeScript + Vite + Pinia 🚀
 *   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
-*   [observexio/observex](https://github.com/observexio/observex) - 🚀 Observe anything you want in your business and never miss any X factors .  🚀 One stop observability with powerful Grafana like UI, correlate deep into data. 💹 Get traces, logs and metrics from variaous places and view in one place. 💹 Open soure observability alternative to Datadog,Prometheus UI and Jaeger.🦄 Opentelemetry, eBPF and clickhouse
+*   [xObserve/xObserve](https://github.com/xObserve/xObserve) - 🦄Production ready Observability , APM 🚀Observe everything you want in your business and never miss any X factors .   🚀 One stop observability with Grafana like UI,  more powerful and customizatble 💹 Get traces, logs and metrics from variaous places and view in one place. 💹 Open soure observability alternative to Datadog,Jaeger, Prometheus UI
 *   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 *   [alibaba/lowcode-demo](https://github.com/alibaba/lowcode-demo) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 *   [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
@@ -4805,7 +4805,7 @@
 
 *   [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 *   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 *   [f1tz/BlockWin10AU](https://github.com/f1tz/BlockWin10AU) - 禁止Windows10系统自动更新
 
 ## Zig
