@@ -1839,7 +1839,7 @@
 *   [nbarkhina/MarioHTML](https://github.com/nbarkhina/MarioHTML) - My take on an iconic game written in TypeScript
 *   [crawlab-team/artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-*   [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
+*   [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 *   [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 *   [Teradata/covalent](https://github.com/Teradata/covalent) - Teradata UI Platform built on Angular Material
 *   [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).
@@ -2523,7 +2523,7 @@
 *   [sheng-jie/UnitOfWork](https://github.com/sheng-jie/UnitOfWork) - DDD中实体、聚合、仓储、UOW相关实现。
 *   [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET = ❤
 *   [jiyuwu/TemplateCore](https://github.com/jiyuwu/TemplateCore) - .Net Core Good Template （.Net Core 的通用模板项目）
-*   [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 7, Angular 16, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, Mediator Pattern, Result Pattern, Folder-by-Feature Structure, Separation of Concerns.
+*   [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 7, Angular 17, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, Mediator Pattern, Result Pattern, Folder-by-Feature Structure, Separation of Concerns.
 *   [obfuscar/obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies
 *   [micjahn/ZXing.Net](https://github.com/micjahn/ZXing.Net) - .Net port of the original java-based barcode reader and generator library zxing
 *   [JoyMoe/TinyScraper](https://github.com/JoyMoe/TinyScraper) - A tiny and easy-to-use scraping and web crawling toolkit for .Net Core
@@ -3604,7 +3604,7 @@
 *   [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 *   [XZB-1248/Spark](https://github.com/XZB-1248/Spark) - ✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监控和控制所有设备。
 *   [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
-*   [casbin/casdoor](https://github.com/casbin/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
+*   [casbin/casdoor](https://github.com/casbin/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
 *   [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 *   [SmartIDE/SmartIDE](https://github.com/SmartIDE/SmartIDE) - CloudNative IDE - Empower develoeprs with CloudNative technologies, may the force with you!
 *   [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
