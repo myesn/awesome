@@ -1260,6 +1260,7 @@
 *   [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 *   [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 *   [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
+*   [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 *   [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 *   [keelii/reactpatterns.cn](https://github.com/keelii/reactpatterns.cn) - 18 种短小精悍的 React 模式案例，通俗易懂值得收藏。
 *   [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
@@ -4653,7 +4654,6 @@
 *   [huyaocode/webKnowledge](https://github.com/huyaocode/webKnowledge) - 前端知识点总结
 *   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 *   [phodal/growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
-*   [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 *   [huangz1990/redis](https://github.com/huangz1990/redis) - 《Redis Command Reference》全文的中文翻译版。
 *   [brunobritodev/JPProject.IdentityServer4.AdminUI](https://github.com/brunobritodev/JPProject.IdentityServer4.AdminUI) - :wrench: ASP.NET Core 3 & Angular 8 Administration Panel for :revolving\_hearts:IdentityServer4 and ASP.NET Core Identity
 *   [chokcoco/magicCss](https://github.com/chokcoco/magicCss) - CSS3奇思妙想，单标签实现各类图形
