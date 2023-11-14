@@ -146,7 +146,7 @@
 *   [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
 *   [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 *   [labring/laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
-*   [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework, a npm package solution and a build tool.
+*   [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework and a npm package solution.
 *   [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 *   [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 *   [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
@@ -251,7 +251,7 @@
 *   [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
 *   [Zolyn/vite-plugin-vue-with-defaults-imports](https://github.com/Zolyn/vite-plugin-vue-with-defaults-imports) - Import defaults in Vue SFC for withDefaults
 *   [wheatjs/vite-plugin-vue-type-imports](https://github.com/wheatjs/vite-plugin-vue-type-imports) - Import types in Vue SFC for defineProps
-*   [ssshooter/mind-elixir-core](https://github.com/ssshooter/mind-elixir-core) - ⚗ Mind-elixir is a framework agnostic mind map core.
+*   [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core) - ⚗ Mind-elixir is a framework agnostic mind map core.
 *   [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
 *   [robtaussig/react-use-websocket](https://github.com/robtaussig/react-use-websocket) - React Hook for WebSocket communication
 *   [vueuse/sound](https://github.com/vueuse/sound) - 🔊 A Vue composable for playing sound effects
@@ -2530,7 +2530,7 @@
 *   [sheng-jie/UnitOfWork](https://github.com/sheng-jie/UnitOfWork) - DDD中实体、聚合、仓储、UOW相关实现。
 *   [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET = ❤
 *   [jiyuwu/TemplateCore](https://github.com/jiyuwu/TemplateCore) - .Net Core Good Template （.Net Core 的通用模板项目）
-*   [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 7, Angular 17, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, Mediator Pattern, Result Pattern, Folder-by-Feature Structure, Separation of Concerns.
+*   [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 8, Angular 17, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, Mediator Pattern, Result Pattern, Folder-by-Feature Structure, Separation of Concerns.
 *   [obfuscar/obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies
 *   [micjahn/ZXing.Net](https://github.com/micjahn/ZXing.Net) - .Net port of the original java-based barcode reader and generator library zxing
 *   [JoyMoe/TinyScraper](https://github.com/JoyMoe/TinyScraper) - A tiny and easy-to-use scraping and web crawling toolkit for .Net Core
@@ -3006,7 +3006,7 @@
 *   [umicro/uView](https://github.com/umicro/uView) - uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
 *   [ijry/uview-plus](https://github.com/ijry/uview-plus) - uview-plus，是[uni-app](https://uniapp.dcloud.io/) 全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。
 *   [umicro/uView2.0](https://github.com/umicro/uView2.0) - uView UI，是全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
-*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite5+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 *   [Rain-Ricky/cloud](https://github.com/Rain-Ricky/cloud) - 项目名称：云医疗管理系统，IDEA+MySQL8.0+SpringBoot+Generator逆向工程+前后端分离；本系统是一个面向大众用户和医护工作者的健康诊疗平台，为患者提供网上挂号、在线问诊、诊断报告查询、线上复诊,网络预约手术、住院出院手续办理、费用缴纳、查看健康资讯等全方位服务，同时也为医护工作人员提供了在线咨询解答、健康档案管理、在线开具电子处方、电子病历管理、病人的住院、出院流程的办理以及药品的管理和采购等功能。
 *   [ITmonkey-cn/shopro-uniapp](https://github.com/ITmonkey-cn/shopro-uniapp) - Shopro分销商城 uniapp前端开源代码，一款落地生产的 基于uni-app的多端商城。使用文档：https://gitee.com/itmonkey-cn/shopro.git
 *   [fengyuanchen/photo-editor](https://github.com/fengyuanchen/photo-editor) - A simple photo editing application.
