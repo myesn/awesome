@@ -79,7 +79,7 @@
 *   [myesn/cinema-track](https://github.com/myesn/cinema-track) - 影视剧追踪和管理（可自己部署或发邮件给 myesn@foxmail.com 申请账号）
 *   [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 *   [immerjs/use-immer](https://github.com/immerjs/use-immer) - Use immer to drive state with a React hooks
-*   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
+*   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 *   [leaferjs/ui](https://github.com/leaferjs/ui) - Leafer UI 是基于 Leafer 开发的一套绚丽多彩的 UI 绘图框架，可结合 AI 绘图、生成界面。
 *   [AEPKILL/devtools-detector](https://github.com/AEPKILL/devtools-detector) - Detect if DevTools is open
 *   [linka-app/linka](https://github.com/linka-app/linka) - Cross-platform, Self-hosted & AI powered bookmark management app for linkding, an alternative to linkding front-end, with special optimization for search and quick open functions. Free and open source. Provide web app、PWA and desktop APP.
@@ -262,7 +262,7 @@
 *   [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system
 *   [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 *   [iamjoel/learn-by-test](https://github.com/iamjoel/learn-by-test) - 通过测试来学习技术
-*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is the most scalable Auth0 alternative designed for apps of any size, any sector, and any platform.
+*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
 *   [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 *   [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 *   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
@@ -292,7 +292,7 @@
 *   [fregante/text-field-edit](https://github.com/fregante/text-field-edit) - Insert text in a \<textarea> and \<input> (supports Firefox and Undo)
 *   [yugasun/vue-ts-starter](https://github.com/yugasun/vue-ts-starter) - Vue template for starter using Vue3 + TypeScript + Vite + Pinia 🚀
 *   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
-*   [xObserve/xObserve](https://github.com/xObserve/xObserve) - 🦄Production ready Observability , APM 🚀Observe everything you want in your business and never miss any X factors .   🚀 One stop observability with Grafana like UI,  more powerful and customizatble 💹 Get traces, logs and metrics from variaous places and view in one place. 💹 Open soure observability alternative to Datadog,Jaeger, Prometheus UI
+*   [xObserve/xObserve](https://github.com/xObserve/xObserve) - Observe any stack or any service,  anywhere,  in any UI style you prefer,  never miss any X factors.
 *   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 *   [alibaba/lowcode-demo](https://github.com/alibaba/lowcode-demo) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 *   [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
@@ -484,7 +484,7 @@
 *   [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 *   [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
 *   [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run  https://sealos.io
 *   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 *   [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 *   [outline/rich-markdown-editor](https://github.com/outline/rich-markdown-editor) - The open source React and Prosemirror based markdown editor that powers Outline. Want to try it out? Create an account:
@@ -866,7 +866,6 @@
 *   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 *   [gin-gonic/contrib](https://github.com/gin-gonic/contrib) - Collection of middlewares created by the community
 *   [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-*   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 *   [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
 *   [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB)
 *   [TalkingData/owl](https://github.com/TalkingData/owl) - Distributed monitoring system
@@ -1144,7 +1143,6 @@
 *   [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 *   [dockersamples/101-tutorial](https://github.com/dockersamples/101-tutorial) -
 *   [microapp-store/linjiashop](https://github.com/microapp-store/linjiashop) - 邻家小铺，轻量，简洁的商城系统,包括后台管理，手机h5，小程序，app版
-*   [Flying9001/Notes](https://github.com/Flying9001/Notes) - java/Linux/Windows/macOS notes
 *   [itorr/baidu-images](https://github.com/itorr/baidu-images) - 百度图片搜索极简版
 *   [sindresorhus/kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory
 *   [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes
@@ -2159,6 +2157,7 @@
 *   [bimohxh/webon](https://github.com/bimohxh/webon) - A command tool to develop static sites
 *   [bimohxh/jsonon](https://github.com/bimohxh/jsonon) - A json online view
 *   [zmmbreeze/lining.js](https://github.com/zmmbreeze/lining.js) - An easy to use javascript plugin offers you complete DOWN-TO-THE-LINE control for radical web typography.
+*   [franciscop/brownies](https://github.com/franciscop/brownies) - 🍫 Tastier cookies, local, session, and db storage in a tiny package. Includes subscribe() events for changes.
 
 ## Vim Script
 
@@ -3202,7 +3201,7 @@
 *   [hegaojian/JetpackMvvm](https://github.com/hegaojian/JetpackMvvm) - :chicken::basketball:一个Jetpack结合MVVM的快速开发框架，基于MVVM模式集成谷歌官方推荐的JetPack组件库：LiveData、ViewModel、Lifecycle、Navigation组件 使用Kotlin语言，添加大量拓展函数，简化代码 加入Retrofit网络请求,协程，帮你简化各种操作，让你快速开发项目
 *   [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
 *   [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
-*   [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 The 2023 Android Developer Roadmap suggests learning paths to understanding Android development.
+*   [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) -  🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.
 *   [JetBrains/projector-server](https://github.com/JetBrains/projector-server) - Server-side library for running Swing applications remotely
 *   [ivan-moto/30-seconds-of-kotlin](https://github.com/ivan-moto/30-seconds-of-kotlin) - Kotlin snippets that you can understand quickly, using only stdlib functionality.
 *   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
@@ -3660,6 +3659,7 @@
 *   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 一键更换系统软件源脚本
 *   [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 *   [aheckmann/m](https://github.com/aheckmann/m) - mongodb version management
+*   [Flying9001/Notes](https://github.com/Flying9001/Notes) - java/Linux/Windows/macOS notes
 *   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 *   [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.
 *   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
