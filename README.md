@@ -1179,7 +1179,7 @@
 *   [ysocorp/koa2-ratelimit](https://github.com/ysocorp/koa2-ratelimit) - Rate-limiting middleware for Koa2 ES6. Use to limit repeated requests to APIs and/or endpoints such as password reset.
 *   [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 *   [http-party/node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
-*   [LeaVerou/color.js](https://github.com/LeaVerou/color.js) - Color conversion & manipulation library by the editors of the CSS Color specifications
+*   [color-js/color.js](https://github.com/color-js/color.js) - Color conversion & manipulation library by the editors of the CSS Color specifications
 *   [jshttp/mime-types](https://github.com/jshttp/mime-types) - The ultimate javascript content-type utility.
 *   [yyx990803/launch-editor](https://github.com/yyx990803/launch-editor) - Open file in editor from Node.js.
 *   [turboMaCk/koa-sslify](https://github.com/turboMaCk/koa-sslify) - Enforce HTTPS in node.js koa apps
