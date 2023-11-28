@@ -3794,6 +3794,7 @@
 *   [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 *   [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 *   [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+*   [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 *   [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
 *   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 *   [h2o/h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
@@ -4661,7 +4662,6 @@
 
 *   [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 *   [XWJACK/Shadowrocket](https://github.com/XWJACK/Shadowrocket) - Shadowrocket without $2.99
-*   [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 *   [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 *   [sshiqiao/douyin-ios-objectc](https://github.com/sshiqiao/douyin-ios-objectc) - 抖音 iOS Object-C版
 *   [jkpang/PPRows](https://github.com/jkpang/PPRows) - It Can Calculate how many lines of code you write on Mac ; 在Mac上计算你写了多少行代码
