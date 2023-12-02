@@ -892,7 +892,6 @@
 *   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 *   [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 *   [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
-*   [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 *   [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 *   [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 *   [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
@@ -1943,7 +1942,6 @@
 *   [developit/express-es6-rest-api](https://github.com/developit/express-es6-rest-api) - :battery: Starter project for an ES6 RESTful Express API.
 *   [photopea/UPNG.js](https://github.com/photopea/UPNG.js) - Fast and advanced PNG (APNG) decoder and encoder (lossy / lossless)
 *   [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
-*   [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 *   [developit/unfetch](https://github.com/developit/unfetch) - 🐕 Bare minimum 500b fetch polyfill.
 *   [preactjs/preact-cli](https://github.com/preactjs/preact-cli) - 😺 Your next Preact PWA starts in 30 seconds.
 *   [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
@@ -2158,6 +2156,7 @@
 *   [zmmbreeze/lining.js](https://github.com/zmmbreeze/lining.js) - An easy to use javascript plugin offers you complete DOWN-TO-THE-LINE control for radical web typography.
 *   [franciscop/brownies](https://github.com/franciscop/brownies) - 🍫 Tastier cookies, local, session, and db storage in a tiny package. Includes subscribe() events for changes.
 *   [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
+*   [alexwolfe/Buttons](https://github.com/alexwolfe/Buttons) - A CSS button library built using Sass and Compass
 
 ## Vim Script
 
@@ -4462,6 +4461,7 @@
 *   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 *   [Kivy-CN/llthw-zh](https://github.com/Kivy-CN/llthw-zh) - :book: \[译] 笨办法学 Linux
 *   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+*   [TencentAPI/weui](https://github.com/TencentAPI/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 
 ## Erlang
 
