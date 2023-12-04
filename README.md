@@ -4490,7 +4490,7 @@
 *   [jessepollak/card](https://github.com/jessepollak/card) - :credit\_card: make your credit card form better in one line of code
 *   [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 *   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-*   [forsigner/fexo](https://github.com/forsigner/fexo) - A minimalist design theme for hexo.
+*   [0x-leen/fexo](https://github.com/0x-leen/fexo) - A minimalist design theme for hexo.
 
 ## Dockerfile
 
