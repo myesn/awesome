@@ -3146,7 +3146,7 @@
 *   [jeneser/douban](https://github.com/jeneser/douban) - Awesome douban DEMO created with Vue2.x + Vuex + Vue-router + Superagent
 *   [matt-oconnell/vue-monaco-editor](https://github.com/matt-oconnell/vue-monaco-editor) - Monaco Editor Vue Component
 *   [lusaxweb/vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
-*   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于Vue3 + Element Plus 的后台管理系统解决方案
+*   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
 *   [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
 *   [putianxi/putianxi.github.io](https://github.com/putianxi/putianxi.github.io) - 滚蛋吧！莆田系
 *   [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
