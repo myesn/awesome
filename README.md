@@ -1036,7 +1036,7 @@
 *   [sindresorhus/wait-for-localhost](https://github.com/sindresorhus/wait-for-localhost) - Wait for localhost to be ready
 *   [sindresorhus/delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time
 *   [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
-*   [xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2023年08月13日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据
+*   [xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2023年12月11日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据
 *   [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 *   [itorr/patina](https://github.com/itorr/patina) - 🤢「电子包浆」 图片做旧工具，赛博包浆虚拟器
 *   [kkoomen/pointless](https://github.com/kkoomen/pointless) - An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️
@@ -3250,7 +3250,7 @@
 *   [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 *   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 *   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 *   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
