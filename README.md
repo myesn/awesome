@@ -232,7 +232,6 @@
 *   [dibo-software/diboot](https://github.com/dibo-software/diboot) - 写的更少, 性能更好 -> 为开发人员打造的低代码开发平台。mybatis-plus关联查询，关联无SQL，性能高10倍，前后端代码本地可视化生成，flowable工作流，spring cloud微服务等全方位赋能！
 *   [EdisonXu/sbs-axon](https://github.com/EdisonXu/sbs-axon) -
 *   [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
-*   [AxonFramework/AxonFramework](https://github.com/AxonFramework/AxonFramework) - Framework for Evolutionary Message-Driven Microservices on the JVM
 *   [dstar55/100-words-design-patterns-java](https://github.com/dstar55/100-words-design-patterns-java) - GoF Design Patterns, each pattern described with story from real life.
 *   [lexburner/oauth2-demo](https://github.com/lexburner/oauth2-demo) - Re：从零开始的Spring Security Oauth2
 *   [lexburner/zuul-gateway-demo](https://github.com/lexburner/zuul-gateway-demo) - zuul动态路由demo
@@ -616,7 +615,7 @@
 *   [spencerwooo/substats](https://github.com/spencerwooo/substats) - ( ｀д′) how many followers do i have? how many!
 *   [FightingDesign/fighting-design](https://github.com/FightingDesign/fighting-design) - 🌈 Fighting Design 可在 vue3 应用程序中快速构建交互界面，看起来还不错。(🌈 Fighting design can quickly build interactive interfaces in vue3 applications, which looks good.)
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
-*   [steven-tey/dub](https://github.com/steven-tey/dub) - Open-source link management infrastructure for modern marketing teams.
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
 *   [devconcept/multer-gridfs-storage](https://github.com/devconcept/multer-gridfs-storage) - 🍃 GridFS storage engine for Multer to store uploaded files directly to MongoDb
 *   [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 *   [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
@@ -2944,6 +2943,7 @@
 *   [bimohxh/webon](https://github.com/bimohxh/webon) - A command tool to develop static sites
 *   [bimohxh/jsonon](https://github.com/bimohxh/jsonon) - A json online view
 *   [zmmbreeze/lining.js](https://github.com/zmmbreeze/lining.js) - An easy to use javascript plugin offers you complete DOWN-TO-THE-LINE control for radical web typography.
+*   [franciscop/brownies](https://github.com/franciscop/brownies) - 🍫 Tastier cookies, local, session, and db storage in a tiny package. Includes subscribe() events for changes.
 
 ## Vim Script
 
