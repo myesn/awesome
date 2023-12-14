@@ -484,7 +484,7 @@
 *   [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
 *   [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
 *   [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
-*   [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
+*   [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with the head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 *   [unjs/citty](https://github.com/unjs/citty) - 🌆 Elegant CLI Builder
 *   [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
 *   [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
@@ -4116,7 +4116,7 @@
 *   [kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) - bcrypt for NodeJs
 *   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 *   [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
-*   [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
+*   [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 *   [X-Profiler/xprofiler](https://github.com/X-Profiler/xprofiler) - 🌀An addon for node.js, which supporting output performance log and real-time profiling through sampling.
 *   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 *   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
