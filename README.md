@@ -3657,6 +3657,7 @@
 *   [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
 *   [denghongcai/forsaken-mail](https://github.com/denghongcai/forsaken-mail) - a self-hosted disposable mail service
 *   [zouhir/jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
+*   [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 *   [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 *   [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
 *   [nondanee/Glee](https://github.com/nondanee/Glee) - 也是个网易云第三方😶
@@ -4609,7 +4610,6 @@
 *   [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 *   [flexdinesh/dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers
 *   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-*   [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 *   [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 *   [henry-fun/hanshan-lottery](https://github.com/henry-fun/hanshan-lottery) - An amazing lottery app created for the world
 *   [OmniSharp/generator-aspnet](https://github.com/OmniSharp/generator-aspnet) - yo generator for ASP.NET Core
