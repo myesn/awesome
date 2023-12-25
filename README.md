@@ -4157,7 +4157,7 @@
 *   [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 *   [rootm0s/Injectors](https://github.com/rootm0s/Injectors) - 💉 DLL/Shellcode injection techniques
 *   [shadowsocks/shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) - A cross-platform shadowsocks GUI client
-*   [OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika) - Pika is a NoSQL database compatible with Redis developed by Qihoo's infrastructure team.
+*   [OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika) - Pika is a Redis-Compatible database developed by Qihoo's infrastructure team.
 *   [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 *   [me115/design\_patterns](https://github.com/me115/design_patterns) - 图说设计模式
 *   [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
