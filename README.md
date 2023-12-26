@@ -730,7 +730,7 @@
 *   [daxnet/raspkate](https://github.com/daxnet/raspkate) - A simple and small web server that can run on either Windows or Linux.
 *   [itdos/Dos.WeChat](https://github.com/itdos/Dos.WeChat) - 微信开发组件(包含消息处理、微信支付等等。再也不用担心看复杂的微信开发文档，即用即上手)
 *   [statianzo/Fleck](https://github.com/statianzo/Fleck) - C# Websocket Implementation
-*   [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 7.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
+*   [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 8.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
 *   [Wlitsoft/WeixinSDK](https://github.com/Wlitsoft/WeixinSDK) - Wlitsoft 框架 - 微信公众号开发工具包（C# 版）
 *   [TommasoScalici/MathExtensions](https://github.com/TommasoScalici/MathExtensions) - MathExtensions is a library for .NET with simple and useful extensions methods regarding various mathematical domains: combinatorics, sequence analysis, sequence generation and sequence manipulation, random draws from set, etc.
 *   [OfficeDev/ews-managed-api](https://github.com/OfficeDev/ews-managed-api) -
