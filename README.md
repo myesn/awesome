@@ -3739,7 +3739,7 @@
 *   [cyq1162/Aries](https://github.com/cyq1162/Aries) - .NET Develop Framework（适合场景：业务系统、信息系统、管理系统、ERP，含工作流，支持.NET Core）
 *   [xCss/Valine](https://github.com/xCss/Valine) - A fast, simple & powerful comment system.
 *   [neutrinojs/neutrino](https://github.com/neutrinojs/neutrino) - Create and build modern JavaScript projects with zero initial configuration.
-*   [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast local JSON database
+*   [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 *   [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 *   [DDFE/store](https://github.com/DDFE/store) - 本地存储实现，优先本地存储localStorage，如果浏览器不支持，优雅降级为cookie
 *   [DDFE/format](https://github.com/DDFE/format) -  轻量级的模板格式化函数
@@ -4151,7 +4151,7 @@
 *   [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 *   [DayBreak-u/chineseocr\_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
 *   [dchapyshev/aspia](https://github.com/dchapyshev/aspia) - Remote desktop and file transfer tool.
-*   [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫
+*   [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK
 *   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 *   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 *   [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
