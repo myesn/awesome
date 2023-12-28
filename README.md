@@ -1700,7 +1700,7 @@
 *   [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 *   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 *   [ctripcorp/nephele](https://github.com/ctripcorp/nephele) - Image Service
-*   [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+*   [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 *   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 *   [gwuhaolin/lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
 *   [marcusolsson/tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
@@ -2313,7 +2313,6 @@
 *   [TakWolf-Deprecated/CNode-Material-Design](https://github.com/TakWolf-Deprecated/CNode-Material-Design) - CNode 社区第三方 Android 客户端，原生 App，Material Design 风格，支持夜间模式。
 *   [microsoft/team-explorer-everywhere](https://github.com/microsoft/team-explorer-everywhere) - Team Explorer Everywhere Plugin for Eclipse
 *   [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
-*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 *   [beefe/react-native-picker](https://github.com/beefe/react-native-picker) - A Native Picker with high performance.
 *   [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
 *   [shuzheng/zheng](https://github.com/shuzheng/zheng) - 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
@@ -4183,6 +4182,7 @@
 *   [XhmikosR/notepad2-mod](https://github.com/XhmikosR/notepad2-mod) - LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting
 *   [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 *   [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
+*   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 *   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 *   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 *   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
