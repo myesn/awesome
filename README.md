@@ -1382,7 +1382,7 @@
 *   [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - VSCode extension to turn TypeScript errors into plain English
 *   [justjavac/chart\_as\_a\_service](https://github.com/justjavac/chart_as_a_service) - Chart as a Service
 *   [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations
-*   [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay.
+*   [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can truly self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 *   [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 *   [unjs/nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
 *   [antfu/starter-ts](https://github.com/antfu/starter-ts) - Starter template for TypeScript library
@@ -4649,7 +4649,7 @@
 *   [solidusio/solidus](https://github.com/solidusio/solidus) - 🛒 Solidus, the open-source eCommerce framework for industry trailblazers.
 *   [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 *   [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
-*   [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+*   [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 *   [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 *   [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 *   [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
