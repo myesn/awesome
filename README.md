@@ -1461,7 +1461,7 @@
 *   [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 *   [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 *   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler.
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 *   [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
 *   [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 *   [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
@@ -1527,6 +1527,7 @@
 *   [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 *   [alibaba/pont](https://github.com/alibaba/pont) - 🌉数据服务层解决方案
 *   [alibaba/kiwi](https://github.com/alibaba/kiwi) - 🐤 Kiwi-国际化翻译全流程解决方案
+*   [sindresorhus/electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for Electron apps and modules
 *   [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 *   [uiwjs/react-baidu-map](https://github.com/uiwjs/react-baidu-map) - 基于 React 封装的百度地图组件，支持 React Hook，帮助你轻松的接入地图到 React 项目中。
 *   [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
@@ -3241,7 +3242,6 @@
 *   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 *   [justjavac/ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) - ⚡️ 一个 Chrome 插件：将 Google CDN 替换为国内的。
 *   [sindresorhus/unused-filename](https://github.com/sindresorhus/unused-filename) - Get an unused filename by appending a number if it exists: `file.txt` → `file (1).txt`
-*   [sindresorhus/electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for Electron apps and modules
 *   [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 *   [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 *   [woai3c/Front-end-articles](https://github.com/woai3c/Front-end-articles) - 分享我的编程经验和学习心得，订阅请点 watch
