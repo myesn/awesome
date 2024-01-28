@@ -2308,7 +2308,7 @@
 *   [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 *   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 *   [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
-*   [yanyiwu/nodejieba](https://github.com/yanyiwu/nodejieba) - "结巴"中文分词的Node.js版本
+*   [luckykaiyi/nodejieba](https://github.com/luckykaiyi/nodejieba) - "结巴"中文分词的Node.js版本
 *   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 *   [jelledruyts/Ubaku](https://github.com/jelledruyts/Ubaku) - A website that helps kids practice math exercises
 *   [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
@@ -3794,7 +3794,7 @@
 *   [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
 *   [waylau/github-help](https://github.com/waylau/github-help) - Chinese translation of the Github Help(https://help.github.com/index.html) and the other article collection.  《Github 帮助文档》 中文翻译（包含了官方文档以及其他文章）。
 *   [FuckDoctors/rdm-builder](https://github.com/FuckDoctors/rdm-builder) - Redis Desktop Manager Builder
-*   [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic IT resources
+*   [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
 *   [alwayrun/awesome-reading-list](https://github.com/alwayrun/awesome-reading-list) - 程序员必读书单
 *   [itwanger/JavaBooks](https://github.com/itwanger/JavaBooks) - 📚Java程序员必读书单（超1000本PDF，附下载地址）包括但不限于Java、设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等，助力每一个Java程序员构建属于自己的知识体系。
 *   [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
@@ -3858,7 +3858,7 @@
 *   [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 *   [joye61/typescript-tutorial](https://github.com/joye61/typescript-tutorial) - TypeScript速成教程（2小时速成）
 *   [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
-*   [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2023
+*   [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2024
 *   [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation\&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
 *   [rstacruz/rscss](https://github.com/rstacruz/rscss) - Reasonable System for CSS Stylesheet Structure
 *   [ivarptr/yu-writer.site](https://github.com/ivarptr/yu-writer.site) - A feature-rich, efficient text editor - Web Site
