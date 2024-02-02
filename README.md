@@ -2264,7 +2264,7 @@
 *   [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 *   [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 *   [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-*   [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+*   [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 *   [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 *   [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 *   [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
@@ -2944,6 +2944,7 @@
 *   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 *   [tryolabs/luminoth](https://github.com/tryolabs/luminoth) - Deep Learning toolkit for Computer Vision.
 *   [airingursb/bilibili-user](https://github.com/airingursb/bilibili-user) - 🍥 Bilibili 用户爬虫
+*   [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 *   [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 *   [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 *   [MorvanZhou/tutorials](https://github.com/MorvanZhou/tutorials) - 机器学习相关教程
@@ -4347,7 +4348,6 @@
 *   [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
 *   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 *   [xitu/tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
-*   [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 
 ## Astro
 
