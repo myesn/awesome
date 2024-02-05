@@ -4029,7 +4029,7 @@
 *   [gliderlabs/registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
 *   [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 *   [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
-*   [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud native unstructured data store
+*   [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud-native file store
 *   [hashicorp/consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.
 *   [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 *   [fatedier/fft](https://github.com/fatedier/fft) - A fast distributed file transfer.
