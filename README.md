@@ -712,7 +712,7 @@
 *   [devconcept/multer-gridfs-storage](https://github.com/devconcept/multer-gridfs-storage) - 🍃 GridFS storage engine for Multer to store uploaded files directly to MongoDb
 *   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 *   [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
-*   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Create AI-Driven Apps like Assembling Blocks
+*   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build AI-driven business apps like assembling blocks, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automate workflows triggered by schedule or webhook
 *   [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架
 *   [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 *   [vue-terminal/vue-termui](https://github.com/vue-terminal/vue-termui) - The Modern Terminal UI Framework
@@ -737,7 +737,7 @@
 *   [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system
 *   [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 *   [iamjoel/learn-by-test](https://github.com/iamjoel/learn-by-test) - 通过测试来学习技术
-*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
+*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure that works universally.
 *   [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 *   [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 *   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
@@ -1003,6 +1003,7 @@
 *   [dimitropoulos/react-ui-roundup](https://github.com/dimitropoulos/react-ui-roundup) - A one-stop-shop for comparing the features of all the best React frameworks.  Useful for designers and engineers alike!
 *   [ZhongAnTech/zarm](https://github.com/ZhongAnTech/zarm) - 基于 React 的移动端 UI 组件库
 *   [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
+*   [epicweb-dev/react-hooks](https://github.com/epicweb-dev/react-hooks) - Learn React Hooks! 🎣 ⚛
 *   [doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn) - 🇨🇳 《JavaScript 二十年》中文版
 *   [utterance/utterances](https://github.com/utterance/utterances) - :crystal\_ball: A lightweight comments widget built on GitHub issues
 *   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -1125,7 +1126,7 @@
 *   [egoist/docup](https://github.com/egoist/docup) - The easiest way to write beautiful docs.
 *   [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 *   [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
-*   [antvis/G2](https://github.com/antvis/G2) - 📊 A concise and progressive visualization grammar.
+*   [antvis/G2](https://github.com/antvis/G2) - 📊 The concise and progressive visualization grammar.
 *   [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 *   [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
 *   [brookshi/Hitchhiker](https://github.com/brookshi/Hitchhiker) - a Restful Api test tool
@@ -1689,7 +1690,6 @@
 *   [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
 *   [wixette/dotted-chinese-fonts](https://github.com/wixette/dotted-chinese-fonts) - Dotted Chinese Pixel Fonts 点点像素 | 开源的中文像素字体
 *   [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
-*   [kentcdodds/react-hooks](https://github.com/kentcdodds/react-hooks) - Learn React Hooks! 🎣 ⚛
 *   [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 *   [AttackXiaoJinJin/reactExplain](https://github.com/AttackXiaoJinJin/reactExplain) - React源码解析
 *   [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
@@ -2364,7 +2364,7 @@
 *   [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 *   [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 *   [socketio/engine.io](https://github.com/socketio/engine.io) - The engine used in the Socket.IO JavaScript server, which manages the low-level transports such as HTTP long-polling and WebSocket.
-*   [Kong/mockbin](https://github.com/Kong/mockbin) - Mock, Test & Track HTTP Requests and Response for Microservices
+*   [Kong/mockbin](https://github.com/Kong/mockbin) - Insomnia Mockbin is the underlying backend for the API mocks capability of Insomnia. It is built and used by Kong, the author of the open-source Kong Gateway.
 *   [seajs/seajs-text](https://github.com/seajs/seajs-text) - A Sea.js plugin for loading text resources such as template, json etc
 *   [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 *   [mdo/github-buttons](https://github.com/mdo/github-buttons) - Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts.
@@ -3070,7 +3070,7 @@
 *   [cuiocean/ZY-Player-APP](https://github.com/cuiocean/ZY-Player-APP) - ▶️ 跨平台移动端视频资源播放器. 简洁免费. 🎞 ZY Player 移动端 APP，基于 Uni-app 开发.
 *   [Tencent/tdesign](https://github.com/Tencent/tdesign) - Enterprise Design System
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-*   [pearmini/colorfu](https://github.com/pearmini/colorfu) - Make beautiful but also meaningful wallpapers with words, colors, patterns and images. 🌈
+*   [pearmini/colorfu](https://github.com/pearmini/colorfu) - Make meaningful wallpapers with colors and words.
 *   [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
 *   [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 *   [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
@@ -4155,7 +4155,7 @@
 *   [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 *   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 *   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-*   [humblepenguinn/envio](https://github.com/humblepenguinn/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment
+*   [envio-cli/envio](https://github.com/envio-cli/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment
 *   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 *   [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
