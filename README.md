@@ -1049,7 +1049,6 @@
 *   [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new\_moon\_with\_face::sparkles:Dark Mode
 *   [Grsmto/simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
 *   [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
-*   [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 *   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 *   [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
 *   [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
@@ -1086,7 +1085,7 @@
 *   [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 *   [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 *   [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
-*   [CyberNika/v-contextmenu](https://github.com/CyberNika/v-contextmenu) - 🖱 ContextMenu based on Vue 3.0
+*   [CyberNika/v-contextmenu](https://github.com/CyberNika/v-contextmenu) - 🖱 ContextMenu based on Vue 3 & Vue 2
 *   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 *   [socketio/socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 *   [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
@@ -1787,6 +1786,7 @@
 *   [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 *   [mumuy/pacman](https://github.com/mumuy/pacman) - 基于HTML5的吃豆人游戏 - 经典游戏开发样例\_Pacman based on HTML5
 *   [lamondlu/Library](https://github.com/lamondlu/Library) - A microservice project using .NET Core 2.0, DDD, CQRS, Event Sourcing, Redis and RabbitMQ
+*   [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 *   [unshiftio/querystringify](https://github.com/unshiftio/querystringify) - Querystringify - Small, simple but powerful query string parser.
 *   [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 *   [cryptii/cryptii](https://github.com/cryptii/cryptii) - Web app and framework offering modular conversion, encoding and encryption
