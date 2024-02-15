@@ -764,6 +764,7 @@
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 *   [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 *   [fregante/text-field-edit](https://github.com/fregante/text-field-edit) - Insert text in a \<textarea> and \<input> (supports Firefox and Undo)
+*   [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 *   [yugasun/vue-ts-starter](https://github.com/yugasun/vue-ts-starter) - Vue template for starter using Vue3 + TypeScript + Vite + Pinia 🚀
 *   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 *   [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
@@ -1344,7 +1345,6 @@
 *   [frontend-collective/react-sortable-tree](https://github.com/frontend-collective/react-sortable-tree) - Drag-and-drop sortable component for nested data and hierarchies
 *   [Yomguithereal/mnemonist](https://github.com/Yomguithereal/mnemonist) - Curated collection of data structures for the JavaScript/TypeScript language.
 *   [TakWolf/NyanCatEverywhere](https://github.com/TakWolf/NyanCatEverywhere) - 让彩虹猫入侵全世界！
-*   [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 *   [adrianhajdin/project\_syncfusion\_dashboard](https://github.com/adrianhajdin/project_syncfusion_dashboard) - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an admin dashboard app using React.js and Syncfusion
 *   [vadimdemedes/switch-branch-cli](https://github.com/vadimdemedes/switch-branch-cli) - Switch git branches by their pull request title
 *   [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
@@ -2836,7 +2836,7 @@
 *   [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 *   [continue-revolution/sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Segment Anything for Stable Diffusion WebUI
 *   [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
-*   [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+*   [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 *   [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Bring your codebase to life
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 *   [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
