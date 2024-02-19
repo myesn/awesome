@@ -456,7 +456,7 @@
 *   [RubyLouvre/mobileHack](https://github.com/RubyLouvre/mobileHack) - 这里收集了许多移动端上遇到的各种坑
 *   [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin) - We are refactoring it, using the latest Vue and Bulma. WIP
 *   [ivmm/Student-resources](https://github.com/ivmm/Student-resources) - 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。
-*   [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
+*   [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 *   [nswbmw/node-in-debugging](https://github.com/nswbmw/node-in-debugging) - 《Node.js 调试指南》
 *   [wangshijun/feweekly](https://github.com/wangshijun/feweekly) - :star: 前端周刊，让你在前端领域跟上时代的脚步，深度和广度不断精进
 *   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
@@ -821,7 +821,7 @@
 *   [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 *   [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 *   [chowa/ejyy](https://github.com/chowa/ejyy) - 「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。
-*   [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡
+*   [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡
 *   [jd-opensource/leo](https://github.com/jd-opensource/leo) - 一个可覆盖前端开发全链路、可扩展、可定制的终端运行的脚手架工具
 *   [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 *   [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
@@ -1338,7 +1338,7 @@
 *   [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 *   [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste)
 *   [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader) - 超方便的微信视频号下载器
-*   [liguobao/58HouseSearch](https://github.com/liguobao/58HouseSearch) - 地图搜租房【微信公众号、小程序：人生删除指南】
+*   [liguobao/HouseSearch](https://github.com/liguobao/HouseSearch) - 地图搜租房【微信公众号、小程序：人生删除指南】
 *   [rcdexta/react-trello](https://github.com/rcdexta/react-trello) - Pluggable components to add a kanban board to your application
 *   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 *   [esonwong/network-rc](https://github.com/esonwong/network-rc) - Network Remote Control Car Software For Raspberry Pi.
