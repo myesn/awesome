@@ -2490,7 +2490,7 @@
 *   [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
 *   [momosecurity/momo-code-sec-inspector-java](https://github.com/momosecurity/momo-code-sec-inspector-java) - IDEA静态代码安全审计及漏洞一键修复插件
 *   [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
-*   [itext/itext7](https://github.com/itext/itext7) - iText for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText can be a boon to nearly every workflow.
+*   [itext/itext-java](https://github.com/itext/itext-java) - iText for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText can be a boon to nearly every workflow.
 *   [fushengqian/fuint](https://github.com/fushengqian/fuint) - fuint会员营销系统是一款实体店铺会员管理和营销系统。基于Java SpringBoot，前后端分离，源码完整，包含前台微信小程序、h5、后台管理收银端。具有优惠券、预存卡、实体卡、集次（计次卡）、储值卡、电子券，会员积分体系，会员等级等营销功能。适合各类实体店铺结合线上电商系统，如：零售超市、汽车4S店、花店、甜品店、餐饮等。本系统可当成收银系统使用，打通了线下收银系统和线上会员小程序商城。
 *   [lukas-krecan/ShedLock](https://github.com/lukas-krecan/ShedLock) - Distributed lock for your scheduled tasks
 *   [vigna/fastutil](https://github.com/vigna/fastutil) - fastutil extends the Java™ Collections Framework by providing type-specific maps, sets, lists and queues.
@@ -2543,7 +2543,7 @@
 *   [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
 *   [linkedin/URL-Detector](https://github.com/linkedin/URL-Detector) - A Java library to detect and normalize URLs in text
 *   [apache/nifi](https://github.com/apache/nifi) - Apache NiFi
-*   [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
+*   [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data Stack
 *   [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 *   [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 *   [MitchTalmadge/ASCII-Data](https://github.com/MitchTalmadge/ASCII-Data) - A small Java library for producing nice looking text-based line-graphs and tables.
