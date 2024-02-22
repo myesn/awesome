@@ -3089,7 +3089,7 @@
 *   [artiely/admin-0-1](https://github.com/artiely/admin-0-1) - 管理系统从0到1系列
 *   [artiely/vue-admin-iview](https://github.com/artiely/vue-admin-iview) - vue后端管理系统界面 基于ui组件iview
 *   [artiely/vue-admin](https://github.com/artiely/vue-admin) - 基于and-design-vue的vue后台管理系统模板
-*   [DataV-Team/DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
+*   [jiaming743/DataV](https://github.com/jiaming743/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
 *   [zhontai/Admin.Core](https://github.com/zhontai/Admin.Core) - 中台Admin前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。基于.Net跨平台开发的WebApi。集成统一认证授权、事件总线、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。
 *   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 *   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
