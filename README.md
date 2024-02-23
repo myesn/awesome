@@ -3274,7 +3274,7 @@
 *   [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 *   [Kyome22/RunCat\_for\_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
 *   [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
-*   [immense/Remotely](https://github.com/immense/Remotely) - A remote control and remote scripting solution, built with .NET 7, Blazor, and SignalR.
+*   [immense/Remotely](https://github.com/immense/Remotely) - A remote control and remote scripting solution, built with .NET 8, Blazor, and SignalR.
 *   [ullmark/hashids.net](https://github.com/ullmark/hashids.net) - A small .NET package to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.
 *   [louislam/lazy-compress-h265](https://github.com/louislam/lazy-compress-h265) - Compress or convert your video files to h.265 (hevc) format with one-click, make its size much smaller!
 *   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
