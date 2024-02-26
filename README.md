@@ -527,6 +527,7 @@
 *   [TonnyL/Awesome\_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 *   [ivmm/SEO](https://github.com/ivmm/SEO) - 关于 SEO 优化的思维导图
 *   [SecWiki/sec-chart](https://github.com/SecWiki/sec-chart) - 安全思维导图集合
+*   [CloudDeepTeam/amazeui](https://github.com/CloudDeepTeam/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
 *   [suziwen/markdownxiaoshujiang](https://github.com/suziwen/markdownxiaoshujiang) - 小书匠是一款本地优先，去中心化，分布式，支持选择性同步的全平台覆盖知识管理笔记软件。
 *   [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
 *   [thinkjs/think-awesome](https://github.com/thinkjs/think-awesome) - A curated list of awesome things related to ThinkJS 3.x
@@ -2312,7 +2313,6 @@
 *   [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 *   [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 *   [JsAaron/jQuery](https://github.com/JsAaron/jQuery) - 前端JQuery系列
-*   [CloudDeepTeam/amazeui](https://github.com/CloudDeepTeam/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
 *   [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 *   [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 *   [yyx990803/zoomerang](https://github.com/yyx990803/zoomerang) - drop in zoom anything
@@ -3846,7 +3846,7 @@
 
 ## C++
 
-*   [janhq/nitro](https://github.com/janhq/nitro) - A fast, lightweight, embeddable inference engine to supercharge your apps with local AI.  OpenAI-compatible API
+*   [janhq/nitro](https://github.com/janhq/nitro) - A serious server implementation of LlamaCPP. OpenAI-compatible API, queue, & scaling. Embed a production level, local inference engine in your apps.
 *   [kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) - bcrypt for NodeJs
 *   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 *   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
