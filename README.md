@@ -31,7 +31,6 @@
 *   [CSS](#css)
 *   [Erlang](#erlang)
 *   [SCSS](#scss)
-*   [Dockerfile](#dockerfile)
 *   [HTML](#html)
 *   [Ruby](#ruby)
 *   [Objective-C](#objective-c)
@@ -40,6 +39,7 @@
 *   [Roff](#roff)
 *   [Mustache](#mustache)
 *   [Batchfile](#batchfile)
+*   [Dockerfile](#dockerfile)
 *   [Zig](#zig)
 *   [SVG](#svg)
 *   [Perl](#perl)
@@ -448,7 +448,7 @@
 *   [wangdicoder/tiny-ui](https://github.com/wangdicoder/tiny-ui) - ⚛️ A friendly UI component set for React.js
 *   [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 *   [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
-*   [master-co/css](https://github.com/master-co/css) - The CSS language and framework for rapidly building modern and high-performance websites
+*   [master-co/css](https://github.com/master-co/css) - The CSS Language and Framework
 *   [quirrel-dev/quirrel](https://github.com/quirrel-dev/quirrel) - The Task Queueing Solution for Serverless.
 *   [liyupi/mianshiya-public](https://github.com/liyupi/mianshiya-public) - 干净免费的面试刷题网站，帮助大家拿到满意的 offer！💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮
 *   [pzavolinsky/ts-unused-exports](https://github.com/pzavolinsky/ts-unused-exports) - ts-unused-exports finds unused exported symbols in your Typescript project
@@ -1850,6 +1850,7 @@
 *   [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo
 *   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 *   [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
+*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 *   [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
 *   [denolib/awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
 *   [the-road-to-learn-react/the-road-to-learn-react-chinese](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese) - 《React 学习之道》The Road to learn React (简体中文版) | 最简单，且最实用的 React 实战教程。
@@ -3033,7 +3034,7 @@
 *   [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
 *   [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 *   [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
-*   [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts™ component for Vue.js.
+*   [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
 *   [didi/mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
 *   [electron-userland/electron-installer-debian](https://github.com/electron-userland/electron-installer-debian) - Create a Debian package for your Electron app.
 *   [primus/eventemitter3](https://github.com/primus/eventemitter3) - EventEmitter3 - Because there's also a number 2. And we're faster.
@@ -3723,6 +3724,7 @@
 *   [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 *   [bluzi/jsonstore](https://github.com/bluzi/jsonstore) - :rocket: jsonstore offers a free and secured JSON-based cloud datastore for small projects | Inactive
 *   [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
+*   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 *   [power-assert-js/power-assert](https://github.com/power-assert-js/power-assert) - Power Assert in JavaScript. Provides descriptive assertion messages through standard assert interface. No API is the best API.
 *   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 *   [headjs/headjs](https://github.com/headjs/headjs) - The only script in your HEAD.
@@ -4273,7 +4275,7 @@
 *   [iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API) - API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封面图获取api✎12.千图网58pic无水印解析下载api✎13.喜马拉雅主播FM数据采集api✎14.网易云音乐api✎15.CCTV央视网视频解析api✎16.微信运动刷步数api✎17.皮皮搞笑APP短视频无水印解析api✎18.皮皮虾短视频去水印解析✎19.蓝奏云直链解析✎20.千库网无水印解析✎21.17素材网免VIP解析✎22.快手短视频去水印解析✎23.微视短视频去水印解析)
 *   [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
 *   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. Liberating Web Analytics. Star us on Github? +1.  And we love Pull Requests!
-*   [guanguans/notify](https://github.com/guanguans/notify) - Push notification sdk(Bark、Chanify、DingTalk、Discord、Email、FeiShu、Gitter、Google Chat、iGot、Logger、Mattermost、Microsoft Teams、Now Push、Ntfy、PushBack、Push、PushDeer、Pushover、PushPlus、QQ Channel Bot、Rocket Chat、ServerChan、Showdoc Push、Slack、Telegram、Webhook、WeWork、XiZhi、YiFengChuanHua、Zulip).
+*   [guanguans/notify](https://github.com/guanguans/notify) - Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、PushDeer、PushPlus、Pushback、Pushover、QQ、RocketChat、ServerChan、ShowdocPush、Slack、Telegram、WeWork、XiZhi、YiFengChuanHua、Zulip
 *   [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
 *   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
 *   [lizhipay/faka](https://github.com/lizhipay/faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码
@@ -4502,20 +4504,6 @@
 *   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 *   [ink-zone/fexo](https://github.com/ink-zone/fexo) - A minimalist design theme for hexo.
 
-## Dockerfile
-
-*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-*   [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
-*   [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
-*   [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
-*   [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image
-*   [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
-*   [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
-*   [cnych/kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (February 2024)
-*   [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦🇮🇱
-*   [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
-
 ## HTML
 
 *   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
@@ -4613,7 +4601,6 @@
 *   [LeaVerou/animatable](https://github.com/LeaVerou/animatable) - One property, two values, endless possiblities
 *   [atifaziz/High5](https://github.com/atifaziz/High5) - HTML parsing & serialization toolset for .NET Standard
 *   [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
-*   [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 *   [jasonmoo/t.js](https://github.com/jasonmoo/t.js) - A tiny javascript templating framework in ~400 bytes gzipped
 *   [jadjoubran/webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
 *   [hit9/img2txt](https://github.com/hit9/img2txt) - Image to Ascii Text with color support, can output to html or ansi terminal.
@@ -4726,6 +4713,19 @@
 *   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 *   [f1tz/BlockWin10AU](https://github.com/f1tz/BlockWin10AU) - 禁止Windows10系统自动更新
+
+## Dockerfile
+
+*   [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
+*   [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
+*   [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
+*   [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image
+*   [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
+*   [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
+*   [cnych/kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (February 2024)
+*   [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦🇮🇱
+*   [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
 
 ## Zig
 
