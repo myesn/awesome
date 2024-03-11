@@ -71,6 +71,8 @@
 
 ## TypeScript
 
+*   [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
+*   [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
 *   [uni-helper/vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app) - 由 Vite & uni-app 驱动的跨端快速启动模板
 *   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 *   [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
@@ -335,7 +337,6 @@
 *   [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 *   [unjs/h3](https://github.com/unjs/h3) - ⚡️ Minimal H(TTP) framework built for high performance and portability
 *   [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
-*   [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
 *   [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic JS utils
 *   [shuding/tilg](https://github.com/shuding/tilg) - A magical React Hook that helps you debug components.
 *   [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
@@ -1639,7 +1640,6 @@
 *   [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
 *   [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
 *   [seaswalker/spring-analysis](https://github.com/seaswalker/spring-analysis) - Spring源码阅读
-*   [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
 *   [zmops/zeus-iot](https://github.com/zmops/zeus-iot) - Zeus IoT is the world's first open source Internet of Things distributed collection platform based on Zabbix, with the ability to collect, analyze, and store data from millions of IoT devices.
 *   [Nepxion/Discovery](https://github.com/Nepxion/Discovery) - ☀️ Nepxion Discovery is a solution for Spring Cloud with blue green, gray, route, limitation, circuit breaker, degrade, isolation, tracing, dye, failover, active 蓝绿灰度发布、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移、多活
 *   [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
@@ -3224,7 +3224,7 @@
 *   [bvaughn/progress-estimator](https://github.com/bvaughn/progress-estimator) - Logs a progress bar and estimation for how long a Promise will take to complete
 *   [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 *   [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-*   [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+*   [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 *   [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 *   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 *   [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
