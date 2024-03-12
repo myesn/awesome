@@ -3224,7 +3224,7 @@
 *   [bvaughn/progress-estimator](https://github.com/bvaughn/progress-estimator) - Logs a progress bar and estimation for how long a Promise will take to complete
 *   [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 *   [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-*   [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+*   [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
 *   [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 *   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 *   [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
@@ -3577,7 +3577,7 @@
 *   [atulmy/crate](https://github.com/atulmy/crate) - 👕 👖 📦  A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of trendy clothes and accessories).
 *   [PanJiaChen/awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks) - :sparkling\_heart: A curated list of awesome things
 *   [yemount/pose-animator](https://github.com/yemount/pose-animator) -
-*   [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
+*   [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 *   [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 *   [octref/polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
 *   [umdjs/umd](https://github.com/umdjs/umd) - UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.
