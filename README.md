@@ -3381,7 +3381,7 @@
 *   [Ascotbe/Medusa](https://github.com/Ascotbe/Medusa) - :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中
 *   [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT) - Free English to Chinese Dictionary Database
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-*   [huangz1990/RedisGuide-code](https://github.com/huangz1990/RedisGuide-code) - 《Redis使用手册》的随书示例代码。
+*   [huangzworks/RedisGuide-code](https://github.com/huangzworks/RedisGuide-code) - 《Redis使用手册》的随书示例代码。
 *   [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 *   [tebelorg/RPA-Python](https://github.com/tebelorg/RPA-Python) - Python package for doing RPA
 *   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
@@ -3484,7 +3484,7 @@
 *   [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 *   [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 *   [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-*   [huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
+*   [huangzworks/redis-3.0-annotated](https://github.com/huangzworks/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
 *   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 *   [h2o/h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
 *   [riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote) - 📘《TCP/IP网络编程》(韩-尹圣雨)学习笔记
@@ -4087,7 +4087,7 @@
 ## Go
 
 *   [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
-*   [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) - 不仅仅是即时通讯(IM)
+*   [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) - 不只是即时通讯(IM)
 *   [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.
 *   [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 *   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
@@ -4576,7 +4576,7 @@
 *   [Mr-xn/Penetration\_Testing\_POC](https://github.com/Mr-xn/Penetration_Testing_POC) - 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
 *   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 *   [phodal/growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
-*   [huangz1990/redis](https://github.com/huangz1990/redis) - 《Redis Command Reference》全文的中文翻译版。
+*   [huangzworks/redis](https://github.com/huangzworks/redis) - 《Redis Command Reference》全文的中文翻译版。
 *   [brunobritodev/JPProject.IdentityServer4.AdminUI](https://github.com/brunobritodev/JPProject.IdentityServer4.AdminUI) - :wrench: ASP.NET Core 3 & Angular 8 Administration Panel for :revolving\_hearts:IdentityServer4 and ASP.NET Core Identity
 *   [chokcoco/magicCss](https://github.com/chokcoco/magicCss) - CSS3奇思妙想，单标签实现各类图形
 *   [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
