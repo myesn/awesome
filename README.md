@@ -4,10 +4,11 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [TypeScript](#typescript)
+*   [Go](#go)
 *   [JavaScript](#javascript)
 *   [CSS](#css)
-*   [C#](#c)
 *   [Java](#java)
 *   [Python](#python)
 *   [C++](#c-1)
@@ -16,7 +17,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [Crystal](#crystal)
-*   [Go](#go)
 *   [Vim Script](#vim-script)
 *   [Kotlin](#kotlin)
 *   [Rust](#rust)
@@ -69,8 +69,690 @@
 *   [Smarty](#smarty)
 *   [Objective-C++](#objective-c-1)
 
+## C\#
+
+*   [louislam/rdp-portal](https://github.com/louislam/rdp-portal) - A slightly smarter and simple Remote Desktop manager for Windows.
+*   [LeagueTavern/fix-lcu-window](https://github.com/LeagueTavern/fix-lcu-window) - 解决《英雄联盟》客户端异常窗口大小的问题。
+*   [milanm/DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse) - Most common Design Patterns you need to know, with examples in C#.
+*   [dotnet/eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site
+*   [immense/RemoteControl](https://github.com/immense/RemoteControl) - Server and client libraries that provide remote control functionality.
+*   [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.
+*   [mayuki/dotnet-sail](https://github.com/mayuki/dotnet-sail) - Downloads .NET project from Gist, GitHub, Git, or the web and runs it in a container.
+*   [koenvzeijl/AspNetCore.SassCompiler](https://github.com/koenvzeijl/AspNetCore.SassCompiler) - Sass Compiler Library for .NET Core 3.1/5.x/6.x/7.x without node, using dart-sass as a compiler
+*   [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
+*   [nilaoda/N\_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
+*   [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
+*   [inversionhourglass/Rougamo](https://github.com/inversionhourglass/Rougamo) - An AOP component that takes effect at compile time, similar to PostSharp.
+*   [riok/mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
+*   [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) - 🐱‍🚀【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、常见面试题、面试须知、简历模板、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。
+*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
+*   [sdcb/sdmap](https://github.com/sdcb/sdmap) - A template engine for writing dynamic sql.
+*   [sdcb/Sdcb.Arithmetic](https://github.com/sdcb/Sdcb.Arithmetic) - A modern .NET library that can PInvoke to gmp and mpfr, that enable both high performance and best .NET convenience.
+*   [dynamicexpresso/DynamicExpresso](https://github.com/dynamicexpresso/DynamicExpresso) - C# expressions interpreter
+*   [MoaidHathot/Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's.
+*   [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+*   [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. Moved to https://github.com/dotnet/eShop.
+*   [notion-dotnet/notion-sdk-net](https://github.com/notion-dotnet/notion-sdk-net) - A Notion SDK for .Net
+*   [russkyc/groomwise](https://github.com/russkyc/groomwise) - Onsite Pet Grooming CRM for Windows
+*   [PrismLibrary/Prism](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Xamarin Forms, and Uno / Win UI Applications..
+*   [ButchersBoy/Dragablz](https://github.com/ButchersBoy/Dragablz) - Dragable and tearable tab control for WPF
+*   [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
+*   [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySQL and MariaDB built on top of MySqlConnector
+*   [NewLifeX/NewLife.IoT](https://github.com/NewLifeX/NewLife.IoT) - IoT standard library, which defines various communication protocol standards and specifications in the Internet of Things field, without specific implementation. Used for IoT platform construction and unifying various hardware driver protocols. IoT标准库，定义物联网领域的各种通信协议标准规范，不含具体实现。主要用于IoT平台建设，以及统一各种硬件驱动协议。
+*   [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
+*   [dotnet/dotnet-monitor](https://github.com/dotnet/dotnet-monitor) - This repository contains the source code for .NET Monitor - a tool that allows you to gather diagnostic data from running applications using HTTP endpoints
+*   [dotnet/HttpRepl](https://github.com/dotnet/HttpRepl) - The HTTP Read-Eval-Print Loop (REPL) is a lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported and is used for making HTTP requests to test ASP.NET Core web APIs and view their results.
+*   [featbit/featbit](https://github.com/featbit/featbit) - A feature flags service written in .NET
+*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
+*   [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms. Provides the fundamental infrastructure, production-ready startup templates, application modules, UI themes, tooling, guides and documentation.
+*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
+*   [microsoft/perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
+*   [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
+*   [xljiulang/KestrelApp](https://github.com/xljiulang/KestrelApp) - 基于Kestrel的网络编程应用示例
+*   [xljiulang/WindivertDotnet](https://github.com/xljiulang/WindivertDotnet) - 面向对象的WinDivert的dotnet异步封装
+*   [xljiulang/ServiceSelf](https://github.com/xljiulang/ServiceSelf) - 为.NET 泛型主机的应用程序提供自安装为服务进程的能力
+*   [Sicos1977/ChromiumHtmlToPdf](https://github.com/Sicos1977/ChromiumHtmlToPdf) - Convert HTML to PDF with a Chromium based browser
+*   [IoTSharp/IoTSharp](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
+*   [drewnoakes/figgle](https://github.com/drewnoakes/figgle) - ASCII banner generation for .NET
+*   [IzyPro/WatchDog](https://github.com/IzyPro/WatchDog) - WatchDog is a Realtime Message, Event, HTTP (Request & Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http requests made to their web application and also exception caught during runtime in their web applications, all in Realtime.
+*   [IdentityServer/IdentityServer4](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
+*   [whuanle/CZGL.SystemInfo](https://github.com/whuanle/CZGL.SystemInfo) - 一个.NET Core监控系统CPU内存等信息的工具
+*   [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+*   [hitchao/Jvedio](https://github.com/hitchao/Jvedio) - Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件
+*   [2881099/FreeIM](https://github.com/2881099/FreeIM) - .NETCore websocket 实现简易、高性能、集群即时通讯组件，支持点对点通讯、群聊通讯、上线下线事件消息等众多实用性功能.
+*   [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
+*   [fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat) - 可能是全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，包含微信公众平台（订阅号+服务号+小程序+小游戏+小商店+视频号）、微信开放平台、微信商户平台（微信支付+微企付）、企业微信、微信广告平台、微信智能对话开放平台等模块，可跨平台。持续随官方更新，欢迎 Star/Fork/PR。QQ 交流群 875580418【满】、930461548。
+*   [natemcmaster/LettuceEncrypt](https://github.com/natemcmaster/LettuceEncrypt) - Free, automatic HTTPS certificate generation for ASP.NET Core web apps
+*   [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
+*   [2881099/IdleBus](https://github.com/2881099/IdleBus) - IdleBus 空闲对象管理容器，有效组织对象重复利用，自动创建、销毁，解决【实例】过多且长时间占用的问题。
+*   [bradymholt/cron-expression-descriptor](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
+*   [andrewlock/NetEscapades.EnumGenerators](https://github.com/andrewlock/NetEscapades.EnumGenerators) - A source generator for generating fast "reflection" methods for enums
+*   [Fody/PropertyChanged](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
+*   [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
+*   [Drizin/DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder) - Dapper Query Builder using String Interpolation and Fluent API
+*   [antoinebidault/JsonRuleEngine.Net](https://github.com/antoinebidault/JsonRuleEngine.Net) - A json-rule-engine simple porting to Asp.Net Core
+*   [madelson/DistributedLock](https://github.com/madelson/DistributedLock) - A .NET library for distributed synchronization
+*   [mehdihadeli/food-delivery-microservices](https://github.com/mehdihadeli/food-delivery-microservices) - 🍔 A practical food delivery microservices, built with .Net 7, MassTransit, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
+*   [he55/DreamScene2](https://github.com/he55/DreamScene2) - 一个小而快并且功能强大的 Windows 动态桌面软件
+*   [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional extensions for C#
+*   [fullstackhero/dotnet-webapi-starter-kit](https://github.com/fullstackhero/dotnet-webapi-starter-kit) - production grade .net 8 webapi starter kit with multitenancy support and clean code. 🔥
+*   [wieslawsoltes/Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
+*   [zzzprojects/Eval-Expression.NET](https://github.com/zzzprojects/Eval-Expression.NET) - C# Eval Expression | Evaluate, Compile, and Execute C# code and expression at runtime.
+*   [jtmueller/Collections.Pooled](https://github.com/jtmueller/Collections.Pooled) - Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span.
+*   [beetlex-io/BeetleX](https://github.com/beetlex-io/BeetleX) - high performance dotnet core socket tcp communication components,  support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols  and 1M connections problem solution
+*   [DamianEdwards/MinimalApis.Extensions](https://github.com/DamianEdwards/MinimalApis.Extensions) - A set of extensions and helpers for working with ASP.NET Core Minimal APIs.
+*   [darkthread/better-console-desktop-tool](https://github.com/darkthread/better-console-desktop-tool) -
+*   [KirillOsenkov/MSBuildStructuredLog](https://github.com/KirillOsenkov/MSBuildStructuredLog) - A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.
+*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
+*   [victor-iyif/ferventdeserte](https://github.com/victor-iyif/ferventdeserte) - visualized crawler & ETL IDE written with C#/WPF
+*   [meysamhadeli/booking-microservices](https://github.com/meysamhadeli/booking-microservices) - Practical microservices, built with .Net 8, DDD, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
+*   [dotnet/dotnet-api-docs](https://github.com/dotnet/dotnet-api-docs) - .NET API reference documentation (.NET 5+, .NET Core, .NET Framework)
+*   [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
+*   [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
+*   [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+*   [videolan/libvlcsharp](https://github.com/videolan/libvlcsharp) - Cross-platform .NET/Mono bindings for LibVLC
+*   [sj-distributor/FastCache](https://github.com/sj-distributor/FastCache) - dotnetcore, dotnet cache, dotnet redis, dotnet InMemoryCache
+*   [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc.
+*   [yuzhengyang/Fork](https://github.com/yuzhengyang/Fork) - a c# utility library. C#工具包，C#工具类，常用方法，系统API，文件处理、加密解密、Winform美化（C# Tools）
+*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+*   [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
+*   [daxnet/forms-ui](https://github.com/daxnet/forms-ui) - A Windows Forms library for solving real life problems.
+*   [martincostello/sqllocaldb](https://github.com/martincostello/sqllocaldb) - SQL LocalDB Wrapper is a .NET library providing interop with the Microsoft SQL Server LocalDB Instance API
+*   [Calabonga/Microservice-Template](https://github.com/Calabonga/Microservice-Template) - Templates for microservice architecture. Nimble Microservice Framework contains two modules. The first with OpenIddict and the second without OpenIddict. Templates are built on ASP.NET Core platform with different versions Core3.1, NET6, NET7 and NET8. You can create a new project extremely fast: in Visual Studio, Rider, dotnet CLI.
+*   [vla/BloomFilter.NetCore](https://github.com/vla/BloomFilter.NetCore) - A bloom filter implementation
+*   [DamianEdwards/MinimalApiPlayground](https://github.com/DamianEdwards/MinimalApiPlayground) - A place I'm trying out the new ASP.NET Core minimal APIs features.
+*   [2881099/csredis](https://github.com/2881099/csredis) - .NET Core or .NET Framework 4.0+ client for Redis and Redis Sentinel (2.8) and Cluster. Includes both synchronous and asynchronous clients.
+*   [2881099/FreeRedis](https://github.com/2881099/FreeRedis) - 🦄 FreeRedis is .NET40+ redis client. supports cluster, sentinel, master-slave, pub-sub, lua, pipeline, transaction, streams, client-side-caching, and pooling.
+*   [sebastienros/parlot](https://github.com/sebastienros/parlot) - Fast and lightweight parser creation tools
+*   [alex-oswald/WindowsFormsLifetime](https://github.com/alex-oswald/WindowsFormsLifetime) - .NET Core hosting infrastructure for Windows Forms.
+*   [imazen/imageflow-dotnet-server](https://github.com/imazen/imageflow-dotnet-server) - A super-fast image server to speed up your site - deploy as a microservice, serverless, or embeddable.
+*   [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card\_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
+*   [imchillin/Anamnesis](https://github.com/imchillin/Anamnesis) - A standalone tool that allows the user a greater degree of flexibility for making creative and interesting screenshots.
+*   [ScottPlot/ScottPlot](https://github.com/ScottPlot/ScottPlot) - Interactive plotting library for .NET
+*   [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+*   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
+*   [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio & CLI
+*   [lepoco/wpfui](https://github.com/lepoco/wpfui) - WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.
+*   [inthehand/32feet](https://github.com/inthehand/32feet) - Personal Area Networking for .NET. Open source and professionally supported
+*   [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 6 and newer.
+*   [xoofx/dotnet-releaser](https://github.com/xoofx/dotnet-releaser) - Easily build, run tests and coverage, cross-compile, package and publish your .NET library or application to NuGet and GitHub.
+*   [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
+*   [xujiangjiang/Easy-Cat-Timer](https://github.com/xujiangjiang/Easy-Cat-Timer) - This is a very simple cat timer, made using WPF（这是一个非常简单的猫咪计时器，使用WPF制作）
+*   [wmjordan/Codist](https://github.com/wmjordan/Codist) - A visual studio extension which enhances syntax highlighting, quick info (tooltip), navigation bar, scrollbar, display quality, and brings smart tool bar with code refactoring to code editor.
+*   [dadhi/DryIoc](https://github.com/dadhi/DryIoc) - DryIoc is fast, small, full-featured IoC Container for .NET
+*   [autodotua/RemoteFFmpegGUI](https://github.com/autodotua/RemoteFFmpegGUI) - 使用 Vue.js + ASP.NET + WPF 搭建的 FFmpeg 的 Web/Windows GUI 程序，支持视频转码、拼接等功能
+*   [mayuki/Cocona](https://github.com/mayuki/Cocona) - Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET.
+*   [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
+*   [stephbu/csharp-dns-server](https://github.com/stephbu/csharp-dns-server) - Fully functional DNS server written in C#
+*   [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
+*   [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
+*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
+*   [vezel-dev/cathode](https://github.com/vezel-dev/cathode) - A terminal-centric replacement for the .NET console APIs.
+*   [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
+*   [Kyome22/RunCat\_for\_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
+*   [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
+*   [immense/Remotely](https://github.com/immense/Remotely) - A remote control and remote scripting solution, built with .NET 8, Blazor, and SignalR.
+*   [ullmark/hashids.net](https://github.com/ullmark/hashids.net) - A small .NET package to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.
+*   [louislam/lazy-compress-h265](https://github.com/louislam/lazy-compress-h265) - Compress or convert your video files to h.265 (hevc) format with one-click, make its size much smaller!
+*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
+*   [xin9le/FastEnum](https://github.com/xin9le/FastEnum) - The world fastest enum utilities for C#/.NET
+*   [besley/Slickflow](https://github.com/besley/Slickflow) - .NET Open Source Workflow Engine,  .NET 开源工作流
+*   [dotnetcore/sharding-core](https://github.com/dotnetcore/sharding-core) - high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵
+*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+*   [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
+*   [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
+*   [DebugST/STNodeEditor](https://github.com/DebugST/STNodeEditor) - 一款基于.Net WinForm的节点编辑器 纯GDI+绘制 使用方式非常简洁 提供了丰富的属性以及事件 可以非常方便的完成节点之间数据的交互及通知 大量的虚函数供开发者重写具有很高的自由性
+*   [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
+*   [Cysharp/MessagePipe](https://github.com/Cysharp/MessagePipe) - High performance in-memory/distributed messaging pipeline for .NET and Unity.
+*   [jduv/AppDomainToolkit](https://github.com/jduv/AppDomainToolkit) - A toolkit for managing the complexities of .NET application domain programming.
+*   [hemaju/Wireboy.Socket.P2PSocket](https://github.com/hemaju/Wireboy.Socket.P2PSocket) - P2P内网穿透，实现【公司】-【家】远程控制
+*   [aaronpowell/httpstatus](https://github.com/aaronpowell/httpstatus) - Easily generate different HTTP responses for testing
+*   [YJammak/Weather](https://github.com/YJammak/Weather) - 用WPF写的日历天气桌面小程序
+*   [UglyToad/PdfPig](https://github.com/UglyToad/PdfPig) - Read and extract text and other content from PDFs in C# (port of PDFBox)
+*   [tinylit/codearts](https://github.com/tinylit/codearts) - 【代码艺术】一款轻量高效的基础框架（包含类型转换、复制、映射，以及ORM支持）。
+*   [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) - UI automation library for .Net
+*   [dotnetconfig/dotnet-config](https://github.com/dotnetconfig/dotnet-config) - A global tool and accompanying API for managing hierarchical configurations for dotnet tools, using git config format
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+*   [Xabaril/Balea](https://github.com/Xabaril/Balea) - Balea is an authorization framework for ASP.NET Core developers.
+*   [dotnet/upgrade-assistant](https://github.com/dotnet/upgrade-assistant) - A tool to assist developers in upgrading .NET Framework applications to .NET 6 and beyond
+*   [dotnet/try-convert](https://github.com/dotnet/try-convert) - Helping .NET developers port their projects to .NET Core!
+*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
+*   [91270/Meiam.System](https://github.com/91270/Meiam.System) - .NET 7 / .NET 5 WebAPI + Vue 2.0 + RBAC 企业级前后端分离权限框架
+*   [XIU2/TileTool](https://github.com/XIU2/TileTool) - 🎨 Windows10 磁贴美化小工具
+*   [microsoft/RulesEngine](https://github.com/microsoft/RulesEngine) - A Json based Rules Engine with extensive Dynamic expression support
+*   [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+*   [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
+*   [dotnet/Nerdbank.Streams](https://github.com/dotnet/Nerdbank.Streams) - Specialized .NET Streams and pipes for full duplex in-proc communication, web sockets, and multiplexing
+*   [sheng-jie/Design-Pattern](https://github.com/sheng-jie/Design-Pattern) - 设计模式 C# 版（ .NET 6），有系列文章讲解
+*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
+*   [dotnet/roslynator](https://github.com/dotnet/roslynator) - Roslynator is a set of code analysis tools for C#, powered by Roslyn.
+*   [roslynpad/roslynpad](https://github.com/roslynpad/roslynpad) - A cross-platform C# editor based on Roslyn and AvalonEdit
+*   [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+*   [reactiveui/refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
+*   [saucecontrol/InheritDoc](https://github.com/saucecontrol/InheritDoc) - Automatically replace \<inheritdoc /> tags in .NET XML comments with inherited documentation at build time
+*   [saucecontrol/PhotoSauce](https://github.com/saucecontrol/PhotoSauce) - MagicScaler high-performance, high-quality image processing pipeline for .NET
+*   [tusdotnet/tusdotnet](https://github.com/tusdotnet/tusdotnet) - .NET server implementation of the Tus protocol for resumable file uploads. Read more at https://tus.io
+*   [Djohnnie/DotNet5-UpdateNow-2020](https://github.com/Djohnnie/DotNet5-UpdateNow-2020) - What is new in .NET 5 and the future of .NET - Update Now 2020
+*   [dotnet-outdated/dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated) - A .NET Core global tool to display and update outdated NuGet packages in a project
+*   [jasonhua95/awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core) - .NET Core库、工具、框架和软件的中文收录大全。 内容包括：库、工具、框架、模板引擎、身份认证、数据库、ORM框架、图片处理、文本处理、机器学习、日志、代码分析、教程等。
+*   [FastTunnel/FastTunnel](https://github.com/FastTunnel/FastTunnel) - expose a local server to the internet.  高性能跨平台的内网穿透解决方案 远程内网计算机 域名访问内网站点 反向代理内网服务 端口转发 http代理
+*   [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
+*   [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
+*   [RayWangQvQ/BiliBiliTool](https://github.com/RayWangQvQ/BiliBiliTool) - 基于 .Net 5 的B站（哔哩哔哩）任务工具，实现每日自动运行任务：如每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6；如定时自动领取大会员权益、月底自动为自己充电；如天选时刻抽奖等功能。
+*   [net2cn/Anime4KSharp](https://github.com/net2cn/Anime4KSharp) - C# implementation of Anime4K that runs only on CPU just for learning.
+*   [zqlovejyc/SQLBuilder](https://github.com/zqlovejyc/SQLBuilder) - .NET Framework4.5版本Expression表达式转换为SQL语句，支持SqlServer、MySql、Oracle、Sqlite、PostgreSql；基于Dapper实现了不同数据库对应的数据仓储Repository；
+*   [proxysu/ProxySU](https://github.com/proxysu/ProxySU) - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
+*   [night-moon-studio/NatashaPad](https://github.com/night-moon-studio/NatashaPad) - Another dotnet debug tool like LinqPad and dotnet fiddle, powered by Roslyn and Natasha
+*   [yiyungent/SimCaptcha](https://github.com/yiyungent/SimCaptcha) - ✅ 简单易用的点触验证码 (前端+后端)
+*   [Job79/EasyTcp](https://github.com/Job79/EasyTcp) - TCP framework for C#. Focused on usability and performance.
+*   [ViewFaceCore/ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) - C# 超简单的离线人脸识别库。( 基于 SeetaFace6 )
+*   [Fody/NullGuard](https://github.com/Fody/NullGuard) - Adds null argument checks to an assembly
+*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
+*   [Fody/MethodTimer](https://github.com/Fody/MethodTimer) - Injects some very basic method timing code.
+*   [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
+*   [DomanyDusan/lambda-sql-builder](https://github.com/DomanyDusan/lambda-sql-builder) - A small independent library that will let you use standard C# and Linq to produce SQL queries
+*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
+*   [tomaszzmuda/Xabe.FFmpeg](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from dotnet core application.
+*   [lianggx/Kong.Net](https://github.com/lianggx/Kong.Net) - .NET Core Client of the Kong
+*   [ashmind/mirrorsharp](https://github.com/ashmind/mirrorsharp) - MirrorSharp is a code editor \<textarea> built on Roslyn and CodeMirror
+*   [hexadezi/adbGUI](https://github.com/hexadezi/adbGUI) - Wrapper for Android Debug Bridge (ADB) written in C#
+*   [zsh2401/AutumnBox](https://github.com/zsh2401/AutumnBox) - 图形化ADB工具箱
+*   [q315523275/FamilyBucket](https://github.com/q315523275/FamilyBucket) - 集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用
+*   [praeclarum/FuGetGallery](https://github.com/praeclarum/FuGetGallery) - An alternative web UI for browsing nuget packages
+*   [dotnetcore/AgileConfig](https://github.com/dotnetcore/AgileConfig) - 基于.NET Core开发的轻量级分布式配置中心 / .NET  Core lightweight configuration server
+*   [zmjack/Chinese](https://github.com/zmjack/Chinese) - 中文解析通用工具。包括拼音，简繁转换，数字读法，货币读法。
+*   [PiranhaCMS/piranha.core](https://github.com/PiranhaCMS/piranha.core) - Piranha CMS is the friendly editor-focused CMS for .NET that can be used both as an integrated CMS or as a headless API.
+*   [abock/dotnet-ecoji](https://github.com/abock/dotnet-ecoji) - 😻 Encode and decode data using emoji in .NET❣️ Like base64, except base1024, and uses an emoji alphabet. 🎉
+*   [TortugaResearch/DotNet-ORM-Cookbook](https://github.com/TortugaResearch/DotNet-ORM-Cookbook) - This repository is meant to show how to perform common tasks using C# with variety of ORMs.
+*   [vbilopav/NoOrm.Net](https://github.com/vbilopav/NoOrm.Net) - Fast, modern and extendible C# Data Access library
+*   [geovens/gInk](https://github.com/geovens/gInk) - An easy to use on-screen annotation software inspired by Epic Pen.
+*   [jexuswebserver/JexusManager](https://github.com/jexuswebserver/JexusManager) - Jexus Manager http://jexusmanager.com
+*   [kerryjiang/SuperSocket](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight, cross platform and extensible socket server application framework.
+*   [dahall/Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
+*   [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
+*   [WeihanLi/WeihanLi.Npoi](https://github.com/WeihanLi/WeihanLi.Npoi) - NPOI Extensions, excel/csv importer/exporter for IEnumerable\<T>/DataTable, fluentapi(great flexibility)/attribute configuration
+*   [castleproject/Core](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter
+*   [hanyizhao/NetSpeedMonitor](https://github.com/hanyizhao/NetSpeedMonitor) - This is a net speed monitor just like 360 for windows user.
+*   [openhardwaremonitor/openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) - Open Hardware Monitor
+*   [luoyunchong/lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore) - 😃A simple and practical CMS implemented by .NET + FreeSql；前后端分离、Docker部署、OAtuh2授权登录、自动化部署DevOps、自动同步至Gitee、代码生成器、仿掘金专栏
+*   [hey-hoho/ScheduleMasterCore](https://github.com/hey-hoho/ScheduleMasterCore) - This is a distributed task management system base on .Net Core platform .
+*   [dotnetcore/WebApiClient](https://github.com/dotnetcore/WebApiClient) - An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
+*   [SteeltoeOSS/Initializr](https://github.com/SteeltoeOSS/Initializr) - Steeltoe Initializr - .NET Microservices Templates
+*   [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
+*   [Coldairarrow/EFCore.Sharding](https://github.com/Coldairarrow/EFCore.Sharding) - Database Sharding For EFCore
+*   [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
+*   [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) - HttpReports is an APM (application performance monitor) system for .Net Core.
+*   [WeihanLi/SamplesInPractice](https://github.com/WeihanLi/SamplesInPractice) - some samples in practice
+*   [fullstackproltd/AspNetCoreSpa](https://github.com/fullstackproltd/AspNetCoreSpa) - Asp.Net 7.0 & Angular 15 SPA Fullstack application with plenty of examples. Live demo:
+*   [StefanKert/BuildVision](https://github.com/StefanKert/BuildVision) - A Visual Studio extension to visualize the building process.
+*   [leosperry/Chroniton](https://github.com/leosperry/Chroniton) - A library for running tasks(jobs) on schedules.
+*   [dotnetcore/FreeSql](https://github.com/dotnetcore/FreeSql) - 🦄 .NET aot orm, C# orm, VB.NET orm, Mysql orm, Postgresql orm, SqlServer orm, Oracle orm, Sqlite orm, Firebird orm, 达梦 orm, 人大金仓 orm, 神通 orm, 翰高 orm, 南大通用 orm, 虚谷 orm, 国产 orm, Clickhouse orm, QuestDB orm, MsAccess orm.
+*   [JonPSmith/EfCore.TestSupport](https://github.com/JonPSmith/EfCore.TestSupport) - Tools for helping in unit testing applications that use Entity Framework Core
+*   [axzxs2001/Asp.NetCoreExperiment](https://github.com/axzxs2001/Asp.NetCoreExperiment) - 原来所有项目都移动到**OleVersion**目录下进行保留。新的案例装以.net 5.0为主，一部分对以前案例进行升级，一部分将以前的工作经验总结出来，以供大家参考！
+*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
+*   [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
+*   [PublicApiGenerator/PublicApiGenerator](https://github.com/PublicApiGenerator/PublicApiGenerator) - Project to generate a public API of an assembly or type (useful for semantic versioning)
+*   [Cysharp/ConsoleAppFramework](https://github.com/Cysharp/ConsoleAppFramework) - Micro-framework for console applications to building CLI tools/Daemon/Batch for .NET, C#.
+*   [migomiddle/xms](https://github.com/migomiddle/xms) - 基于.netcore的跨平台应用框架，包含众多常用模块，易上手、易扩展，xms可理解为x(可扩展的/任意的)m(管理)s(系统)
+*   [liukuo362573/YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin) - 基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观
+*   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
+*   [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
+*   [gainorloss/Apsk](https://github.com/gainorloss/Apsk) - Application Shared Kernel
+*   [SciSharp/dotnet-mysql-replication](https://github.com/SciSharp/dotnet-mysql-replication) - C# Implementation of MySQL replication protocol
+*   [yuzd/AntDeploy](https://github.com/yuzd/AntDeploy) - Tools to deploy applications to remote server(iis,windowsService,linuxService,docker) support netframework and dotnetcore,support rollback and increment deploy
+*   [Squidex/squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub
+*   [xljiulang/SocketConnectionFactory](https://github.com/xljiulang/SocketConnectionFactory) - kestrel未公开的高性能的Socket客户端工厂
+*   [Fody/ConfigureAwait](https://github.com/Fody/ConfigureAwait) - Configure async code's ConfigureAwait at a global level
+*   [yswenli/SAEA](https://github.com/yswenli/SAEA) - SAEA.Socket is a high-performance IOCP framework TCP based on dotnet standard 2.0; Src contains its application test scenarios, such as websocket,rpc, redis driver, MVC WebAPI, lightweight message server, ultra large file transmission, etc. SAEA.Socket是一个高性能IOCP框架的 TCP，基于dotnet standard 2.0；Src中含有其应用测试场景，例如websocket、rpc、redis驱动、MVC WebAPI、轻量级消息服务器、超大文件传输等
+*   [jbogard/MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
+*   [the1812/Malware-Patch](https://github.com/the1812/Malware-Patch) - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
+*   [danielgerlag/conductor](https://github.com/danielgerlag/conductor) - Distributed workflow server
+*   [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.
+*   [kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+*   [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
+*   [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
+*   [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) -  :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
+*   [ElderJames/NCaptcha](https://github.com/ElderJames/NCaptcha) - Captcha in .NET Core
+*   [sebastienros/jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET
+*   [Coldairarrow/Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue) - Admin Fx Based On .NET 5 + Ant Design Vue
+*   [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
+*   [sheng-jie/UnitOfWork](https://github.com/sheng-jie/UnitOfWork) - DDD中实体、聚合、仓储、UOW相关实现。
+*   [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET = ❤
+*   [jiyuwu/TemplateCore](https://github.com/jiyuwu/TemplateCore) - .Net Core Good Template （.Net Core 的通用模板项目）
+*   [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 8, Angular 17, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, Mediator Pattern, Result Pattern, Folder-by-Feature Structure, Separation of Concerns.
+*   [obfuscar/obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies
+*   [micjahn/ZXing.Net](https://github.com/micjahn/ZXing.Net) - .Net port of the original java-based barcode reader and generator library zxing
+*   [JoyMoe/TinyScraper](https://github.com/JoyMoe/TinyScraper) - A tiny and easy-to-use scraping and web crawling toolkit for .Net Core
+*   [snatch-dev/Convey](https://github.com/snatch-dev/Convey) - A simple recipe for .NET Core microservices.
+*   [danielgerlag/workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
+*   [TCPingInfoView/TCPingInfoView-Classic](https://github.com/TCPingInfoView/TCPingInfoView-Classic) - TCP 连接延迟测试
+*   [dotnet/dotNext](https://github.com/dotnet/dotNext) - Next generation API for .NET
+*   [Fody/Costura](https://github.com/Fody/Costura) - Embed references as resources
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+*   [zhangqi-ulua/XlsxToLua](https://github.com/zhangqi-ulua/XlsxToLua) - Excel表格数据导出为Lua table、csv、json形式的工具，兼带数据检查功能以及导出、导入MySQL数据库功能
+*   [xunki/RemoteDesktopManage](https://github.com/xunki/RemoteDesktopManage) - 基于 MSTSC 连接 Windows 远程桌面，并对其进行封装实现管理多个远程桌面配置的小工具
+*   [jm33-m0/kms-activate](https://github.com/jm33-m0/kms-activate) - Microsoft Windows/Office 一键激活工具
+*   [mili-tan/AuroraDNS.GUI](https://github.com/mili-tan/AuroraDNS.GUI) - 纯净抗污染，简单轻量级
+*   [gemgin/WeChatTools](https://github.com/gemgin/WeChatTools) - 微信域名检测接口:实时检测域名能否在微信中直接访问的技术;微信小程序状态检测接口;QQ管家域名检测接口;抖音域名检测;域名icp备案信息查询接口
+*   [qwqcode/Nacollector](https://github.com/qwqcode/Nacollector) - Nacollector WEB data collection platform.
+*   [Meowv/Blog](https://github.com/Meowv/Blog) - 🤣本项目有不同开发版本，最新版底层基于 abp vNext 搭建和免费开源跨平台框架 .NET5 进行开发，使用 MongoDB 存储数据，Redis 缓存数据。项目采用前后端分离的模式进行开发，API 遵循 RESTful 接口规范，页面使用 Blazor 进行开发，可作为 .NET Core 入门项目进行学习。If you liked `Blog` project or if it helped you, please give a star ⭐️ for this repository. 👍👍👍
+*   [shack2/SNETCracker](https://github.com/shack2/SNETCracker) - 超级弱口令检查工具是一款Windows平台的弱口令审计工具，支持批量多线程检查，可快速发现弱密码、弱口令账号，密码支持和用户名结合进行检查，大大提高成功率，支持自定义服务端口和字典。
+*   [beetlex-io/Bumblebee](https://github.com/beetlex-io/Bumblebee) - .net core fast http and websocket gateway components
+*   [xljiulang/NetworkSocket](https://github.com/xljiulang/NetworkSocket) - NetworkSocket是一个以中间件(middleware)扩展通讯协议，以插件(plug)扩展服务器功能的支持SSL安全传输的通讯框架；目前支持http、websocket、fast、flex策略与silverlight策略协议。
+*   [apache/lucenenet](https://github.com/apache/lucenenet) - Apache Lucene.NET
+*   [ldqk/Masuit.LuceneEFCore.SearchEngine](https://github.com/ldqk/Masuit.LuceneEFCore.SearchEngine) - 基于EntityFrameworkCore和Lucene.NET实现的全文检索搜索引擎
+*   [djluck/prometheus-net.DotNetRuntime](https://github.com/djluck/prometheus-net.DotNetRuntime) - Exposes .NET core runtime metrics (GC, JIT, lock contention, thread pool) using the prometheus-net package
+*   [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
+*   [jlucansky/Quartzmin](https://github.com/jlucansky/Quartzmin) - Quartzmin is powerful, easy to use web management tool for Quartz.NET
+*   [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows. Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
+*   [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
+*   [umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) - The simple, flexible and friendly ASP.NET CMS used by more than 730.000 websites
+*   [microsoft/IIS.Administration](https://github.com/microsoft/IIS.Administration) - REST API for managing IIS
+*   [Tornhoof/SpanJson](https://github.com/Tornhoof/SpanJson) - SpanJson is a JSON serializer for .NET Core 6.0+
+*   [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
+*   [beckzhu/SimpleRemote](https://github.com/beckzhu/SimpleRemote) - Remote Administration Tools
+*   [casbin/Casbin.NET](https://github.com/casbin/Casbin.NET) - An authorization library that supports access control models like ACL, RBAC, ABAC in .NET (C#)
+*   [zspitz/ExpressionTreeVisualizer](https://github.com/zspitz/ExpressionTreeVisualizer) - Debugging visualizer for expression trees
+*   [dotnet-presentations/aspnetcore-app-workshop](https://github.com/dotnet-presentations/aspnetcore-app-workshop) - This workshop will teach you ASP.NET Core by building a complete conference management website from scratch.
+*   [dotnet/sourcelink](https://github.com/dotnet/sourcelink) - Source Link enables a great source debugging experience for your users, by adding source control metadata to your built assets
+*   [dotnet/roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) -
+*   [ComponentFactory/Krypton](https://github.com/ComponentFactory/Krypton) - Krypton WinForms components for .NET
+*   [PolicyServer/PolicyServer.Local](https://github.com/PolicyServer/PolicyServer.Local) - Sample OSS version of PolicyServer
+*   [tmds/Tmds.Systemd](https://github.com/tmds/Tmds.Systemd) - .NET Core library for interacting with systemd
+*   [Kooboo/Kooboo](https://github.com/Kooboo/Kooboo) - A new web development methodology for JavaScript & C# developers.  A super fast and very easy to use CMS.
+*   [SkyChenSky/Sikiro.Dapper.Extension](https://github.com/SkyChenSky/Sikiro.Dapper.Extension) - This is an extension based on dapper, supporting lambda expression, with chain style which allows developers to use more gracely and innovationally.
+*   [ldqk/Masuit.Tools](https://github.com/ldqk/Masuit.Tools) - 全龄段友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！
+*   [Lokad/ILPack](https://github.com/Lokad/ILPack) - Serialize .NET Core assemblies
+*   [hardkoded/puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp) - Headless Chrome .NET API
+*   [tmoonlight/NSmartProxy](https://github.com/tmoonlight/NSmartProxy) - NSmartProxy是一款开源的内网穿透工具。采用.NET CORE的全异步模式打造。(NSmartProxy is an open source reverse proxy tool that creates a secure tunnel from a public endpoint to a locally service.)
+*   [mixcore/mix.core](https://github.com/mixcore/mix.core) - 🚀 Mixcore CMS is an Future-Proof Enterprise Web CMS that supports both headless and decoupled to easily build any kinds of app/web app/all in all/customizable APIs built on top of ASP.NET Core / Dotnet Core. It is a completely open-source ASP.NET Core (Dotnet Core) CMS solution. https://mixcore.org
+*   [jacqueskang/IpcServiceFramework](https://github.com/jacqueskang/IpcServiceFramework) - .NET Core Inter-process communication framework
+*   [nreco/lambdaparser](https://github.com/nreco/lambdaparser) - Runtime parser for string expressions (formulas, method calls). Builds dynamic LINQ expression tree and compiles it to lambda delegate.
+*   [daniellittledev/Enexure.MicroBus](https://github.com/daniellittledev/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET
+*   [sidristij/dotnetbook](https://github.com/sidristij/dotnetbook) - .NET Platform Architecture book (English, Chinese, Russian)
+*   [lukencode/FluentEmail](https://github.com/lukencode/FluentEmail) - All in one email sender for .NET. Supports popular senders (SendGrid, MailGun, etc) and Razor templates.
+*   [xoofx/markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
+*   [anjoy8/ChristDDD](https://github.com/anjoy8/ChristDDD) - 🙌 ASP.NET Core 3.1 应用, 包含 DDD、CQRS、EDA 和ES事件回溯
+*   [anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core) - 💖 ASP.NET Core 8.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：
+*   [hvanbakel/CsprojToVs2017](https://github.com/hvanbakel/CsprojToVs2017) - Tooling for converting pre 2017 project to the new Visual Studio 2017 format.
+*   [microsoft/Recognizers-Text](https://github.com/microsoft/Recognizers-Text) - Microsoft.Recognizers.Text provides recognition and resolution of numbers, units, date/time, etc. in multiple languages (ZH, EN, FR, ES, PT, DE, IT, TR, HI, NL. Partial support for JA, KO, AR, SV). Packages available at: https://www.nuget.org/profiles/Recognizers.Text, https://www.npmjs.com/~recognizers.text
+*   [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - A .NET workflows library
+*   [ProxyKit/ProxyKit](https://github.com/ProxyKit/ProxyKit) - A toolkit to create code-first HTTP reverse proxies on ASP.NET Core
+*   [davidfowl/NewId](https://github.com/davidfowl/NewId) - A sequential id generator that works across nodes with no collisions
+*   [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
+*   [bleroy/clay](https://github.com/bleroy/clay) - Clay is a dynamic C# type that will enable you to sculpt objects of any shape just as easily as in JavaScript or other dynamic languages.
+*   [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
+*   [ExcelDataReader/ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files
+*   [blqw/SettingsFetcher](https://github.com/blqw/SettingsFetcher) - 用于快速操作设置
+*   [jonwagner/Insight.Database](https://github.com/jonwagner/Insight.Database) - Fast, lightweight .NET micro-ORM
+*   [MarcosMeli/FileHelpers](https://github.com/MarcosMeli/FileHelpers) - The FileHelpers are a free and easy to use .NET library to read/write data from fixed length or delimited records in files, strings or streams
+*   [thomasgalliker/EntityFramework.Toolkit](https://github.com/thomasgalliker/EntityFramework.Toolkit) - EntityFramework best practices, patterns, utilities and extensions
+*   [Finickyflame/DesignPatterns](https://github.com/Finickyflame/DesignPatterns) - Simple repository containing one simple example for all existing patterns in C#
+*   [joaomatossilva/DateTimeExtensions](https://github.com/joaomatossilva/DateTimeExtensions) - This project is a merge of several common DateTime operations on the form of  extensions to System.DateTime, including natural date difference text (precise and human rounded), holidays and working days calculations on several culture locales.
+*   [FluentDateTime/FluentDateTime](https://github.com/FluentDateTime/FluentDateTime) - Allows cleaner DateTime expressions and operations
+*   [Yuziquan/MyFileManager](https://github.com/Yuziquan/MyFileManager) - A self-developed customized file manager(file explorer).
+*   [teddymacn/CoreProfiler](https://github.com/teddymacn/CoreProfiler) - A .NET Core Profiling Library
+*   [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
+*   [petrsvihlik/WopiHost](https://github.com/petrsvihlik/WopiHost) - ASP.NET Core MVC implementation of the WOPI protocol. Enables integration with WOPI clients such as Office Online Server.
+*   [ProfessionalCSharp/ProfessionalCSharp7](https://github.com/ProfessionalCSharp/ProfessionalCSharp7) - Code samples for the book Professional C# 7 and .NET Core 2.0 (with updates for 2.1), Wrox Press
+*   [ProfessionalCSharp/MoreSamples](https://github.com/ProfessionalCSharp/MoreSamples) - Additional code samples the book series Professional C#, Wrox Press
+*   [ProfessionalCSharp/ProfessionalCSharp6](https://github.com/ProfessionalCSharp/ProfessionalCSharp6) - Code samples for the book Professional C# 6 and .NET Core 1.0, Wrox Press
+*   [davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) - This repository has examples of broken patterns in ASP.NET Core applications
+*   [jasontaylordev/NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders) - Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.
+*   [MiloszKrajewski/K4os.Compression.LZ4](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) - LZ4/LH4HC compression for .NET Standard 1.6/2.0 (formerly known as lz4net)
+*   [tpeczek/Lib.AspNetCore.ServerSentEvents](https://github.com/tpeczek/Lib.AspNetCore.ServerSentEvents) - Lib.AspNetCore.ServerSentEvents is a library which provides Server-Sent Events (SSE) support for ASP.NET Core
+*   [TerribleDev/HardHat](https://github.com/TerribleDev/HardHat) - Help secure .net core apps with various HTTP headers (such as CSP's)
+*   [JimBobSquarePants/ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - :camera: A fluent wrapper around System.Drawing for the processing of image files.
+*   [mysteryx93/FFmpeg.NET](https://github.com/mysteryx93/FFmpeg.NET) - \[DEPRECATED] .Net Wrapper for FFmpeg
+*   [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
+*   [kklldog/AgileTrace](https://github.com/kklldog/AgileTrace) - AgileTrace 一个轻量级的日志收集系统，支持sqlserver，sqlite，mongodb作为存储
+*   [kklldog/AServer](https://github.com/kklldog/AServer) - AServer是基于asp.net core Kestrel封装的一个超迷你http服务器
+*   [natemcmaster/CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET
+*   [ferventdesert/Hawk](https://github.com/ferventdesert/Hawk) - visualized crawler & ETL IDE written with C#/WPF
+*   [huiyadanli/PasteEx](https://github.com/huiyadanli/PasteEx) - :clipboard: Paste As File 把剪贴板的内容直接粘贴为文件
+*   [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion) - Unified Realtime/API framework for .NET platform and Unity.
+*   [ASOS/SimpleEventStore](https://github.com/ASOS/SimpleEventStore) -
+*   [aalhour/C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - :books: :chart\_with\_upwards\_trend: Plug-and-play class-library project of standard Data Structures and Algorithms in C#
+*   [jamesmh/coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
+*   [khellang/Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
+*   [Kong/unirest-net](https://github.com/Kong/unirest-net) - Unirest in .NET: Simplified, lightweight HTTP client library.
+*   [GitTools/GitLink](https://github.com/GitTools/GitLink) - Making .NET open source accessible!
+*   [mayuki/Kurukuru](https://github.com/mayuki/Kurukuru) - Terminal Spinner for .NET platform
+*   [mayuki/Rin](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core
+*   [RobThree/IdGen](https://github.com/RobThree/IdGen) - Twitter Snowflake-alike ID generator for .Net
+*   [rocketRobin/myrmec](https://github.com/rocketRobin/myrmec) - This library is used to detect real file format type via file hex head (identify file format by header).
+*   [stevejgordon/CorrelationId](https://github.com/stevejgordon/CorrelationId) - An ASP.NET Core middleware component which synchronises a correlation ID for cross API request logging.
+*   [IgnaceMaes/MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
+*   [Accelerider/BaiduPanDownloadWinform](https://github.com/Accelerider/BaiduPanDownloadWinform) - 百度网盘不限速下载工具
+*   [markiodev/Networker](https://github.com/markiodev/Networker) - A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
+*   [peters/winforms-modernui](https://github.com/peters/winforms-modernui) - My humble attempt to bring the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications ...
+*   [scriban/scriban](https://github.com/scriban/scriban) - A fast, powerful, safe and lightweight scripting language and engine for .NET
+*   [kulend/Vino.Core.TimedTask](https://github.com/kulend/Vino.Core.TimedTask) - 基于.NET CORE的一个定时任务运行管理组件。
+*   [iccb1013/Sheng.WeixinConstruction](https://github.com/iccb1013/Sheng.WeixinConstruction) - 升讯威微信营销系统（第三方微信平台）完整源代码。包括了面向线下商家的诸多营销功能。【吸粉】 投票、定期抽奖、聚人气抽奖、摇一摇抽奖、粉丝海报、1元夺宝、发红包、在线捐款 等  【持续变现】 微官网、微会员、积分商城、卡券、微信支付、分类信息、电影排片 等  【管理考核】 电脑手机双后台、营销二维码、后台用户管理、操作日志 等。
+*   [natemcmaster/DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) - .NET Core library for dynamically loading code
+*   [loic-sharma/BaGet](https://github.com/loic-sharma/BaGet) - A lightweight NuGet and symbol server
+*   [danielmarbach/Microservices.ServiceFabric](https://github.com/danielmarbach/Microservices.ServiceFabric) -
+*   [Pathoschild/FluentHttpClient](https://github.com/Pathoschild/FluentHttpClient) - A modern async HTTP client for REST APIs. Its fluent interface lets you send an HTTP request and parse the response in one go.
+*   [nsubstitute/NSubstitute](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking libraries.
+*   [xingwen1987/myrmec](https://github.com/xingwen1987/myrmec) - This library is used to detect real file format type via file hex head.
+*   [NewLifeX/NewLife.Ftp](https://github.com/NewLifeX/NewLife.Ftp) - FTP组件，支持fx/mono/netcore
+*   [OrleansContrib/OrleansDashboard](https://github.com/OrleansContrib/OrleansDashboard) - :bar\_chart: A developer dashboard for Microsoft Orleans
+*   [anupavanm/csharp-design-patterns-for-humans](https://github.com/anupavanm/csharp-design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation - C# Examples
+*   [abishekaditya/DesignPatterns](https://github.com/abishekaditya/DesignPatterns) - Project : Design Patterns Examples in C#
+*   [sschmid/Entitas](https://github.com/sschmid/Entitas) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
+*   [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
+*   [xboxeer/NScrapy](https://github.com/xboxeer/NScrapy) - NScrapy is a .net core corss platform Distributed Spider Framework which provide an easy way to write your own Spider
+*   [cbovar/ConvNetSharp](https://github.com/cbovar/ConvNetSharp) - Deep Learning in C#
+*   [git-tfs/git-tfs](https://github.com/git-tfs/git-tfs) - A Git/TFS bridge, similar to git-svn
+*   [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net.
+*   [gaochundong/Gimela](https://github.com/gaochundong/Gimela) - Open source intelligent IP video surveillance system.
+*   [tangxuehua/enode](https://github.com/tangxuehua/enode) - ENode is a framework aims to help us developing ddd, cqrs, eda, and event sourcing style applications.
+*   [naudio/NAudio](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET
+*   [codecadwallader/codemaid](https://github.com/codecadwallader/codemaid) - CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
+*   [ariacom/Seal-Report](https://github.com/ariacom/Seal-Report) - Open Database Reporting Tool (.Net)
+*   [nbarbettini/SimpleTokenProvider](https://github.com/nbarbettini/SimpleTokenProvider) - Sample middleware component for ASP.NET that generates JWT access tokens
+*   [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) - Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
+*   [jbogard/EntityFramework.Filters](https://github.com/jbogard/EntityFramework.Filters) - Filters implementation for Entity Framework
+*   [Mpdreamz/shellprogressbar](https://github.com/Mpdreamz/shellprogressbar) - ShellProgressBar - display progress in your console application
+*   [dotnet-state-machine/stateless](https://github.com/dotnet-state-machine/stateless) - A simple library for creating state machines in C# code
+*   [CollaboratingPlatypus/PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - Official PetaPoco, A tiny ORM-ish thing for your POCO's
+*   [tsasioglu/Total-Uninstaller](https://github.com/tsasioglu/Total-Uninstaller) - Windows software uninstaller
+*   [Bobris/Nowin](https://github.com/Bobris/Nowin) - Owin Web Server in pure .Net
+*   [zzzprojects/EntityFramework.DynamicFilters](https://github.com/zzzprojects/EntityFramework.DynamicFilters) - Global filtering for Entity Framework.
+*   [WeihanLi/DbTool](https://github.com/WeihanLi/DbTool) - 数据库工具，根据表结构文档生成创建表sql，根据数据库表信息导出Model和表结构文档，根据文档生成数据库表，根据已有Model文件生成创建数据库表sql
+*   [allisterb/jemalloc.NET](https://github.com/allisterb/jemalloc.NET) - A native memory manager for .NET
+*   [aspnet/Hosting](https://github.com/aspnet/Hosting) - \[Archived] Code for hosting and starting up an ASP.NET Core application. Project moved to https://github.com/aspnet/Extensions and https://github.com/aspnet/AspNetCore
+*   [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
+*   [manojlds/cmd](https://github.com/manojlds/cmd) - C# library to run external programs in a simpler way. Demonstration of "dynamic" features of C#.
+*   [coverlet-coverage/coverlet](https://github.com/coverlet-coverage/coverlet) - Cross platform code coverage for .NET
+*   [adamralph/simple-exec](https://github.com/adamralph/simple-exec) - 🏃 A .NET library that runs external commands.
+*   [Flepper/flepper](https://github.com/Flepper/flepper) - Flepper is a library to aid in database interaction. :frog:
+*   [darxis/EntityFramework.LazyLoading](https://github.com/darxis/EntityFramework.LazyLoading) - LazyLoading for EF Core
+*   [Arch/UnitOfWork](https://github.com/Arch/UnitOfWork) - A plugin for Microsoft.EntityFrameworkCore to support repository, unit of work patterns, multiple database with distributed transaction supported, and MySQL multiple databases/tables sharding supported.
+*   [axelheer/nein-linq](https://github.com/axelheer/nein-linq) - NeinLinq provides helpful extensions for using LINQ providers such as Entity Framework that support only a minor subset of .NET functions, reusing functions, rewriting queries, even making them null-safe, and building dynamic queries using translatable predicates and selectors.
+*   [iQuarc/Geco](https://github.com/iQuarc/Geco) - Simple code generator based on a console project, running on .Net core and using C# interpolated strings
+*   [NickStrupat/EntityFramework.TypedOriginalValues](https://github.com/NickStrupat/EntityFramework.TypedOriginalValues) - Get typed access to the DbEntityEntry\<T>.OriginalValues property bag
+*   [leonardoporro/Detached-Mapper](https://github.com/leonardoporro/Detached-Mapper) - An ORM friendly mapper. Allows saving entire entity graphs. Heavily inspired in GraphDiff and AutoMapper.
+*   [VahidN/EFSecondLevelCache.Core](https://github.com/VahidN/EFSecondLevelCache.Core) - Entity Framework Core Second Level Caching Library
+*   [riezebosch/efcore-practices](https://github.com/riezebosch/efcore-practices) - Attempt to capture some good or best practices in an API that supports testing
+*   [Arch/AutoHistory](https://github.com/Arch/AutoHistory) - A plugin for Microsoft.EntityFrameworkCore to support automatically recording data changes history.
+*   [ErikEJ/SqlCeToolbox](https://github.com/ErikEJ/SqlCeToolbox) - SQLite & SQL Server Compact Toolbox extension for Visual Studio, SSMS (and stand alone)
+*   [billyang/SurgingDemo](https://github.com/billyang/SurgingDemo) - surging 使用入门示例。完成一个基本业务的增删改查示例，并运用Surging强大的分布式缓存功能
+*   [unosquare/embedio](https://github.com/unosquare/embedio) - A tiny, cross-platform, module based web server for .NET
+*   [prasannavl/WinApi](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop
+*   [bilal-fazlani/tracker-enabled-dbcontext](https://github.com/bilal-fazlani/tracker-enabled-dbcontext) - Tracker-enabled DbContext offers you to implement full auditing in your database
+*   [borisdj/EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite
+*   [jbogard/bulk-writer](https://github.com/jbogard/bulk-writer) - Provides guidance for fast ETL jobs, an IDataReader implementation for SqlBulkCopy (or the MySql or Oracle equivalents) that wraps an IEnumerable, and libraries for mapping entites to table columns.
+*   [Dixin/EntityFramework.Functions](https://github.com/Dixin/EntityFramework.Functions) - EntityFramework.Functions library implements Entity Framework code first support for stored procedures (with single result type, multiple result types, output parameter), table-valued functions (returning entity type, complex type), scalar-valued functions (composable, non-composable), aggregate functions, built-in functions, niladic functions, and model defined functions.
+*   [generik0/Smooth.IoC.Dapper.Repository.UnitOfWork](https://github.com/generik0/Smooth.IoC.Dapper.Repository.UnitOfWork) - Smoother IoC using Dapper Dapper.FastCRUD with Repository and UnitOfWork patterns
+*   [MikaelEliasson/EntityFramework.Utilities](https://github.com/MikaelEliasson/EntityFramework.Utilities) - Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts
+*   [leestar54/WebWeChatAPI.Net](https://github.com/leestar54/WebWeChatAPI.Net) - 基于.Net平台C#的微信网页版API
+*   [cyq1162/Taurus.MVC](https://github.com/cyq1162/Taurus.MVC) - Taurus.mvc is a high-performance mvc and webapi framework for asp.net or asp.net core（适合场景：对性能和并发有较高要求的电商、站点、WebAPI等系统，支持.Net Core，V3.0版本以上自带微服务功能）
+*   [tumtumtum/Shaolinq](https://github.com/tumtumtum/Shaolinq) - ORM for .NET with full LINQ support for Postgres, Sqlite, MySql and SqlServer
+*   [ghost1face/EntityFramework.BulkInsert](https://github.com/ghost1face/EntityFramework.BulkInsert) - Fast bulk insert for EntityFramework6
+*   [chromelyapps/Chromely](https://github.com/chromelyapps/Chromely) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
+*   [NickStrupat/CoContra](https://github.com/NickStrupat/CoContra) - Delegate replacement and event backing-field drop-in classes to easily allow co/contra-variance in delegate
+*   [config-r/config-r](https://github.com/config-r/config-r) - Write your .NET configuration files in C#
+*   [rickyah/ini-parser](https://github.com/rickyah/ini-parser) - Read/Write an INI file the easy way!
+*   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
+*   [alexinea/EntityFrameworkCore.LoggingExposure](https://github.com/alexinea/EntityFrameworkCore.LoggingExposure) - Support to using EF6-like api in EntityFramework Core 2.x and 3.x
+*   [stulzq/UrlFirewall](https://github.com/stulzq/UrlFirewall) - UrlFirewall is a lightweight, fast filtering middleware for http request urls.It supports blacklist, whitelist mode.Supports persisting filter rules to any media.You can use it in webapi, gateway, etc.
+*   [ignatandrei/AspNetCoreImageTagHelper](https://github.com/ignatandrei/AspNetCoreImageTagHelper) - First Release for rendering base 64 images in ASP.NET Core. See https://en.wikipedia.org/wiki/Data\_URI\_scheme  for more details.In the \_ViewImports @addTagHelper \*, AspNetCore.Mvc.ImageBase64 "
+*   [ivaylokenov/AspNet.Mvc.TypedRouting](https://github.com/ivaylokenov/AspNet.Mvc.TypedRouting) - A collection of extension methods providing strongly typed routing and link generation for ASP.NET Core MVC projects.
+*   [StyleCop/StyleCop](https://github.com/StyleCop/StyleCop) - Analyzes C# source code to enforce a set of style and consistency rules.
+*   [ivaylokenov/MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - Fluent testing library for ASP.NET Core MVC.
+*   [aspnet/Mvc](https://github.com/aspnet/Mvc) - \[Archived] ASP.NET Core MVC is a model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor. Project moved to https://github.com/aspnet/AspNetCore
+*   [NickStrupat/EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) - Adds events for entity inserting, inserted, updating, updated, deleting, and deleted
+*   [Jroland/kafka-net](https://github.com/Jroland/kafka-net) - Native C# client for Kafka queue servers.
+*   [elucidsoft/aspnetcore-Vue-starter-signalR](https://github.com/elucidsoft/aspnetcore-Vue-starter-signalR) - Asp.NETCore 2.0 Vue 2 (ES6) SPA Starter kit, contains routing, Vuex, and SignalR
+*   [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) - OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
+*   [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
+*   [wulinacha/ConfigCenter](https://github.com/wulinacha/ConfigCenter) - 简单快捷配置中心
+*   [billpratt/dotnet-search](https://github.com/billpratt/dotnet-search) - Search for Nuget packages using the .NET Core CLI.
+*   [WebApiContrib/WebAPIContrib](https://github.com/WebApiContrib/WebAPIContrib) - Community Contributions for ASP.NET Web API
+*   [zkweb-framework/ZKWeb.Plugins](https://github.com/zkweb-framework/ZKWeb.Plugins) - Default plugins for zkweb framework
+*   [laochiangx/Common.Utility](https://github.com/laochiangx/Common.Utility) - Various helper class
+*   [TylerBrinkley/Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
+*   [stefanprodan/AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
+*   [bysz71/LeetCodeInCSharp](https://github.com/bysz71/LeetCodeInCSharp) -
+*   [0install/0install-win](https://github.com/0install/0install-win) - Windows version of Zero Install
+*   [meebey/smuxi](https://github.com/meebey/smuxi) - Smuxi is an user-friendly and free IRC client for Linux, Windows and Mac OS X based on GNOME / GTK+
+*   [microsoft/VisualStudioUninstaller](https://github.com/microsoft/VisualStudioUninstaller) - Visual Studio Uninstallation sometimes can be unreliable and often leave out a lot of unwanted artifacts. Visual Studio Uninstaller is designed to thoroughly and reliably remove these unwanted artifacts.
+*   [googleapis/google-api-dotnet-client](https://github.com/googleapis/google-api-dotnet-client) - Google APIs Client Library for .NET
+*   [axzxs2001/AuthorizePolicy.JWT](https://github.com/axzxs2001/AuthorizePolicy.JWT) - A custome policy of jwt authorize standard library for asp.net core 2.0
+*   [valit-stack/Valit](https://github.com/valit-stack/Valit) - Valit is dead simple validation for .NET Core. No more if-statements all around your code. Write nice and clean fluent validators instead!
+*   [stulzq/RSAUtil](https://github.com/stulzq/RSAUtil) - .NET Core RSA algorithm using the help tool.It supports data encryption, decryption, signature and verification signature.It supports three key formats, namely: xml, pkcs1, pkcs8.It also supports key conversion for these three formats.Last also support pem formatting.
+*   [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore) - OpenTracing instrumentation for .NET Core 3.1 & .NET 6+ apps
+*   [ligershark/WebOptimizer](https://github.com/ligershark/WebOptimizer) - A bundler and minifier for ASP.NET Core
+*   [Shazwazza/Smidge](https://github.com/Shazwazza/Smidge) - A lightweight runtime CSS/JavaScript file minification, combination, compression & management library for ASP.Net Core
+*   [Redth/PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
+*   [fanpan26/LayIM.AspNet](https://github.com/fanpan26/LayIM.AspNet) - LayIM3.0 .NET版本实现(owin+融云)
+*   [maxtoroq/DbExtensions](https://github.com/maxtoroq/DbExtensions) - Data-access framework with a strong focus on query composition, granularity and code aesthetics.
+*   [bing-framework/Bing.NetCore](https://github.com/bing-framework/Bing.NetCore) - Bing是基于 .net core 3.1 的框架，旨在提升团队的开发输出能力，由常用公共操作类（工具类、帮助类）、分层架构基类，第三方组件封装，第三方业务接口封装等组成。
+*   [bjbr-dev/PeregrineDb](https://github.com/bjbr-dev/PeregrineDb) - CRUD Extensions for Dapper.Net
+*   [martinjw/dbschemareader](https://github.com/martinjw/dbschemareader) - Read database metadata (from SqlServer/Oracle/MySql/SQLite/PostgreSql/DB2 etc) into one simple model
+*   [phnx47/dapper-repositories](https://github.com/phnx47/dapper-repositories) - CRUD for Dapper
+*   [dotarj/Dapper.Mapper](https://github.com/dotarj/Dapper.Mapper) - Dapper.Mapper is an extension to Dapper multi mapping which figures out the relationships between the returned objects and automatically assigns them.
+*   [catcherwong/Demos](https://github.com/catcherwong/Demos) - :100:Some demos for learning
+*   [tmsmith/Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions) - Dapper Extensions is a small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs. For more advanced querying scenarios, Dapper Extensions provides a predicate system. The goal of this library is to keep your POCOs pure by not requiring any attributes or base class inheritance.
+*   [TanukiSharp/MinimalNugetServer](https://github.com/TanukiSharp/MinimalNugetServer) - A minimal but cross-platform implementation of a NuGet server, running on .NET Core
+*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
+*   [Varorbc/PaySharp](https://github.com/Varorbc/PaySharp) - PaySharp是一个支持多商户多种支付方式的跨平台网关处理类库，使用PaySharp可以简化订单的创建、查询、退款和接收网关返回的支付通知等操作。
+*   [seven1986/oauthapp](https://github.com/seven1986/oauthapp) - 前端发布工具
+*   [benaadams/Ben.Demystifier](https://github.com/benaadams/Ben.Demystifier) - High performance understanding for stack traces (Make error logs more productive)
+*   [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
+*   [aruss/IdentityBase](https://github.com/aruss/IdentityBase) - IdentityBase is a Universal Identity Platform for web, mobile and IoT built on top of IdentityServer.
+*   [BrandonPotter/SimpleTCP](https://github.com/BrandonPotter/SimpleTCP) - Straightforward .NET library to handle the repetitive tasks of spinning up and working with TCP sockets (client and server).
+*   [thepirat000/CachingFramework.Redis](https://github.com/thepirat000/CachingFramework.Redis) - Distributed caching based on StackExchange.Redis and Redis. Includes support for tagging and is cluster-compatible.
+*   [henkmollema/Dommel](https://github.com/henkmollema/Dommel) - CRUD operations with Dapper made simple.
+*   [ericdc1/Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD) - Who wants to write basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper.
+*   [hprose/hprose-dotnet](https://github.com/hprose/hprose-dotnet) - Hprose 3.0 for .NET
+*   [serilog/serilog-sinks-file](https://github.com/serilog/serilog-sinks-file) - Write Serilog events to files in text and JSON formats, optionally rolling on time or size
+*   [serilog/serilog-extensions-logging](https://github.com/serilog/serilog-extensions-logging) - Serilog provider for Microsoft.Extensions.Logging
+*   [icsharpcode/NRefactory](https://github.com/icsharpcode/NRefactory) - NRefactory - Refactoring Your C# Code
+*   [realm/realm-dotnet](https://github.com/realm/realm-dotnet) - Realm is a mobile database: a replacement for SQLite & ORMs
+*   [microfisher/Simple-Web-Crawler](https://github.com/microfisher/Simple-Web-Crawler) - 基于C#.NET的简单网页爬虫，支持异步并发、切换代理、操作Cookie、Gzip加速。
+*   [scheshan/DotNetClub](https://github.com/scheshan/DotNetClub) - A tiny club written in Asp.Net Core
+*   [iccfish/fslib.network](https://github.com/iccfish/fslib.network) - A strong http client for .NET with high usability
+*   [mgholam/fastJSON](https://github.com/mgholam/fastJSON) - Smallest, fastest polymorphic JSON serializer
+*   [liuxx-u/sso](https://github.com/liuxx-u/sso) - sso
+*   [paulyoder/LinqToExcel](https://github.com/paulyoder/LinqToExcel) - Use LINQ to retrieve data from spreadsheets and csv files
+*   [blogifierdotnet/Blogifier](https://github.com/blogifierdotnet/Blogifier) - Blogifier is an open-source publishing platform Written in ASP.NET and Blazor WebAssembly. With Blogifier make a personal blog or a website.
+*   [rebus-org/Rebus](https://github.com/rebus-org/Rebus) - :bus: Simple and lean service bus implementation for .NET
+*   [Emrys5/Emrys.SuperConfig](https://github.com/Emrys5/Emrys.SuperConfig) - It is easier to use configuration in .Net. 在.net中更容易使用配置文件
+*   [paypal/PayPal-NET-SDK](https://github.com/paypal/PayPal-NET-SDK) - .NET SDK for PayPal's RESTful APIs
+*   [DbUp/DbUp](https://github.com/DbUp/DbUp) - DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.
+*   [neuecc/ZeroFormatter](https://github.com/neuecc/ZeroFormatter) - Infinitely Fast Deserializer for .NET, .NET Core and Unity.
+*   [tmenier/Flurl](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP client for .NET
+*   [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
+*   [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
+*   [mysql/mysql-connector-net](https://github.com/mysql/mysql-connector-net) - Connector/NET is a fully-managed ADO.NET driver for MySQL.
+*   [filoe/cscore](https://github.com/filoe/cscore) - An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited.
+*   [fszlin/certes](https://github.com/fszlin/certes) - A client implementation for the Automated Certificate Management Environment (ACME) protocol
+*   [lousaibiao/JdPayWebApi](https://github.com/lousaibiao/JdPayWebApi) - 京东支付webapi
+*   [Qrilee/ApkToolBox](https://github.com/Qrilee/ApkToolBox) - ApkTool Box，Apk集成反编译工具箱
+*   [dotnet/extensions](https://github.com/dotnet/extensions) - This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
+*   [easy-rbac-team/easyRBAC](https://github.com/easy-rbac-team/easyRBAC) - 我要的很简单，基于RBAC管理权限，有容易上手的UI，最好送给我一个看得过去的SSO就更棒了
+*   [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio) - Pluggable foundation blocks for building distributed apps.
+*   [Nihlus/AdvancedDLSupport](https://github.com/Nihlus/AdvancedDLSupport) - Delegate-based C# P/Invoke alternative - compatible with all platforms and runtimes.
+*   [henkmollema/Dapper-FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
+*   [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
+*   [zzzprojects/Bulk-Operations](https://github.com/zzzprojects/Bulk-Operations) - C# SQL Bulk Operations | High-performance C# bulk insert, update, delete and merge for SQL Server, SQL Azure, SQL Compact, MySQL, and SQLite.
+*   [Seedin/ConsulHelper](https://github.com/Seedin/ConsulHelper) - ConsulHelper，.Net微服务基础框架，已支持.Net Core，具备服务发现、健康检查、服务分级、分布式配置、版本控制及RPC高可用代理功能（当前已支持Http、Thrift、grpc及Wcf代理），基于Consul。
+*   [dajuric/dot-imaging](https://github.com/dajuric/dot-imaging) - Minimalistic  .NET imaging portable platform
+*   [Tyrrrz/Onova](https://github.com/Tyrrrz/Onova) - Unintrusive auto-update framework
+*   [de4dot/de4dot](https://github.com/de4dot/de4dot) - .NET deobfuscator and unpacker.
+*   [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
+*   [MassTransit/MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
+*   [restsharp/RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
+*   [praeclarum/Ooui](https://github.com/praeclarum/Ooui) - A small cross-platform UI library that brings the simplicity of native UI development to the web
+*   [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
+*   [natemcmaster/dotnet-serve](https://github.com/natemcmaster/dotnet-serve) - Simple command-line HTTPS server for the .NET Core CLI
+*   [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
+*   [pigLoveRabbit520/SalamanderWnmp](https://github.com/pigLoveRabbit520/SalamanderWnmp) - A beautiful Nginx PHP Mysql environment for windows（ windows下用WPF制作的nginx，php，mysql集成环境（免安装））
+*   [shimat/opencvsharp](https://github.com/shimat/opencvsharp) - OpenCV wrapper for .NET
+*   [MoonStorm/FastCrud](https://github.com/MoonStorm/FastCrud) - fast & light .NET ORM for strongly typed people
+*   [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
+*   [markrendle/Flux](https://github.com/markrendle/Flux) - Lightweight web server for .NET and Mono
+*   [aliyun/aliyun-openapi-net-sdk](https://github.com/aliyun/aliyun-openapi-net-sdk) - Alibaba Cloud SDK for .NET
+*   [opentracing/opentracing-csharp](https://github.com/opentracing/opentracing-csharp) - OpenTracing API for C# (.NET). 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163
+*   [apolloconfig/apollo.net](https://github.com/apolloconfig/apollo.net) - Apollo .Net Client
+*   [gigya/microdot](https://github.com/gigya/microdot) - Microdot: An open source .NET microservices framework
+*   [aspnet/WebHooks](https://github.com/aspnet/WebHooks) - \[Archived] Libraries to create and consume web hooks on ASP.NET Core. Project moved to https://github.com/aspnet/AspLabs
+*   [ScutGame/Scut](https://github.com/ScutGame/Scut) - Scut is a free, open source, stable game server framework, which support C#/Python/Lua script, and support Unity3d, Cocos2dx, FlashAir client access.
+*   [aaubry/YamlDotNet](https://github.com/aaubry/YamlDotNet) - YamlDotNet is a .NET library for YAML
+*   [zzzprojects/Dapper-Plus](https://github.com/zzzprojects/Dapper-Plus) - Dapper Plus - High-Efficient Bulk Actions (Insert, Update, Delete, and Merge) for .NET
+*   [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
+*   [ef-labs/nanoprofiler](https://github.com/ef-labs/nanoprofiler) - NanoProfiler - a light weight .NET profiling library
+*   [MiniProfiler/dotnet](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET (and Core) websites
+*   [fluentscheduler/FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface for the .NET platform.
+*   [dajuric/websocket-rpc](https://github.com/dajuric/websocket-rpc) - WebSocket RPC library for .NET with auto JavaScript client code generation, supporting ASP.NET Core
+*   [night-king/weixinSDK](https://github.com/night-king/weixinSDK) - 微信SDK，一个轻量级的，极致简约的微信公众平台（服务号、订阅号）SDK.net版本，也支持dotnet core，作者QQ:2586662969，官方网站:
+*   [JeffreySu/WxOpen](https://github.com/JeffreySu/WxOpen) - 微信小程序 C# SDK，Senparc.Weixin.WxOpen.dll
+*   [morelinq/MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects
+*   [scottksmith95/LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
+*   [ElderJames/shriek-fx](https://github.com/ElderJames/shriek-fx) - An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provide the infrastructure for event-driven, event backtracking, responsiveness, and more. Let developers enjoy the true meaning of object-oriented design patterns brought by the aesthetic.
+*   [JoyMoe/QcloudSharp](https://github.com/JoyMoe/QcloudSharp) - Unoffical Qcloud.com API wrapper for .Net
+*   [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
+*   [RabbitTeam/WeiXinSDK](https://github.com/RabbitTeam/WeiXinSDK) - 微信开发SDK。
+*   [essensoft/paylink](https://github.com/essensoft/paylink) - 一套基于 .NET Core 开发的支付SDK集，它极大简化了API调用及通知的处理流程。
+*   [KevinWG/OSS.Clients.SNS](https://github.com/KevinWG/OSS.Clients.SNS) - 社交网站sdk(标准库)，微信公众号（订阅号，服务号，小程序）接口sdk-包含消息回复(明文和安全模式)，Oauth2.0授权等
+*   [codeyu/nanoid-net](https://github.com/codeyu/nanoid-net) - .NET implementation of ai's nanoid
+*   [geffzhang/NanoFabric](https://github.com/geffzhang/NanoFabric) - 基于Consul + .NET Core + Polly + Ocelot + Exceptionless + IdentityServer等开源项目的微服务开发框架
+*   [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
+*   [graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET
+*   [devlooped/moq](https://github.com/devlooped/moq) - The most popular and friendly mocking framework for .NET
+*   [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore) - Serilog integration for ASP.NET Core
+*   [axzxs2001/GUISUVPay](https://github.com/axzxs2001/GUISUVPay) - 本项目是用asp.net core（for .net framework）实现的支付宝当面付（扫码支付和条码支付），微信扫码支付和刷卡支付。
+*   [RayTale/Ray](https://github.com/RayTale/Ray) - 项目停止更新，新项目：https://github.com/RayTale/Vertex
+*   [microfisher/Captcha-Recognizer](https://github.com/microfisher/Captcha-Recognizer) - 基于C#.NET异步图形验证码识别组件（集成了若快、优优云、打码兔、云打码等平台，准确率95%，速度2-6秒）采用策略设计模式
+*   [stefanprodan/MvcThrottle](https://github.com/stefanprodan/MvcThrottle) - ASP.NET MVC Throttling filter
+*   [hiihellox10/ICanPay](https://github.com/hiihellox10/ICanPay) - ICanPay是一个简单易用的支付平台支付处理类库，目前支持的支付平台有：支付宝(Alipay)、微信支付(WeChatPay)、财付通(Tenpay)、易宝(Yeepay)。
+*   [anydream/il2cpp](https://github.com/anydream/il2cpp) - A MSIL/C# to C++ converter. Faster than CoreCLR with low memory overhead.(已弃坑.C#是个好语言,然而.NET不是一个干净的平台)
+*   [AspectCore/AspectCore-Metrics-Obsolete](https://github.com/AspectCore/AspectCore-Metrics-Obsolete) - APM agent based on AspectCore.
+*   [endink/Thrifty](https://github.com/endink/Thrifty) - Thrifty include interface based remote call, tsl support, load balancing, and automatic service registration & discovery, thrift serializer, etc...
+*   [PomeloFoundation/Lolita](https://github.com/PomeloFoundation/Lolita) - A light-weight extension which provides bulk update and delete operations for Entity Framework Core.
+*   [yukozh/csharp-algorithms](https://github.com/yukozh/csharp-algorithms) -
+*   [DynamicTranslator/DynamicTranslator](https://github.com/DynamicTranslator/DynamicTranslator) - Instant translation application for windows in .NET :circus\_tent:
+*   [ReubenBond/DeepCopy](https://github.com/ReubenBond/DeepCopy) - Simple & efficient library for deep copying .NET objects
+*   [VictorTzeng/Zxw.Framework.NetCore](https://github.com/VictorTzeng/Zxw.Framework.NetCore) - 基于EF Core的Code First模式的DotNetCore快速开发框架，其中包括DBContext、IOC组件autofac和AspectCore.Injector、代码生成器（也支持DB First）、基于AspectCore的memcache和Redis缓存组件，以及基于ICanPay的支付库和一些日常用的方法和扩展，比如批量插入、更新、删除以及触发器支持，当然还有demo。欢迎提交各种建议、意见和pr~
+*   [RabbitTeam/RabbitCloud](https://github.com/RabbitTeam/RabbitCloud) - A lightweight cross-platform RPC.
+*   [JanKallman/EPPlus](https://github.com/JanKallman/EPPlus) - Create advanced Excel spreadsheets using .NET
+*   [damienbod/AspNetCoreFileUploadFileTable](https://github.com/damienbod/AspNetCoreFileUploadFileTable) - ASP.NET Core MVC file upload / download with MS SQL Server FileTable
+*   [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
+*   [dotnetcore/Natasha](https://github.com/dotnetcore/Natasha) - 基于 Roslyn 的 C# 动态程序集构建库，该库允许开发者在运行时使用 C# 代码构建域 / 程序集 / 类 / 结构体 / 枚举 / 接口 / 方法等，使得程序在运行的时候可以增加新的模块及功能。Natasha 集成了域管理/插件管理，可以实现域隔离，域卸载，热拔插等功能。 该库遵循完整的编译流程，提供完整的错误提示， 可自动添加引用，完善的数据结构构建模板让开发者只专注于程序集脚本的编写，兼容 stanadard2.0 / netcoreapp3.0+, 跨平台，统一、简便的链式 API。 且我们会尽快修复您的问题及回复您的 issue.
+*   [aspnet/Benchmarks](https://github.com/aspnet/Benchmarks) - Benchmarks for ASP.NET Core
+*   [richardszalay/mockhttp](https://github.com/richardszalay/mockhttp) - Testing layer for Microsoft's HttpClient library. Create canned responses using a fluent API.
+*   [AppMetrics/AppMetrics](https://github.com/AppMetrics/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application.
+*   [ServiceStack/ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Fast, Simple, Typed ORM for .NET
+*   [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
+*   [aspnet/DotNetTools](https://github.com/aspnet/DotNetTools) - \[Archived] Various .NET command line tools. Project moved to https://github.com/aspnet/AspNetCore
+*   [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless application
+*   [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet) - :whale: .NET (C#) Client Library for Docker API
+*   [peasy/Peasy.NET](https://github.com/peasy/Peasy.NET) - A business logic micro-framework for .NET and .NET Core
+*   [nissl-lab/npoi](https://github.com/nissl-lab/npoi) - a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
+*   [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
+*   [simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A simple, cross platform, modularized ecommerce system built on .NET
+*   [neuecc/Utf8Json](https://github.com/neuecc/Utf8Json) - Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).
+*   [madskristensen/WebEssentials.AspNetCore.StaticFilesWithCache](https://github.com/madskristensen/WebEssentials.AspNetCore.StaticFilesWithCache) -
+*   [BlogEngine/BlogEngine.NET](https://github.com/BlogEngine/BlogEngine.NET) - Multi-User ASP.NET Blogging Application
+*   [angelsix/fasetto-word](https://github.com/angelsix/fasetto-word) - The new chat application for Fasetto, completely open-source :)
+*   [tallesl/net-Socket](https://github.com/tallesl/net-Socket) - A minimalist wrapper around System.Net.Sockets.Socket.
+*   [starts2000/TaoShang](https://github.com/starts2000/TaoShang) - TaoShang 是一个使用 .NET 开发的淘宝自助刷单平台。
+*   [zzzprojects/LINQ-Async](https://github.com/zzzprojects/LINQ-Async) - C# LINQ Async extension methods library for async/await task.
+*   [projectkudu/KuduVfs](https://github.com/projectkudu/KuduVfs) - Implement FileSystem backed by Kudu's VFS.
+*   [projectkudu/KuduSync.NET](https://github.com/projectkudu/KuduSync.NET) - A file copying tool with semantic appropriate for deploying web site files. Comes as a .NET exe
+*   [SapientGuardian/SapientGuardian.EntityFrameworkCore.MySql](https://github.com/SapientGuardian/SapientGuardian.EntityFrameworkCore.MySql) - MySQL database provider for Entity Framework Core
+*   [thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET) - An extensible framework to audit executing operations in .NET and .NET Core.
+*   [davidfowl/NetStandard](https://github.com/davidfowl/NetStandard) - A repository that describes the .NET Standard
+*   [davidfowl/QueryInterceptor](https://github.com/davidfowl/QueryInterceptor) - Provides a generic way to intercept IQueryable expression trees using custom expression visitors.
+*   [cwensley/JabbR.Eto](https://github.com/cwensley/JabbR.Eto) - A cross-platform client for JabbR
+*   [JabbR/JabbR](https://github.com/JabbR/JabbR) - Collaborative chat done right
+*   [davidfowl/Jabbot](https://github.com/davidfowl/Jabbot) - Bot API for JabbR
+*   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+*   [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
+*   [KevinWG/OSS.Tools](https://github.com/KevinWG/OSS.Tools) - 系统基础操作工具类（Cache，Config，Log，Http），提供默认实现，和全局注册接口
+*   [KevinWG/OSS.Clients.Pay](https://github.com/KevinWG/OSS.Clients.Pay) - 开源支付SDK(标准库)，主要打造微信支付，支付宝支付，标准库项目，同时支持.net framework和.net core
+*   [blowdart/AspNetAuthorizationWorkshop](https://github.com/blowdart/AspNetAuthorizationWorkshop) - A workshop for moving through the various new pieces in ASP.NET Core Authorization
+*   [jelledruyts/TfsTeamProjectManager](https://github.com/jelledruyts/TfsTeamProjectManager) - TFS Team Project Manager automates various tasks across Team Projects in Team Foundation Server. If you find yourself managing multiple Team Projects for an organization and have recurring tasks and questions that repeat themselves over and over again, Team Project Manager probably has some answers for you.
+*   [AspectCore/IoC-Sample](https://github.com/AspectCore/IoC-Sample) -
+*   [aspnetboilerplate/module-zero-forsaken](https://github.com/aspnetboilerplate/module-zero-forsaken) - ASP.NET Boilerplate - ASP.NET Identity Integration Module
+*   [aspnet/DependencyInjection](https://github.com/aspnet/DependencyInjection) - \[Archived] Contains common DI abstractions that ASP.NET Core and Entity Framework Core use. Project moved to https://github.com/aspnet/Extensions
+*   [dotnet/corert](https://github.com/dotnet/corert) - This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain.
+*   [gmf520/osharp-v4](https://github.com/gmf520/osharp-v4) - osharp framework with .net framework version 4.x
+*   [SteeltoeOSS/Samples](https://github.com/SteeltoeOSS/Samples) - Steeltoe samples and reference application collection
+*   [NuGetPackageExplorer/NuGetPackageExplorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) - Create, update and deploy Nuget Packages with a GUI
+*   [neoKushan/BCrypt.Net-Core](https://github.com/neoKushan/BCrypt.Net-Core) - A .net Core port of BCrypt.net
+*   [damienbod/AspNetCoreFilters](https://github.com/damienbod/AspNetCoreFilters) - ASP.NET Core MVC Filters
+*   [stulzq/SolutionRenamer](https://github.com/stulzq/SolutionRenamer) - Fast rename solution,using .net core 2.0
+*   [zhaopeiym/Hi-Blogs](https://github.com/zhaopeiym/Hi-Blogs) - 嗨博客 ASP.NET Core2.0 + CentOS7.3 + MySql5.6.37 + Redis + nginx1.12.1
+*   [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) - Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
+*   [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.
+*   [codebude/QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation
+*   [cmwilliams/GoogleQRGenerator-for-.NET](https://github.com/cmwilliams/GoogleQRGenerator-for-.NET) - Generate QR Code using Google's QR Generator
+*   [cmwilliams/google-geocoder-core](https://github.com/cmwilliams/google-geocoder-core) - Simple Google Geocoding Service Library for .NET Core
+*   [aspnet/HttpAbstractions](https://github.com/aspnet/HttpAbstractions) - \[Archived] HTTP abstractions such as HttpRequest, HttpResponse, and HttpContext, as well as common web utilities. Project moved to https://github.com/aspnet/AspNetCore
+*   [aspnet/KestrelHttpServer](https://github.com/aspnet/KestrelHttpServer) - \[Archived] A cross platform web server for ASP.NET Core. Project moved to https://github.com/aspnet/AspNetCore
+*   [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector) - MySQL Connector for .NET
+*   [abergs/RegExpBuilder](https://github.com/abergs/RegExpBuilder) - A library for building RegExpPattrerns
+*   [dataneek/paginable-collections.aspnetcore](https://github.com/dataneek/paginable-collections.aspnetcore) - Use PaginableCollections in AspNetCore! A set of extensions for Microsoft.Extensions.DependencyInjection.
+*   [dataneek/paginable-collections](https://github.com/dataneek/paginable-collections) - PaginableCollections is a set of abstractions and extensions used to provide developers with a consistent way to paginate their data across all .NET (and .NET Core) application stacks.
+*   [messagetemplates/messagetemplates-csharp](https://github.com/messagetemplates/messagetemplates-csharp) - A C# implementation of Message Templates
+*   [titarenko/OAuth2](https://github.com/titarenko/OAuth2) - OAuth2 client implementation for .NET
+*   [beetlex-io/WebAPI4Grid](https://github.com/beetlex-io/WebAPI4Grid) - WebAPI集群负载组件
+*   [beetlex-io/Beetle.DT](https://github.com/beetlex-io/Beetle.DT) - 分布式压力测试工具
+*   [DotNetOpenAuth/DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - A C# implementation of the OpenID, OAuth protocols
+*   [opserver/Opserver](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System
+*   [zhdwwf/Expression2Sql](https://github.com/zhdwwf/Expression2Sql) - Expression2Sql是一个可以将Expression表达式树解析成Transact-SQL的开源项目。
+*   [linezero/NETCoreBBS](https://github.com/linezero/NETCoreBBS) - ASP.NET Core Light forum NETCoreBBS
+*   [linezero/GitServer](https://github.com/linezero/GitServer) - ASP.NET Core Git HTTP Server
+*   [china-live/QQConnect](https://github.com/china-live/QQConnect) - asp.net core2.0 QQ和微信登录
+*   [zzzprojects/Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - C# Extension Methods | Over 1000 extension methods:
+*   [zzzprojects/EntityFramework-Extensions](https://github.com/zzzprojects/EntityFramework-Extensions) - Entity Framework Bulk Operations | Improve Entity Framework performance with Bulk SaveChanges, Insert, update, delete and merge for SQL Server, SQL Azure, SQL Compact, MySQL and SQLite.
+*   [shuxinqin/Chloe](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET  --C#
+*   [forrestly/SSCore](https://github.com/forrestly/SSCore) - dotnet core version of SuperSocket
+*   [944095635/DMSkin](https://github.com/944095635/DMSkin) - DMSkin WPF 样式 UI 框架 | WPF Borderless Window | Custom Controls & Styles | MVVM Support
+*   [dotnetcore/Collections](https://github.com/dotnetcore/Collections) - Utilities and extensions for Collections includes Collections.Paginable and so on...
+*   [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
+*   [davidfowl/Channels](https://github.com/davidfowl/Channels) - Push based .NET Streams
+*   [elmahio/Elmah.Io.Extensions.Logging](https://github.com/elmahio/Elmah.Io.Extensions.Logging) - elmah.io provider for Microsoft.Extensions.Logging.
+*   [madskristensen/WebEssentials2015](https://github.com/madskristensen/WebEssentials2015) - A Visual Studio extension for web developers
+*   [dotnet/csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
+*   [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
+*   [MarimerLLC/csla](https://github.com/MarimerLLC/csla) - A home for your business logic in any .NET application.
+*   [Nethereum/Nethereum](https://github.com/Nethereum/Nethereum) - Ethereum .Net cross platform integration library
+*   [zzzprojects/html-agility-pack](https://github.com/zzzprojects/html-agility-pack) - Html Agility Pack (HAP) is a free and open-source HTML parser written in C# to read/write DOM and supports plain XPATH or XSLT. It is a .NET code library that allows you to parse "out of the web" HTML files.
+*   [yuzukwok/Abp.Web.Api.Restc](https://github.com/yuzukwok/Abp.Web.Api.Restc) - RESTful 接口调试分享利器
+*   [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (\&more) - cross-platform!
+*   [jstedfast/MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
+*   [robinrodricks/FluentFTP](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS client for .NET & .NET Standard, optimized for speed. Provides extensive FTP commands, File uploads/downloads, SSL/TLS connections, Automatic directory listing parsing, File hashing/checksums, File permissions/CHMOD, FTP proxies, FXP support, UTF-8 support, Async/await support, Powershell support and more. Written entirely in C#.
+*   [pojala/electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
+*   [Topshelf/Topshelf](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
+*   [damianh/LibLog](https://github.com/damianh/LibLog) - LibLog is a single file for you to either copy/paste or install via nuget, into your library/framework/application to provide a logging abstraction.
+*   [IdentityServer/IdentityServer4.EntityFramework](https://github.com/IdentityServer/IdentityServer4.EntityFramework) - EntityFramework persistence layer for IdentityServer4
+*   [daxnet/raspkate](https://github.com/daxnet/raspkate) - A simple and small web server that can run on either Windows or Linux.
+*   [itdos/Dos.WeChat](https://github.com/itdos/Dos.WeChat) - 微信开发组件(包含消息处理、微信支付等等。再也不用担心看复杂的微信开发文档，即用即上手)
+*   [statianzo/Fleck](https://github.com/statianzo/Fleck) - C# Websocket Implementation
+*   [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 8.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
+*   [Wlitsoft/WeixinSDK](https://github.com/Wlitsoft/WeixinSDK) - Wlitsoft 框架 - 微信公众号开发工具包（C# 版）
+*   [TommasoScalici/MathExtensions](https://github.com/TommasoScalici/MathExtensions) - MathExtensions is a library for .NET with simple and useful extensions methods regarding various mathematical domains: combinatorics, sequence analysis, sequence generation and sequence manipulation, random draws from set, etc.
+*   [OfficeDev/ews-managed-api](https://github.com/OfficeDev/ews-managed-api) -
+*   [IdentityServer/IdentityServer4.WsFederation](https://github.com/IdentityServer/IdentityServer4.WsFederation) - Sample for implementing WS-Federation IdP support for IdentityServer4
+*   [OrchardCMS/Orchard](https://github.com/OrchardCMS/Orchard) - Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.
+*   [dsbenghe/Novell.Directory.Ldap.NETStandard](https://github.com/dsbenghe/Novell.Directory.Ldap.NETStandard) - LDAP client library for .NET Standard 1.3 up to 2.1 and NET5/NET6 - works with any LDAP protocol compatible directory server (including Microsoft Active Directory).
+*   [scriptcs/scriptcs](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
+*   [Azure/DotNetty](https://github.com/Azure/DotNetty) - DotNetty project – a port of netty, event-driven asynchronous network application framework
+*   [microsoft/referencesource](https://github.com/microsoft/referencesource) - Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework
+*   [IdentityModel/IdentityModel](https://github.com/IdentityModel/IdentityModel) - .NET standard helper library for claims-based identity, OAuth 2.0 and OpenID Connect.
+*   [markrendle/Simple.Data](https://github.com/markrendle/Simple.Data) - A light-weight, dynamic data access component for C# 4.0
+*   [aspnet/Security](https://github.com/aspnet/Security) - \[Archived] Middleware for security and authorization of web apps. Project moved to https://github.com/aspnet/AspNetCore
+*   [KevinWG/OSS.Core](https://github.com/KevinWG/OSS.Core) - .net core下的领域开源电商网站，类库使用的标准库项目，集成微信和支付宝。 暂时还在开发阶段
+*   [SkyChenSky/Sikiro.Tookits](https://github.com/SkyChenSky/Sikiro.Tookits) - Base And Frequently-used Tools Library.You can use it on nuget
+
 ## TypeScript
 
+*   [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 *   [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 *   [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
@@ -264,7 +946,7 @@
 *   [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
 *   [Zolyn/vite-plugin-vue-with-defaults-imports](https://github.com/Zolyn/vite-plugin-vue-with-defaults-imports) - Import defaults in Vue SFC for withDefaults
 *   [wheatjs/vite-plugin-vue-type-imports](https://github.com/wheatjs/vite-plugin-vue-type-imports) - Import types in Vue SFC for defineProps
-*   [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core) - ⚗ Mind-elixir is a framework agnostic mind map core.
+*   [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core) - ⚗ Mind Elixir is a framework agnostic mind map core.
 *   [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
 *   [robtaussig/react-use-websocket](https://github.com/robtaussig/react-use-websocket) - React Hook for WebSocket communication
 *   [vueuse/sound](https://github.com/vueuse/sound) - 🔊 A Vue composable for playing sound effects
@@ -721,6 +1403,205 @@
 *   [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
 *   [nobrainr/morphism](https://github.com/nobrainr/morphism) - ⚡ Type-safe data transformer for JavaScript, TypeScript & Node.js.
 *   [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
+
+## Go
+
+*   [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+*   [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
+*   [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) - 不只是即时通讯(IM)
+*   [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.
+*   [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
+*   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
+*   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
+*   [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+*   [liuhr/my2sql](https://github.com/liuhr/my2sql) - 解析MySQL binlog ，可以生成原始SQL、回滚SQL、去除主键的INSERT SQL等，也可以生成DML统计信息以及大事务分析信息。
+*   [ouqiang/delay-queue](https://github.com/ouqiang/delay-queue) - 延迟队列
+*   [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
+*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
+*   [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+*   [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple yet powerful CI/CD engine with great extensibility.
+*   [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
+*   [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
+*   [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+*   [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+*   [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
+*   [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
+*   [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+*   [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
+*   [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
+*   [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+*   [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+*   [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+*   [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+*   [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+*   [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
+*   [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+*   [easychen/wecomchan](https://github.com/easychen/wecomchan) - 微信推送服务Server酱的开源替代。通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。
+*   [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
+*   [Edgenesis/shifu](https://github.com/Edgenesis/shifu) - Kubernetes-native IoT gateway
+*   [inlets/mixctl](https://github.com/inlets/mixctl) - A tiny TCP load balancer 🍸
+*   [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
+*   [llychao/m3u8-downloader](https://github.com/llychao/m3u8-downloader) -  一个M3U8 视频下载(M3U8 downloader)工具。跨平台: 提供windows、linux、mac三大平台可执行文件,方便直接使用。
+*   [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
+*   [ccfos/nightingale](https://github.com/ccfos/nightingale) - An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
+*   [real-web-world/hh-lol-prophet](https://github.com/real-web-world/hh-lol-prophet) - lol 对局先知 上等马 牛马分析程序 选人阶段判断己方大爹 大坑, 明确对局目标 基于lol client api 合法不封号
+*   [syncsynchalt/illustrated-tls12](https://github.com/syncsynchalt/illustrated-tls12) - The Illustrated TLS 1.2 Connection: Every byte explained
+*   [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your self-hosted comment system
+*   [unknwon/go-fundamental-programming](https://github.com/unknwon/go-fundamental-programming) - 《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
+*   [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) - A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.
+*   [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
+*   [sea-team/gofound](https://github.com/sea-team/gofound) - GoFound GoLang Full text search go语言全文检索引擎，毫秒级查询。 使用http接口调用，集成Admin管理界面，任何系统都可以使用。
+*   [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
+*   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+*   [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+*   [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)
+*   [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
+*   [XZB-1248/Spark](https://github.com/XZB-1248/Spark) - ✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监控和控制所有设备。
+*   [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
+*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos
+*   [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
+*   [SmartIDE/SmartIDE](https://github.com/SmartIDE/SmartIDE) - CloudNative IDE - Empower develoeprs with CloudNative technologies, may the force with you!
+*   [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
+*   [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
+*   [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
+*   [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+*   [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) -
+*   [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engines.
+*   [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
+*   [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
+*   [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+*   [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
+*   [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
+*   [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+*   [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
+*   [tkeel-io/core](https://github.com/tkeel-io/core) - Core is the next-generation digital data engine.
+*   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
+*   [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
+*   [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+*   [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
+*   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
+*   [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+*   [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
+*   [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
+*   [sairson/Yasso](https://github.com/sairson/Yasso) - 强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用支持socks5代理执行）
+*   [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+*   [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
+*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+*   [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+*   [taoshihan1991/go-fly](https://github.com/taoshihan1991/go-fly) - 开源在线客服系统GO语言开发GO-FLY,免费在线客服系统/open source self-hosted private cloud customer support live chat software by golang
+*   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
+*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+*   [tkeel-io/tkeel](https://github.com/tkeel-io/tkeel) - Next-generation IoT open source platform.
+*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+*   [knownsec/ksubdomain](https://github.com/knownsec/ksubdomain) - 无状态子域名爆破工具
+*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat
+*   [wxbool/video-srt-windows](https://github.com/wxbool/video-srt-windows) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
+*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+*   [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
+*   [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
+*   [gliderlabs/registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
+*   [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
+*   [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
+*   [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud-native file store
+*   [hashicorp/consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.
+*   [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
+*   [fatedier/fft](https://github.com/fatedier/fft) - A fast distributed file transfer.
+*   [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
+*   [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
+*   [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
+*   [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
+*   [chanify/chanify](https://github.com/chanify/chanify) - Chanify is a safe and simple notification tools. This repository is command line tools for Chanify.
+*   [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+*   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+*   [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+*   [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
+*   [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+*   [qeesung/asciiplayer](https://github.com/qeesung/asciiplayer) - :tv: ASCII gif/video player write in golang
+*   [qeesung/image2ascii](https://github.com/qeesung/image2ascii) - :foggy: Convert image to ASCII
+*   [bilibili/overlord](https://github.com/bilibili/overlord) - Overlord是哔哩哔哩基于Go语言编写的memcache和redis\&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。
+*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
+*   [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+*   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+*   [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
+*   [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+*   [bitepeng/b0pass](https://github.com/bitepeng/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
+*   [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+*   [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+*   [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+*   [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+*   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+*   [umputun/remark42](https://github.com/umputun/remark42) - comment engine
+*   [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
+*   [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
+*   [ga0/netgraph](https://github.com/ga0/netgraph) - A cross platform http sniffer with a web UI
+*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
+*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+*   [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+*   [bfenetworks/bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
+*   [GuoZhaoran/spikeSystem](https://github.com/GuoZhaoran/spikeSystem) - 一个秒杀系统的例子分析
+*   [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+*   [fagongzi/manba](https://github.com/fagongzi/manba) - HTTP API Gateway
+*   [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
+*   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+*   [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
+*   [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+*   [eolinker/goku\_lite](https://github.com/eolinker/goku_lite) - A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
+*   [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
+*   [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
+*   [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+*   [yonyoucloud/install\_k8s](https://github.com/yonyoucloud/install_k8s) - 一键安装kubernets(k8s)系统，采用RBAC模式运行（证书安全认证模式），既可以单台安装、也可以集群安装，并且完全是生产环境的安装标准。有疑问大家可以加我微信沟通：bsh888
+*   [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+*   [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
+*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
+*   [gin-gonic/contrib](https://github.com/gin-gonic/contrib) - Collection of middlewares created by the community
+*   [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
+*   [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
+*   [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB)
+*   [TalkingData/owl](https://github.com/TalkingData/owl) - Distributed monitoring system
+*   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
+*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+*   [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
+*   [Terry-Mao/goim](https://github.com/Terry-Mao/goim) - goim
+*   [b3log/pipe](https://github.com/b3log/pipe) - 🎷 一款小而美的博客平台，专为程序员设计。
+*   [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
+*   [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+*   [ctripcorp/nephele](https://github.com/ctripcorp/nephele) - Image Service
+*   [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+*   [gwuhaolin/lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
+*   [marcusolsson/tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
+*   [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+*   [pierrre/imageserver](https://github.com/pierrre/imageserver) - Image server toolkit in Go
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+*   [fireworq/fireworq](https://github.com/fireworq/fireworq) - Fireworq is a lightweight, high-performance, language-independent job queue system.
+*   [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
+*   [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
+*   [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+*   [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
+*   [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
+*   [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
+*   [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
+*   [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
+*   [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
+*   [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go. 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163
+*   [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+*   [hb-chen/echo-web](https://github.com/hb-chen/echo-web) - Go web framework Echo example.
+*   [yinghuocho/firefly-proxy](https://github.com/yinghuocho/firefly-proxy) - A proxy software to help circumventing the Great Firewall.
+*   [jaywcjlove/golang-tutorial](https://github.com/jaywcjlove/golang-tutorial) - Go语言快速入门
+*   [KevinGong2013/ggbot](https://github.com/KevinGong2013/ggbot) - 一个用Go写的微信机器人
 
 ## JavaScript
 
@@ -2049,688 +2930,6 @@
 *   [Kivy-CN/llthw-zh](https://github.com/Kivy-CN/llthw-zh) - :book: \[译] 笨办法学 Linux
 *   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
-## C\#
-
-*   [LeagueTavern/fix-lcu-window](https://github.com/LeagueTavern/fix-lcu-window) - 解决《英雄联盟》客户端异常窗口大小的问题。
-*   [milanm/DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse) - Most common Design Patterns you need to know, with examples in C#.
-*   [dotnet/eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site
-*   [immense/RemoteControl](https://github.com/immense/RemoteControl) - Server and client libraries that provide remote control functionality.
-*   [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.
-*   [mayuki/dotnet-sail](https://github.com/mayuki/dotnet-sail) - Downloads .NET project from Gist, GitHub, Git, or the web and runs it in a container.
-*   [koenvzeijl/AspNetCore.SassCompiler](https://github.com/koenvzeijl/AspNetCore.SassCompiler) - Sass Compiler Library for .NET Core 3.1/5.x/6.x/7.x without node, using dart-sass as a compiler
-*   [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
-*   [nilaoda/N\_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
-*   [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
-*   [inversionhourglass/Rougamo](https://github.com/inversionhourglass/Rougamo) - An AOP component that takes effect at compile time, similar to PostSharp.
-*   [riok/mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
-*   [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) - 🐱‍🚀【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、常见面试题、面试须知、简历模板、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。
-*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-*   [sdcb/sdmap](https://github.com/sdcb/sdmap) - A template engine for writing dynamic sql.
-*   [sdcb/Sdcb.Arithmetic](https://github.com/sdcb/Sdcb.Arithmetic) - A modern .NET library that can PInvoke to gmp and mpfr, that enable both high performance and best .NET convenience.
-*   [dynamicexpresso/DynamicExpresso](https://github.com/dynamicexpresso/DynamicExpresso) - C# expressions interpreter
-*   [MoaidHathot/Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's.
-*   [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
-*   [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. Moved to https://github.com/dotnet/eShop.
-*   [notion-dotnet/notion-sdk-net](https://github.com/notion-dotnet/notion-sdk-net) - A Notion SDK for .Net
-*   [russkyc/groomwise](https://github.com/russkyc/groomwise) - Onsite Pet Grooming CRM for Windows
-*   [PrismLibrary/Prism](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Xamarin Forms, and Uno / Win UI Applications..
-*   [ButchersBoy/Dragablz](https://github.com/ButchersBoy/Dragablz) - Dragable and tearable tab control for WPF
-*   [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
-*   [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySQL and MariaDB built on top of MySqlConnector
-*   [NewLifeX/NewLife.IoT](https://github.com/NewLifeX/NewLife.IoT) - IoT standard library, which defines various communication protocol standards and specifications in the Internet of Things field, without specific implementation. Used for IoT platform construction and unifying various hardware driver protocols. IoT标准库，定义物联网领域的各种通信协议标准规范，不含具体实现。主要用于IoT平台建设，以及统一各种硬件驱动协议。
-*   [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
-*   [dotnet/dotnet-monitor](https://github.com/dotnet/dotnet-monitor) - This repository contains the source code for .NET Monitor - a tool that allows you to gather diagnostic data from running applications using HTTP endpoints
-*   [dotnet/HttpRepl](https://github.com/dotnet/HttpRepl) - The HTTP Read-Eval-Print Loop (REPL) is a lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported and is used for making HTTP requests to test ASP.NET Core web APIs and view their results.
-*   [featbit/featbit](https://github.com/featbit/featbit) - A feature flags service written in .NET
-*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
-*   [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms. Provides the fundamental infrastructure, production-ready startup templates, application modules, UI themes, tooling, guides and documentation.
-*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
-*   [microsoft/perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
-*   [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
-*   [xljiulang/KestrelApp](https://github.com/xljiulang/KestrelApp) - 基于Kestrel的网络编程应用示例
-*   [xljiulang/WindivertDotnet](https://github.com/xljiulang/WindivertDotnet) - 面向对象的WinDivert的dotnet异步封装
-*   [xljiulang/ServiceSelf](https://github.com/xljiulang/ServiceSelf) - 为.NET 泛型主机的应用程序提供自安装为服务进程的能力
-*   [Sicos1977/ChromiumHtmlToPdf](https://github.com/Sicos1977/ChromiumHtmlToPdf) - Convert HTML to PDF with a Chromium based browser
-*   [IoTSharp/IoTSharp](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
-*   [drewnoakes/figgle](https://github.com/drewnoakes/figgle) - ASCII banner generation for .NET
-*   [IzyPro/WatchDog](https://github.com/IzyPro/WatchDog) - WatchDog is a Realtime Message, Event, HTTP (Request & Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http requests made to their web application and also exception caught during runtime in their web applications, all in Realtime.
-*   [IdentityServer/IdentityServer4](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
-*   [whuanle/CZGL.SystemInfo](https://github.com/whuanle/CZGL.SystemInfo) - 一个.NET Core监控系统CPU内存等信息的工具
-*   [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
-*   [hitchao/Jvedio](https://github.com/hitchao/Jvedio) - Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件
-*   [2881099/FreeIM](https://github.com/2881099/FreeIM) - .NETCore websocket 实现简易、高性能、集群即时通讯组件，支持点对点通讯、群聊通讯、上线下线事件消息等众多实用性功能.
-*   [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
-*   [fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat) - 可能是全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，包含微信公众平台（订阅号+服务号+小程序+小游戏+小商店+视频号）、微信开放平台、微信商户平台（微信支付+微企付）、企业微信、微信广告平台、微信智能对话开放平台等模块，可跨平台。持续随官方更新，欢迎 Star/Fork/PR。QQ 交流群 875580418【满】、930461548。
-*   [natemcmaster/LettuceEncrypt](https://github.com/natemcmaster/LettuceEncrypt) - Free, automatic HTTPS certificate generation for ASP.NET Core web apps
-*   [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
-*   [2881099/IdleBus](https://github.com/2881099/IdleBus) - IdleBus 空闲对象管理容器，有效组织对象重复利用，自动创建、销毁，解决【实例】过多且长时间占用的问题。
-*   [bradymholt/cron-expression-descriptor](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
-*   [andrewlock/NetEscapades.EnumGenerators](https://github.com/andrewlock/NetEscapades.EnumGenerators) - A source generator for generating fast "reflection" methods for enums
-*   [Fody/PropertyChanged](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
-*   [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
-*   [Drizin/DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder) - Dapper Query Builder using String Interpolation and Fluent API
-*   [antoinebidault/JsonRuleEngine.Net](https://github.com/antoinebidault/JsonRuleEngine.Net) - A json-rule-engine simple porting to Asp.Net Core
-*   [madelson/DistributedLock](https://github.com/madelson/DistributedLock) - A .NET library for distributed synchronization
-*   [mehdihadeli/food-delivery-microservices](https://github.com/mehdihadeli/food-delivery-microservices) - 🍔 A practical food delivery microservices, built with .Net 7, MassTransit, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
-*   [he55/DreamScene2](https://github.com/he55/DreamScene2) - 一个小而快并且功能强大的 Windows 动态桌面软件
-*   [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional extensions for C#
-*   [fullstackhero/dotnet-webapi-starter-kit](https://github.com/fullstackhero/dotnet-webapi-starter-kit) - production grade .net 8 webapi starter kit with multitenancy support and clean code. 🔥
-*   [wieslawsoltes/Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
-*   [zzzprojects/Eval-Expression.NET](https://github.com/zzzprojects/Eval-Expression.NET) - C# Eval Expression | Evaluate, Compile, and Execute C# code and expression at runtime.
-*   [jtmueller/Collections.Pooled](https://github.com/jtmueller/Collections.Pooled) - Fast, low-allocation ports of List, Dictionary, HashSet, Stack, and Queue using ArrayPool and Span.
-*   [beetlex-io/BeetleX](https://github.com/beetlex-io/BeetleX) - high performance dotnet core socket tcp communication components,  support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols  and 1M connections problem solution
-*   [DamianEdwards/MinimalApis.Extensions](https://github.com/DamianEdwards/MinimalApis.Extensions) - A set of extensions and helpers for working with ASP.NET Core Minimal APIs.
-*   [darkthread/better-console-desktop-tool](https://github.com/darkthread/better-console-desktop-tool) -
-*   [KirillOsenkov/MSBuildStructuredLog](https://github.com/KirillOsenkov/MSBuildStructuredLog) - A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.
-*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
-*   [victor-iyif/ferventdeserte](https://github.com/victor-iyif/ferventdeserte) - visualized crawler & ETL IDE written with C#/WPF
-*   [meysamhadeli/booking-microservices](https://github.com/meysamhadeli/booking-microservices) - Practical microservices, built with .Net 8, DDD, CQRS, Event Sourcing, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
-*   [dotnet/dotnet-api-docs](https://github.com/dotnet/dotnet-api-docs) - .NET API reference documentation (.NET 5+, .NET Core, .NET Framework)
-*   [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
-*   [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
-*   [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-*   [videolan/libvlcsharp](https://github.com/videolan/libvlcsharp) - Cross-platform .NET/Mono bindings for LibVLC
-*   [sj-distributor/FastCache](https://github.com/sj-distributor/FastCache) - dotnetcore, dotnet cache, dotnet redis, dotnet InMemoryCache
-*   [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc.
-*   [yuzhengyang/Fork](https://github.com/yuzhengyang/Fork) - a c# utility library. C#工具包，C#工具类，常用方法，系统API，文件处理、加密解密、Winform美化（C# Tools）
-*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-*   [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
-*   [daxnet/forms-ui](https://github.com/daxnet/forms-ui) - A Windows Forms library for solving real life problems.
-*   [martincostello/sqllocaldb](https://github.com/martincostello/sqllocaldb) - SQL LocalDB Wrapper is a .NET library providing interop with the Microsoft SQL Server LocalDB Instance API
-*   [Calabonga/Microservice-Template](https://github.com/Calabonga/Microservice-Template) - Templates for microservice architecture. Nimble Microservice Framework contains two modules. The first with OpenIddict and the second without OpenIddict. Templates are built on ASP.NET Core platform with different versions Core3.1, NET6, NET7 and NET8. You can create a new project extremely fast: in Visual Studio, Rider, dotnet CLI.
-*   [vla/BloomFilter.NetCore](https://github.com/vla/BloomFilter.NetCore) - A bloom filter implementation
-*   [DamianEdwards/MinimalApiPlayground](https://github.com/DamianEdwards/MinimalApiPlayground) - A place I'm trying out the new ASP.NET Core minimal APIs features.
-*   [2881099/csredis](https://github.com/2881099/csredis) - .NET Core or .NET Framework 4.0+ client for Redis and Redis Sentinel (2.8) and Cluster. Includes both synchronous and asynchronous clients.
-*   [2881099/FreeRedis](https://github.com/2881099/FreeRedis) - 🦄 FreeRedis is .NET40+ redis client. supports cluster, sentinel, master-slave, pub-sub, lua, pipeline, transaction, streams, client-side-caching, and pooling.
-*   [sebastienros/parlot](https://github.com/sebastienros/parlot) - Fast and lightweight parser creation tools
-*   [alex-oswald/WindowsFormsLifetime](https://github.com/alex-oswald/WindowsFormsLifetime) - .NET Core hosting infrastructure for Windows Forms.
-*   [imazen/imageflow-dotnet-server](https://github.com/imazen/imageflow-dotnet-server) - A super-fast image server to speed up your site - deploy as a microservice, serverless, or embeddable.
-*   [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card\_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
-*   [imchillin/Anamnesis](https://github.com/imchillin/Anamnesis) - A standalone tool that allows the user a greater degree of flexibility for making creative and interesting screenshots.
-*   [ScottPlot/ScottPlot](https://github.com/ScottPlot/ScottPlot) - Interactive plotting library for .NET
-*   [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
-*   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
-*   [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio & CLI
-*   [lepoco/wpfui](https://github.com/lepoco/wpfui) - WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.
-*   [inthehand/32feet](https://github.com/inthehand/32feet) - Personal Area Networking for .NET. Open source and professionally supported
-*   [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 6 and newer.
-*   [xoofx/dotnet-releaser](https://github.com/xoofx/dotnet-releaser) - Easily build, run tests and coverage, cross-compile, package and publish your .NET library or application to NuGet and GitHub.
-*   [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
-*   [xujiangjiang/Easy-Cat-Timer](https://github.com/xujiangjiang/Easy-Cat-Timer) - This is a very simple cat timer, made using WPF（这是一个非常简单的猫咪计时器，使用WPF制作）
-*   [wmjordan/Codist](https://github.com/wmjordan/Codist) - A visual studio extension which enhances syntax highlighting, quick info (tooltip), navigation bar, scrollbar, display quality, and brings smart tool bar with code refactoring to code editor.
-*   [dadhi/DryIoc](https://github.com/dadhi/DryIoc) - DryIoc is fast, small, full-featured IoC Container for .NET
-*   [autodotua/RemoteFFmpegGUI](https://github.com/autodotua/RemoteFFmpegGUI) - 使用 Vue.js + ASP.NET + WPF 搭建的 FFmpeg 的 Web/Windows GUI 程序，支持视频转码、拼接等功能
-*   [mayuki/Cocona](https://github.com/mayuki/Cocona) - Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET.
-*   [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
-*   [stephbu/csharp-dns-server](https://github.com/stephbu/csharp-dns-server) - Fully functional DNS server written in C#
-*   [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
-*   [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
-*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
-*   [vezel-dev/cathode](https://github.com/vezel-dev/cathode) - A terminal-centric replacement for the .NET console APIs.
-*   [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
-*   [Kyome22/RunCat\_for\_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
-*   [beto-rodriguez/LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
-*   [immense/Remotely](https://github.com/immense/Remotely) - A remote control and remote scripting solution, built with .NET 8, Blazor, and SignalR.
-*   [ullmark/hashids.net](https://github.com/ullmark/hashids.net) - A small .NET package to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.
-*   [louislam/lazy-compress-h265](https://github.com/louislam/lazy-compress-h265) - Compress or convert your video files to h.265 (hevc) format with one-click, make its size much smaller!
-*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
-*   [xin9le/FastEnum](https://github.com/xin9le/FastEnum) - The world fastest enum utilities for C#/.NET
-*   [besley/Slickflow](https://github.com/besley/Slickflow) - .NET Open Source Workflow Engine,  .NET 开源工作流
-*   [dotnetcore/sharding-core](https://github.com/dotnetcore/sharding-core) - high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵
-*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
-*   [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
-*   [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
-*   [DebugST/STNodeEditor](https://github.com/DebugST/STNodeEditor) - 一款基于.Net WinForm的节点编辑器 纯GDI+绘制 使用方式非常简洁 提供了丰富的属性以及事件 可以非常方便的完成节点之间数据的交互及通知 大量的虚函数供开发者重写具有很高的自由性
-*   [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
-*   [Cysharp/MessagePipe](https://github.com/Cysharp/MessagePipe) - High performance in-memory/distributed messaging pipeline for .NET and Unity.
-*   [jduv/AppDomainToolkit](https://github.com/jduv/AppDomainToolkit) - A toolkit for managing the complexities of .NET application domain programming.
-*   [hemaju/Wireboy.Socket.P2PSocket](https://github.com/hemaju/Wireboy.Socket.P2PSocket) - P2P内网穿透，实现【公司】-【家】远程控制
-*   [aaronpowell/httpstatus](https://github.com/aaronpowell/httpstatus) - Easily generate different HTTP responses for testing
-*   [YJammak/Weather](https://github.com/YJammak/Weather) - 用WPF写的日历天气桌面小程序
-*   [UglyToad/PdfPig](https://github.com/UglyToad/PdfPig) - Read and extract text and other content from PDFs in C# (port of PDFBox)
-*   [tinylit/codearts](https://github.com/tinylit/codearts) - 【代码艺术】一款轻量高效的基础框架（包含类型转换、复制、映射，以及ORM支持）。
-*   [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) - UI automation library for .Net
-*   [dotnetconfig/dotnet-config](https://github.com/dotnetconfig/dotnet-config) - A global tool and accompanying API for managing hierarchical configurations for dotnet tools, using git config format
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-*   [Xabaril/Balea](https://github.com/Xabaril/Balea) - Balea is an authorization framework for ASP.NET Core developers.
-*   [dotnet/upgrade-assistant](https://github.com/dotnet/upgrade-assistant) - A tool to assist developers in upgrading .NET Framework applications to .NET 6 and beyond
-*   [dotnet/try-convert](https://github.com/dotnet/try-convert) - Helping .NET developers port their projects to .NET Core!
-*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
-*   [91270/Meiam.System](https://github.com/91270/Meiam.System) - .NET 7 / .NET 5 WebAPI + Vue 2.0 + RBAC 企业级前后端分离权限框架
-*   [XIU2/TileTool](https://github.com/XIU2/TileTool) - 🎨 Windows10 磁贴美化小工具
-*   [microsoft/RulesEngine](https://github.com/microsoft/RulesEngine) - A Json based Rules Engine with extensive Dynamic expression support
-*   [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
-*   [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
-*   [dotnet/Nerdbank.Streams](https://github.com/dotnet/Nerdbank.Streams) - Specialized .NET Streams and pipes for full duplex in-proc communication, web sockets, and multiplexing
-*   [sheng-jie/Design-Pattern](https://github.com/sheng-jie/Design-Pattern) - 设计模式 C# 版（ .NET 6），有系列文章讲解
-*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
-*   [dotnet/roslynator](https://github.com/dotnet/roslynator) - Roslynator is a set of code analysis tools for C#, powered by Roslyn.
-*   [roslynpad/roslynpad](https://github.com/roslynpad/roslynpad) - A cross-platform C# editor based on Roslyn and AvalonEdit
-*   [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
-*   [reactiveui/refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
-*   [saucecontrol/InheritDoc](https://github.com/saucecontrol/InheritDoc) - Automatically replace \<inheritdoc /> tags in .NET XML comments with inherited documentation at build time
-*   [saucecontrol/PhotoSauce](https://github.com/saucecontrol/PhotoSauce) - MagicScaler high-performance, high-quality image processing pipeline for .NET
-*   [tusdotnet/tusdotnet](https://github.com/tusdotnet/tusdotnet) - .NET server implementation of the Tus protocol for resumable file uploads. Read more at https://tus.io
-*   [Djohnnie/DotNet5-UpdateNow-2020](https://github.com/Djohnnie/DotNet5-UpdateNow-2020) - What is new in .NET 5 and the future of .NET - Update Now 2020
-*   [dotnet-outdated/dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated) - A .NET Core global tool to display and update outdated NuGet packages in a project
-*   [jasonhua95/awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core) - .NET Core库、工具、框架和软件的中文收录大全。 内容包括：库、工具、框架、模板引擎、身份认证、数据库、ORM框架、图片处理、文本处理、机器学习、日志、代码分析、教程等。
-*   [FastTunnel/FastTunnel](https://github.com/FastTunnel/FastTunnel) - expose a local server to the internet.  高性能跨平台的内网穿透解决方案 远程内网计算机 域名访问内网站点 反向代理内网服务 端口转发 http代理
-*   [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
-*   [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
-*   [RayWangQvQ/BiliBiliTool](https://github.com/RayWangQvQ/BiliBiliTool) - 基于 .Net 5 的B站（哔哩哔哩）任务工具，实现每日自动运行任务：如每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6；如定时自动领取大会员权益、月底自动为自己充电；如天选时刻抽奖等功能。
-*   [net2cn/Anime4KSharp](https://github.com/net2cn/Anime4KSharp) - C# implementation of Anime4K that runs only on CPU just for learning.
-*   [zqlovejyc/SQLBuilder](https://github.com/zqlovejyc/SQLBuilder) - .NET Framework4.5版本Expression表达式转换为SQL语句，支持SqlServer、MySql、Oracle、Sqlite、PostgreSql；基于Dapper实现了不同数据库对应的数据仓储Repository；
-*   [proxysu/ProxySU](https://github.com/proxysu/ProxySU) - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
-*   [night-moon-studio/NatashaPad](https://github.com/night-moon-studio/NatashaPad) - Another dotnet debug tool like LinqPad and dotnet fiddle, powered by Roslyn and Natasha
-*   [yiyungent/SimCaptcha](https://github.com/yiyungent/SimCaptcha) - ✅ 简单易用的点触验证码 (前端+后端)
-*   [Job79/EasyTcp](https://github.com/Job79/EasyTcp) - TCP framework for C#. Focused on usability and performance.
-*   [ViewFaceCore/ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) - C# 超简单的离线人脸识别库。( 基于 SeetaFace6 )
-*   [Fody/NullGuard](https://github.com/Fody/NullGuard) - Adds null argument checks to an assembly
-*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
-*   [Fody/MethodTimer](https://github.com/Fody/MethodTimer) - Injects some very basic method timing code.
-*   [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
-*   [DomanyDusan/lambda-sql-builder](https://github.com/DomanyDusan/lambda-sql-builder) - A small independent library that will let you use standard C# and Linq to produce SQL queries
-*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
-*   [tomaszzmuda/Xabe.FFmpeg](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from dotnet core application.
-*   [lianggx/Kong.Net](https://github.com/lianggx/Kong.Net) - .NET Core Client of the Kong
-*   [ashmind/mirrorsharp](https://github.com/ashmind/mirrorsharp) - MirrorSharp is a code editor \<textarea> built on Roslyn and CodeMirror
-*   [hexadezi/adbGUI](https://github.com/hexadezi/adbGUI) - Wrapper for Android Debug Bridge (ADB) written in C#
-*   [zsh2401/AutumnBox](https://github.com/zsh2401/AutumnBox) - 图形化ADB工具箱
-*   [q315523275/FamilyBucket](https://github.com/q315523275/FamilyBucket) - 集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用
-*   [praeclarum/FuGetGallery](https://github.com/praeclarum/FuGetGallery) - An alternative web UI for browsing nuget packages
-*   [dotnetcore/AgileConfig](https://github.com/dotnetcore/AgileConfig) - 基于.NET Core开发的轻量级分布式配置中心 / .NET  Core lightweight configuration server
-*   [zmjack/Chinese](https://github.com/zmjack/Chinese) - 中文解析通用工具。包括拼音，简繁转换，数字读法，货币读法。
-*   [PiranhaCMS/piranha.core](https://github.com/PiranhaCMS/piranha.core) - Piranha CMS is the friendly editor-focused CMS for .NET that can be used both as an integrated CMS or as a headless API.
-*   [abock/dotnet-ecoji](https://github.com/abock/dotnet-ecoji) - 😻 Encode and decode data using emoji in .NET❣️ Like base64, except base1024, and uses an emoji alphabet. 🎉
-*   [TortugaResearch/DotNet-ORM-Cookbook](https://github.com/TortugaResearch/DotNet-ORM-Cookbook) - This repository is meant to show how to perform common tasks using C# with variety of ORMs.
-*   [vbilopav/NoOrm.Net](https://github.com/vbilopav/NoOrm.Net) - Fast, modern and extendible C# Data Access library
-*   [geovens/gInk](https://github.com/geovens/gInk) - An easy to use on-screen annotation software inspired by Epic Pen.
-*   [jexuswebserver/JexusManager](https://github.com/jexuswebserver/JexusManager) - Jexus Manager http://jexusmanager.com
-*   [kerryjiang/SuperSocket](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight, cross platform and extensible socket server application framework.
-*   [dahall/Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
-*   [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
-*   [WeihanLi/WeihanLi.Npoi](https://github.com/WeihanLi/WeihanLi.Npoi) - NPOI Extensions, excel/csv importer/exporter for IEnumerable\<T>/DataTable, fluentapi(great flexibility)/attribute configuration
-*   [castleproject/Core](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter
-*   [hanyizhao/NetSpeedMonitor](https://github.com/hanyizhao/NetSpeedMonitor) - This is a net speed monitor just like 360 for windows user.
-*   [openhardwaremonitor/openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) - Open Hardware Monitor
-*   [luoyunchong/lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore) - 😃A simple and practical CMS implemented by .NET + FreeSql；前后端分离、Docker部署、OAtuh2授权登录、自动化部署DevOps、自动同步至Gitee、代码生成器、仿掘金专栏
-*   [hey-hoho/ScheduleMasterCore](https://github.com/hey-hoho/ScheduleMasterCore) - This is a distributed task management system base on .Net Core platform .
-*   [dotnetcore/WebApiClient](https://github.com/dotnetcore/WebApiClient) - An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
-*   [SteeltoeOSS/Initializr](https://github.com/SteeltoeOSS/Initializr) - Steeltoe Initializr - .NET Microservices Templates
-*   [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
-*   [Coldairarrow/EFCore.Sharding](https://github.com/Coldairarrow/EFCore.Sharding) - Database Sharding For EFCore
-*   [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
-*   [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) - HttpReports is an APM (application performance monitor) system for .Net Core.
-*   [WeihanLi/SamplesInPractice](https://github.com/WeihanLi/SamplesInPractice) - some samples in practice
-*   [fullstackproltd/AspNetCoreSpa](https://github.com/fullstackproltd/AspNetCoreSpa) - Asp.Net 7.0 & Angular 15 SPA Fullstack application with plenty of examples. Live demo:
-*   [StefanKert/BuildVision](https://github.com/StefanKert/BuildVision) - A Visual Studio extension to visualize the building process.
-*   [leosperry/Chroniton](https://github.com/leosperry/Chroniton) - A library for running tasks(jobs) on schedules.
-*   [dotnetcore/FreeSql](https://github.com/dotnetcore/FreeSql) - 🦄 .NET aot orm, C# orm, VB.NET orm, Mysql orm, Postgresql orm, SqlServer orm, Oracle orm, Sqlite orm, Firebird orm, 达梦 orm, 人大金仓 orm, 神通 orm, 翰高 orm, 南大通用 orm, 虚谷 orm, 国产 orm, Clickhouse orm, QuestDB orm, MsAccess orm.
-*   [JonPSmith/EfCore.TestSupport](https://github.com/JonPSmith/EfCore.TestSupport) - Tools for helping in unit testing applications that use Entity Framework Core
-*   [axzxs2001/Asp.NetCoreExperiment](https://github.com/axzxs2001/Asp.NetCoreExperiment) - 原来所有项目都移动到**OleVersion**目录下进行保留。新的案例装以.net 5.0为主，一部分对以前案例进行升级，一部分将以前的工作经验总结出来，以供大家参考！
-*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-*   [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
-*   [PublicApiGenerator/PublicApiGenerator](https://github.com/PublicApiGenerator/PublicApiGenerator) - Project to generate a public API of an assembly or type (useful for semantic versioning)
-*   [Cysharp/ConsoleAppFramework](https://github.com/Cysharp/ConsoleAppFramework) - Micro-framework for console applications to building CLI tools/Daemon/Batch for .NET, C#.
-*   [migomiddle/xms](https://github.com/migomiddle/xms) - 基于.netcore的跨平台应用框架，包含众多常用模块，易上手、易扩展，xms可理解为x(可扩展的/任意的)m(管理)s(系统)
-*   [liukuo362573/YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin) - 基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观
-*   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
-*   [microsoft/ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
-*   [gainorloss/Apsk](https://github.com/gainorloss/Apsk) - Application Shared Kernel
-*   [SciSharp/dotnet-mysql-replication](https://github.com/SciSharp/dotnet-mysql-replication) - C# Implementation of MySQL replication protocol
-*   [yuzd/AntDeploy](https://github.com/yuzd/AntDeploy) - Tools to deploy applications to remote server(iis,windowsService,linuxService,docker) support netframework and dotnetcore,support rollback and increment deploy
-*   [Squidex/squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub
-*   [xljiulang/SocketConnectionFactory](https://github.com/xljiulang/SocketConnectionFactory) - kestrel未公开的高性能的Socket客户端工厂
-*   [Fody/ConfigureAwait](https://github.com/Fody/ConfigureAwait) - Configure async code's ConfigureAwait at a global level
-*   [yswenli/SAEA](https://github.com/yswenli/SAEA) - SAEA.Socket is a high-performance IOCP framework TCP based on dotnet standard 2.0; Src contains its application test scenarios, such as websocket,rpc, redis driver, MVC WebAPI, lightweight message server, ultra large file transmission, etc. SAEA.Socket是一个高性能IOCP框架的 TCP，基于dotnet standard 2.0；Src中含有其应用测试场景，例如websocket、rpc、redis驱动、MVC WebAPI、轻量级消息服务器、超大文件传输等
-*   [jbogard/MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
-*   [the1812/Malware-Patch](https://github.com/the1812/Malware-Patch) - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
-*   [danielgerlag/conductor](https://github.com/danielgerlag/conductor) - Distributed workflow server
-*   [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.
-*   [kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
-*   [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
-*   [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
-*   [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) -  :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
-*   [ElderJames/NCaptcha](https://github.com/ElderJames/NCaptcha) - Captcha in .NET Core
-*   [sebastienros/jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET
-*   [Coldairarrow/Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue) - Admin Fx Based On .NET 5 + Ant Design Vue
-*   [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
-*   [sheng-jie/UnitOfWork](https://github.com/sheng-jie/UnitOfWork) - DDD中实体、聚合、仓储、UOW相关实现。
-*   [libgit2/libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET = ❤
-*   [jiyuwu/TemplateCore](https://github.com/jiyuwu/TemplateCore) - .Net Core Good Template （.Net Core 的通用模板项目）
-*   [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 8, Angular 17, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, Mediator Pattern, Result Pattern, Folder-by-Feature Structure, Separation of Concerns.
-*   [obfuscar/obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies
-*   [micjahn/ZXing.Net](https://github.com/micjahn/ZXing.Net) - .Net port of the original java-based barcode reader and generator library zxing
-*   [JoyMoe/TinyScraper](https://github.com/JoyMoe/TinyScraper) - A tiny and easy-to-use scraping and web crawling toolkit for .Net Core
-*   [snatch-dev/Convey](https://github.com/snatch-dev/Convey) - A simple recipe for .NET Core microservices.
-*   [danielgerlag/workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
-*   [TCPingInfoView/TCPingInfoView-Classic](https://github.com/TCPingInfoView/TCPingInfoView-Classic) - TCP 连接延迟测试
-*   [dotnet/dotNext](https://github.com/dotnet/dotNext) - Next generation API for .NET
-*   [Fody/Costura](https://github.com/Fody/Costura) - Embed references as resources
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-*   [zhangqi-ulua/XlsxToLua](https://github.com/zhangqi-ulua/XlsxToLua) - Excel表格数据导出为Lua table、csv、json形式的工具，兼带数据检查功能以及导出、导入MySQL数据库功能
-*   [xunki/RemoteDesktopManage](https://github.com/xunki/RemoteDesktopManage) - 基于 MSTSC 连接 Windows 远程桌面，并对其进行封装实现管理多个远程桌面配置的小工具
-*   [jm33-m0/kms-activate](https://github.com/jm33-m0/kms-activate) - Microsoft Windows/Office 一键激活工具
-*   [mili-tan/AuroraDNS.GUI](https://github.com/mili-tan/AuroraDNS.GUI) - 纯净抗污染，简单轻量级
-*   [gemgin/WeChatTools](https://github.com/gemgin/WeChatTools) - 微信域名检测接口:实时检测域名能否在微信中直接访问的技术;微信小程序状态检测接口;QQ管家域名检测接口;抖音域名检测;域名icp备案信息查询接口
-*   [qwqcode/Nacollector](https://github.com/qwqcode/Nacollector) - Nacollector WEB data collection platform.
-*   [Meowv/Blog](https://github.com/Meowv/Blog) - 🤣本项目有不同开发版本，最新版底层基于 abp vNext 搭建和免费开源跨平台框架 .NET5 进行开发，使用 MongoDB 存储数据，Redis 缓存数据。项目采用前后端分离的模式进行开发，API 遵循 RESTful 接口规范，页面使用 Blazor 进行开发，可作为 .NET Core 入门项目进行学习。If you liked `Blog` project or if it helped you, please give a star ⭐️ for this repository. 👍👍👍
-*   [shack2/SNETCracker](https://github.com/shack2/SNETCracker) - 超级弱口令检查工具是一款Windows平台的弱口令审计工具，支持批量多线程检查，可快速发现弱密码、弱口令账号，密码支持和用户名结合进行检查，大大提高成功率，支持自定义服务端口和字典。
-*   [beetlex-io/Bumblebee](https://github.com/beetlex-io/Bumblebee) - .net core fast http and websocket gateway components
-*   [xljiulang/NetworkSocket](https://github.com/xljiulang/NetworkSocket) - NetworkSocket是一个以中间件(middleware)扩展通讯协议，以插件(plug)扩展服务器功能的支持SSL安全传输的通讯框架；目前支持http、websocket、fast、flex策略与silverlight策略协议。
-*   [apache/lucenenet](https://github.com/apache/lucenenet) - Apache Lucene.NET
-*   [ldqk/Masuit.LuceneEFCore.SearchEngine](https://github.com/ldqk/Masuit.LuceneEFCore.SearchEngine) - 基于EntityFrameworkCore和Lucene.NET实现的全文检索搜索引擎
-*   [djluck/prometheus-net.DotNetRuntime](https://github.com/djluck/prometheus-net.DotNetRuntime) - Exposes .NET core runtime metrics (GC, JIT, lock contention, thread pool) using the prometheus-net package
-*   [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
-*   [jlucansky/Quartzmin](https://github.com/jlucansky/Quartzmin) - Quartzmin is powerful, easy to use web management tool for Quartz.NET
-*   [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows. Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
-*   [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
-*   [umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) - The simple, flexible and friendly ASP.NET CMS used by more than 730.000 websites
-*   [microsoft/IIS.Administration](https://github.com/microsoft/IIS.Administration) - REST API for managing IIS
-*   [Tornhoof/SpanJson](https://github.com/Tornhoof/SpanJson) - SpanJson is a JSON serializer for .NET Core 6.0+
-*   [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
-*   [beckzhu/SimpleRemote](https://github.com/beckzhu/SimpleRemote) - Remote Administration Tools
-*   [casbin/Casbin.NET](https://github.com/casbin/Casbin.NET) - An authorization library that supports access control models like ACL, RBAC, ABAC in .NET (C#)
-*   [zspitz/ExpressionTreeVisualizer](https://github.com/zspitz/ExpressionTreeVisualizer) - Debugging visualizer for expression trees
-*   [dotnet-presentations/aspnetcore-app-workshop](https://github.com/dotnet-presentations/aspnetcore-app-workshop) - This workshop will teach you ASP.NET Core by building a complete conference management website from scratch.
-*   [dotnet/sourcelink](https://github.com/dotnet/sourcelink) - Source Link enables a great source debugging experience for your users, by adding source control metadata to your built assets
-*   [dotnet/roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) -
-*   [ComponentFactory/Krypton](https://github.com/ComponentFactory/Krypton) - Krypton WinForms components for .NET
-*   [PolicyServer/PolicyServer.Local](https://github.com/PolicyServer/PolicyServer.Local) - Sample OSS version of PolicyServer
-*   [tmds/Tmds.Systemd](https://github.com/tmds/Tmds.Systemd) - .NET Core library for interacting with systemd
-*   [Kooboo/Kooboo](https://github.com/Kooboo/Kooboo) - A new web development methodology for JavaScript & C# developers.  A super fast and very easy to use CMS.
-*   [SkyChenSky/Sikiro.Dapper.Extension](https://github.com/SkyChenSky/Sikiro.Dapper.Extension) - This is an extension based on dapper, supporting lambda expression, with chain style which allows developers to use more gracely and innovationally.
-*   [ldqk/Masuit.Tools](https://github.com/ldqk/Masuit.Tools) - 全龄段友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！
-*   [Lokad/ILPack](https://github.com/Lokad/ILPack) - Serialize .NET Core assemblies
-*   [hardkoded/puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp) - Headless Chrome .NET API
-*   [tmoonlight/NSmartProxy](https://github.com/tmoonlight/NSmartProxy) - NSmartProxy是一款开源的内网穿透工具。采用.NET CORE的全异步模式打造。(NSmartProxy is an open source reverse proxy tool that creates a secure tunnel from a public endpoint to a locally service.)
-*   [mixcore/mix.core](https://github.com/mixcore/mix.core) - 🚀 Mixcore CMS is an Future-Proof Enterprise Web CMS that supports both headless and decoupled to easily build any kinds of app/web app/all in all/customizable APIs built on top of ASP.NET Core / Dotnet Core. It is a completely open-source ASP.NET Core (Dotnet Core) CMS solution. https://mixcore.org
-*   [jacqueskang/IpcServiceFramework](https://github.com/jacqueskang/IpcServiceFramework) - .NET Core Inter-process communication framework
-*   [nreco/lambdaparser](https://github.com/nreco/lambdaparser) - Runtime parser for string expressions (formulas, method calls). Builds dynamic LINQ expression tree and compiles it to lambda delegate.
-*   [daniellittledev/Enexure.MicroBus](https://github.com/daniellittledev/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET
-*   [sidristij/dotnetbook](https://github.com/sidristij/dotnetbook) - .NET Platform Architecture book (English, Chinese, Russian)
-*   [lukencode/FluentEmail](https://github.com/lukencode/FluentEmail) - All in one email sender for .NET. Supports popular senders (SendGrid, MailGun, etc) and Razor templates.
-*   [xoofx/markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
-*   [anjoy8/ChristDDD](https://github.com/anjoy8/ChristDDD) - 🙌 ASP.NET Core 3.1 应用, 包含 DDD、CQRS、EDA 和ES事件回溯
-*   [anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core) - 💖 ASP.NET Core 8.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：
-*   [hvanbakel/CsprojToVs2017](https://github.com/hvanbakel/CsprojToVs2017) - Tooling for converting pre 2017 project to the new Visual Studio 2017 format.
-*   [microsoft/Recognizers-Text](https://github.com/microsoft/Recognizers-Text) - Microsoft.Recognizers.Text provides recognition and resolution of numbers, units, date/time, etc. in multiple languages (ZH, EN, FR, ES, PT, DE, IT, TR, HI, NL. Partial support for JA, KO, AR, SV). Packages available at: https://www.nuget.org/profiles/Recognizers.Text, https://www.npmjs.com/~recognizers.text
-*   [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - A .NET workflows library
-*   [ProxyKit/ProxyKit](https://github.com/ProxyKit/ProxyKit) - A toolkit to create code-first HTTP reverse proxies on ASP.NET Core
-*   [davidfowl/NewId](https://github.com/davidfowl/NewId) - A sequential id generator that works across nodes with no collisions
-*   [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
-*   [bleroy/clay](https://github.com/bleroy/clay) - Clay is a dynamic C# type that will enable you to sculpt objects of any shape just as easily as in JavaScript or other dynamic languages.
-*   [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
-*   [ExcelDataReader/ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files
-*   [blqw/SettingsFetcher](https://github.com/blqw/SettingsFetcher) - 用于快速操作设置
-*   [jonwagner/Insight.Database](https://github.com/jonwagner/Insight.Database) - Fast, lightweight .NET micro-ORM
-*   [MarcosMeli/FileHelpers](https://github.com/MarcosMeli/FileHelpers) - The FileHelpers are a free and easy to use .NET library to read/write data from fixed length or delimited records in files, strings or streams
-*   [thomasgalliker/EntityFramework.Toolkit](https://github.com/thomasgalliker/EntityFramework.Toolkit) - EntityFramework best practices, patterns, utilities and extensions
-*   [Finickyflame/DesignPatterns](https://github.com/Finickyflame/DesignPatterns) - Simple repository containing one simple example for all existing patterns in C#
-*   [joaomatossilva/DateTimeExtensions](https://github.com/joaomatossilva/DateTimeExtensions) - This project is a merge of several common DateTime operations on the form of  extensions to System.DateTime, including natural date difference text (precise and human rounded), holidays and working days calculations on several culture locales.
-*   [FluentDateTime/FluentDateTime](https://github.com/FluentDateTime/FluentDateTime) - Allows cleaner DateTime expressions and operations
-*   [Yuziquan/MyFileManager](https://github.com/Yuziquan/MyFileManager) - A self-developed customized file manager(file explorer).
-*   [teddymacn/CoreProfiler](https://github.com/teddymacn/CoreProfiler) - A .NET Core Profiling Library
-*   [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
-*   [petrsvihlik/WopiHost](https://github.com/petrsvihlik/WopiHost) - ASP.NET Core MVC implementation of the WOPI protocol. Enables integration with WOPI clients such as Office Online Server.
-*   [ProfessionalCSharp/ProfessionalCSharp7](https://github.com/ProfessionalCSharp/ProfessionalCSharp7) - Code samples for the book Professional C# 7 and .NET Core 2.0 (with updates for 2.1), Wrox Press
-*   [ProfessionalCSharp/MoreSamples](https://github.com/ProfessionalCSharp/MoreSamples) - Additional code samples the book series Professional C#, Wrox Press
-*   [ProfessionalCSharp/ProfessionalCSharp6](https://github.com/ProfessionalCSharp/ProfessionalCSharp6) - Code samples for the book Professional C# 6 and .NET Core 1.0, Wrox Press
-*   [davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) - This repository has examples of broken patterns in ASP.NET Core applications
-*   [jasontaylordev/NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders) - Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.
-*   [MiloszKrajewski/K4os.Compression.LZ4](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) - LZ4/LH4HC compression for .NET Standard 1.6/2.0 (formerly known as lz4net)
-*   [tpeczek/Lib.AspNetCore.ServerSentEvents](https://github.com/tpeczek/Lib.AspNetCore.ServerSentEvents) - Lib.AspNetCore.ServerSentEvents is a library which provides Server-Sent Events (SSE) support for ASP.NET Core
-*   [TerribleDev/HardHat](https://github.com/TerribleDev/HardHat) - Help secure .net core apps with various HTTP headers (such as CSP's)
-*   [JimBobSquarePants/ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - :camera: A fluent wrapper around System.Drawing for the processing of image files.
-*   [mysteryx93/FFmpeg.NET](https://github.com/mysteryx93/FFmpeg.NET) - \[DEPRECATED] .Net Wrapper for FFmpeg
-*   [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
-*   [kklldog/AgileTrace](https://github.com/kklldog/AgileTrace) - AgileTrace 一个轻量级的日志收集系统，支持sqlserver，sqlite，mongodb作为存储
-*   [kklldog/AServer](https://github.com/kklldog/AServer) - AServer是基于asp.net core Kestrel封装的一个超迷你http服务器
-*   [natemcmaster/CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET
-*   [ferventdesert/Hawk](https://github.com/ferventdesert/Hawk) - visualized crawler & ETL IDE written with C#/WPF
-*   [huiyadanli/PasteEx](https://github.com/huiyadanli/PasteEx) - :clipboard: Paste As File 把剪贴板的内容直接粘贴为文件
-*   [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion) - Unified Realtime/API framework for .NET platform and Unity.
-*   [ASOS/SimpleEventStore](https://github.com/ASOS/SimpleEventStore) -
-*   [aalhour/C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - :books: :chart\_with\_upwards\_trend: Plug-and-play class-library project of standard Data Structures and Algorithms in C#
-*   [jamesmh/coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
-*   [khellang/Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
-*   [Kong/unirest-net](https://github.com/Kong/unirest-net) - Unirest in .NET: Simplified, lightweight HTTP client library.
-*   [GitTools/GitLink](https://github.com/GitTools/GitLink) - Making .NET open source accessible!
-*   [mayuki/Kurukuru](https://github.com/mayuki/Kurukuru) - Terminal Spinner for .NET platform
-*   [mayuki/Rin](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core
-*   [RobThree/IdGen](https://github.com/RobThree/IdGen) - Twitter Snowflake-alike ID generator for .Net
-*   [rocketRobin/myrmec](https://github.com/rocketRobin/myrmec) - This library is used to detect real file format type via file hex head (identify file format by header).
-*   [stevejgordon/CorrelationId](https://github.com/stevejgordon/CorrelationId) - An ASP.NET Core middleware component which synchronises a correlation ID for cross API request logging.
-*   [IgnaceMaes/MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
-*   [Accelerider/BaiduPanDownloadWinform](https://github.com/Accelerider/BaiduPanDownloadWinform) - 百度网盘不限速下载工具
-*   [markiodev/Networker](https://github.com/markiodev/Networker) - A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
-*   [peters/winforms-modernui](https://github.com/peters/winforms-modernui) - My humble attempt to bring the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications ...
-*   [scriban/scriban](https://github.com/scriban/scriban) - A fast, powerful, safe and lightweight scripting language and engine for .NET
-*   [kulend/Vino.Core.TimedTask](https://github.com/kulend/Vino.Core.TimedTask) - 基于.NET CORE的一个定时任务运行管理组件。
-*   [iccb1013/Sheng.WeixinConstruction](https://github.com/iccb1013/Sheng.WeixinConstruction) - 升讯威微信营销系统（第三方微信平台）完整源代码。包括了面向线下商家的诸多营销功能。【吸粉】 投票、定期抽奖、聚人气抽奖、摇一摇抽奖、粉丝海报、1元夺宝、发红包、在线捐款 等  【持续变现】 微官网、微会员、积分商城、卡券、微信支付、分类信息、电影排片 等  【管理考核】 电脑手机双后台、营销二维码、后台用户管理、操作日志 等。
-*   [natemcmaster/DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) - .NET Core library for dynamically loading code
-*   [loic-sharma/BaGet](https://github.com/loic-sharma/BaGet) - A lightweight NuGet and symbol server
-*   [danielmarbach/Microservices.ServiceFabric](https://github.com/danielmarbach/Microservices.ServiceFabric) -
-*   [Pathoschild/FluentHttpClient](https://github.com/Pathoschild/FluentHttpClient) - A modern async HTTP client for REST APIs. Its fluent interface lets you send an HTTP request and parse the response in one go.
-*   [nsubstitute/NSubstitute](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking libraries.
-*   [xingwen1987/myrmec](https://github.com/xingwen1987/myrmec) - This library is used to detect real file format type via file hex head.
-*   [NewLifeX/NewLife.Ftp](https://github.com/NewLifeX/NewLife.Ftp) - FTP组件，支持fx/mono/netcore
-*   [OrleansContrib/OrleansDashboard](https://github.com/OrleansContrib/OrleansDashboard) - :bar\_chart: A developer dashboard for Microsoft Orleans
-*   [anupavanm/csharp-design-patterns-for-humans](https://github.com/anupavanm/csharp-design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation - C# Examples
-*   [abishekaditya/DesignPatterns](https://github.com/abishekaditya/DesignPatterns) - Project : Design Patterns Examples in C#
-*   [sschmid/Entitas](https://github.com/sschmid/Entitas) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
-*   [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
-*   [xboxeer/NScrapy](https://github.com/xboxeer/NScrapy) - NScrapy is a .net core corss platform Distributed Spider Framework which provide an easy way to write your own Spider
-*   [cbovar/ConvNetSharp](https://github.com/cbovar/ConvNetSharp) - Deep Learning in C#
-*   [git-tfs/git-tfs](https://github.com/git-tfs/git-tfs) - A Git/TFS bridge, similar to git-svn
-*   [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net.
-*   [gaochundong/Gimela](https://github.com/gaochundong/Gimela) - Open source intelligent IP video surveillance system.
-*   [tangxuehua/enode](https://github.com/tangxuehua/enode) - ENode is a framework aims to help us developing ddd, cqrs, eda, and event sourcing style applications.
-*   [naudio/NAudio](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET
-*   [codecadwallader/codemaid](https://github.com/codecadwallader/codemaid) - CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
-*   [ariacom/Seal-Report](https://github.com/ariacom/Seal-Report) - Open Database Reporting Tool (.Net)
-*   [nbarbettini/SimpleTokenProvider](https://github.com/nbarbettini/SimpleTokenProvider) - Sample middleware component for ASP.NET that generates JWT access tokens
-*   [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) - Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
-*   [jbogard/EntityFramework.Filters](https://github.com/jbogard/EntityFramework.Filters) - Filters implementation for Entity Framework
-*   [Mpdreamz/shellprogressbar](https://github.com/Mpdreamz/shellprogressbar) - ShellProgressBar - display progress in your console application
-*   [dotnet-state-machine/stateless](https://github.com/dotnet-state-machine/stateless) - A simple library for creating state machines in C# code
-*   [CollaboratingPlatypus/PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - Official PetaPoco, A tiny ORM-ish thing for your POCO's
-*   [tsasioglu/Total-Uninstaller](https://github.com/tsasioglu/Total-Uninstaller) - Windows software uninstaller
-*   [Bobris/Nowin](https://github.com/Bobris/Nowin) - Owin Web Server in pure .Net
-*   [zzzprojects/EntityFramework.DynamicFilters](https://github.com/zzzprojects/EntityFramework.DynamicFilters) - Global filtering for Entity Framework.
-*   [WeihanLi/DbTool](https://github.com/WeihanLi/DbTool) - 数据库工具，根据表结构文档生成创建表sql，根据数据库表信息导出Model和表结构文档，根据文档生成数据库表，根据已有Model文件生成创建数据库表sql
-*   [allisterb/jemalloc.NET](https://github.com/allisterb/jemalloc.NET) - A native memory manager for .NET
-*   [aspnet/Hosting](https://github.com/aspnet/Hosting) - \[Archived] Code for hosting and starting up an ASP.NET Core application. Project moved to https://github.com/aspnet/Extensions and https://github.com/aspnet/AspNetCore
-*   [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
-*   [manojlds/cmd](https://github.com/manojlds/cmd) - C# library to run external programs in a simpler way. Demonstration of "dynamic" features of C#.
-*   [coverlet-coverage/coverlet](https://github.com/coverlet-coverage/coverlet) - Cross platform code coverage for .NET
-*   [adamralph/simple-exec](https://github.com/adamralph/simple-exec) - 🏃 A .NET library that runs external commands.
-*   [Flepper/flepper](https://github.com/Flepper/flepper) - Flepper is a library to aid in database interaction. :frog:
-*   [darxis/EntityFramework.LazyLoading](https://github.com/darxis/EntityFramework.LazyLoading) - LazyLoading for EF Core
-*   [Arch/UnitOfWork](https://github.com/Arch/UnitOfWork) - A plugin for Microsoft.EntityFrameworkCore to support repository, unit of work patterns, multiple database with distributed transaction supported, and MySQL multiple databases/tables sharding supported.
-*   [axelheer/nein-linq](https://github.com/axelheer/nein-linq) - NeinLinq provides helpful extensions for using LINQ providers such as Entity Framework that support only a minor subset of .NET functions, reusing functions, rewriting queries, even making them null-safe, and building dynamic queries using translatable predicates and selectors.
-*   [iQuarc/Geco](https://github.com/iQuarc/Geco) - Simple code generator based on a console project, running on .Net core and using C# interpolated strings
-*   [NickStrupat/EntityFramework.TypedOriginalValues](https://github.com/NickStrupat/EntityFramework.TypedOriginalValues) - Get typed access to the DbEntityEntry\<T>.OriginalValues property bag
-*   [leonardoporro/Detached-Mapper](https://github.com/leonardoporro/Detached-Mapper) - An ORM friendly mapper. Allows saving entire entity graphs. Heavily inspired in GraphDiff and AutoMapper.
-*   [VahidN/EFSecondLevelCache.Core](https://github.com/VahidN/EFSecondLevelCache.Core) - Entity Framework Core Second Level Caching Library
-*   [riezebosch/efcore-practices](https://github.com/riezebosch/efcore-practices) - Attempt to capture some good or best practices in an API that supports testing
-*   [Arch/AutoHistory](https://github.com/Arch/AutoHistory) - A plugin for Microsoft.EntityFrameworkCore to support automatically recording data changes history.
-*   [ErikEJ/SqlCeToolbox](https://github.com/ErikEJ/SqlCeToolbox) - SQLite & SQL Server Compact Toolbox extension for Visual Studio, SSMS (and stand alone)
-*   [billyang/SurgingDemo](https://github.com/billyang/SurgingDemo) - surging 使用入门示例。完成一个基本业务的增删改查示例，并运用Surging强大的分布式缓存功能
-*   [unosquare/embedio](https://github.com/unosquare/embedio) - A tiny, cross-platform, module based web server for .NET
-*   [prasannavl/WinApi](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop
-*   [bilal-fazlani/tracker-enabled-dbcontext](https://github.com/bilal-fazlani/tracker-enabled-dbcontext) - Tracker-enabled DbContext offers you to implement full auditing in your database
-*   [borisdj/EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite
-*   [jbogard/bulk-writer](https://github.com/jbogard/bulk-writer) - Provides guidance for fast ETL jobs, an IDataReader implementation for SqlBulkCopy (or the MySql or Oracle equivalents) that wraps an IEnumerable, and libraries for mapping entites to table columns.
-*   [Dixin/EntityFramework.Functions](https://github.com/Dixin/EntityFramework.Functions) - EntityFramework.Functions library implements Entity Framework code first support for stored procedures (with single result type, multiple result types, output parameter), table-valued functions (returning entity type, complex type), scalar-valued functions (composable, non-composable), aggregate functions, built-in functions, niladic functions, and model defined functions.
-*   [generik0/Smooth.IoC.Dapper.Repository.UnitOfWork](https://github.com/generik0/Smooth.IoC.Dapper.Repository.UnitOfWork) - Smoother IoC using Dapper Dapper.FastCRUD with Repository and UnitOfWork patterns
-*   [MikaelEliasson/EntityFramework.Utilities](https://github.com/MikaelEliasson/EntityFramework.Utilities) - Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts
-*   [leestar54/WebWeChatAPI.Net](https://github.com/leestar54/WebWeChatAPI.Net) - 基于.Net平台C#的微信网页版API
-*   [cyq1162/Taurus.MVC](https://github.com/cyq1162/Taurus.MVC) - Taurus.mvc is a high-performance mvc and webapi framework for asp.net or asp.net core（适合场景：对性能和并发有较高要求的电商、站点、WebAPI等系统，支持.Net Core，V3.0版本以上自带微服务功能）
-*   [tumtumtum/Shaolinq](https://github.com/tumtumtum/Shaolinq) - ORM for .NET with full LINQ support for Postgres, Sqlite, MySql and SqlServer
-*   [ghost1face/EntityFramework.BulkInsert](https://github.com/ghost1face/EntityFramework.BulkInsert) - Fast bulk insert for EntityFramework6
-*   [chromelyapps/Chromely](https://github.com/chromelyapps/Chromely) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
-*   [NickStrupat/CoContra](https://github.com/NickStrupat/CoContra) - Delegate replacement and event backing-field drop-in classes to easily allow co/contra-variance in delegate
-*   [config-r/config-r](https://github.com/config-r/config-r) - Write your .NET configuration files in C#
-*   [rickyah/ini-parser](https://github.com/rickyah/ini-parser) - Read/Write an INI file the easy way!
-*   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
-*   [alexinea/EntityFrameworkCore.LoggingExposure](https://github.com/alexinea/EntityFrameworkCore.LoggingExposure) - Support to using EF6-like api in EntityFramework Core 2.x and 3.x
-*   [stulzq/UrlFirewall](https://github.com/stulzq/UrlFirewall) - UrlFirewall is a lightweight, fast filtering middleware for http request urls.It supports blacklist, whitelist mode.Supports persisting filter rules to any media.You can use it in webapi, gateway, etc.
-*   [ignatandrei/AspNetCoreImageTagHelper](https://github.com/ignatandrei/AspNetCoreImageTagHelper) - First Release for rendering base 64 images in ASP.NET Core. See https://en.wikipedia.org/wiki/Data\_URI\_scheme  for more details.In the \_ViewImports @addTagHelper \*, AspNetCore.Mvc.ImageBase64 "
-*   [ivaylokenov/AspNet.Mvc.TypedRouting](https://github.com/ivaylokenov/AspNet.Mvc.TypedRouting) - A collection of extension methods providing strongly typed routing and link generation for ASP.NET Core MVC projects.
-*   [StyleCop/StyleCop](https://github.com/StyleCop/StyleCop) - Analyzes C# source code to enforce a set of style and consistency rules.
-*   [ivaylokenov/MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - Fluent testing library for ASP.NET Core MVC.
-*   [aspnet/Mvc](https://github.com/aspnet/Mvc) - \[Archived] ASP.NET Core MVC is a model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor. Project moved to https://github.com/aspnet/AspNetCore
-*   [NickStrupat/EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) - Adds events for entity inserting, inserted, updating, updated, deleting, and deleted
-*   [Jroland/kafka-net](https://github.com/Jroland/kafka-net) - Native C# client for Kafka queue servers.
-*   [elucidsoft/aspnetcore-Vue-starter-signalR](https://github.com/elucidsoft/aspnetcore-Vue-starter-signalR) - Asp.NETCore 2.0 Vue 2 (ES6) SPA Starter kit, contains routing, Vuex, and SignalR
-*   [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) - OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
-*   [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
-*   [wulinacha/ConfigCenter](https://github.com/wulinacha/ConfigCenter) - 简单快捷配置中心
-*   [billpratt/dotnet-search](https://github.com/billpratt/dotnet-search) - Search for Nuget packages using the .NET Core CLI.
-*   [WebApiContrib/WebAPIContrib](https://github.com/WebApiContrib/WebAPIContrib) - Community Contributions for ASP.NET Web API
-*   [zkweb-framework/ZKWeb.Plugins](https://github.com/zkweb-framework/ZKWeb.Plugins) - Default plugins for zkweb framework
-*   [laochiangx/Common.Utility](https://github.com/laochiangx/Common.Utility) - Various helper class
-*   [TylerBrinkley/Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
-*   [stefanprodan/AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
-*   [bysz71/LeetCodeInCSharp](https://github.com/bysz71/LeetCodeInCSharp) -
-*   [0install/0install-win](https://github.com/0install/0install-win) - Windows version of Zero Install
-*   [meebey/smuxi](https://github.com/meebey/smuxi) - Smuxi is an user-friendly and free IRC client for Linux, Windows and Mac OS X based on GNOME / GTK+
-*   [microsoft/VisualStudioUninstaller](https://github.com/microsoft/VisualStudioUninstaller) - Visual Studio Uninstallation sometimes can be unreliable and often leave out a lot of unwanted artifacts. Visual Studio Uninstaller is designed to thoroughly and reliably remove these unwanted artifacts.
-*   [googleapis/google-api-dotnet-client](https://github.com/googleapis/google-api-dotnet-client) - Google APIs Client Library for .NET
-*   [axzxs2001/AuthorizePolicy.JWT](https://github.com/axzxs2001/AuthorizePolicy.JWT) - A custome policy of jwt authorize standard library for asp.net core 2.0
-*   [valit-stack/Valit](https://github.com/valit-stack/Valit) - Valit is dead simple validation for .NET Core. No more if-statements all around your code. Write nice and clean fluent validators instead!
-*   [stulzq/RSAUtil](https://github.com/stulzq/RSAUtil) - .NET Core RSA algorithm using the help tool.It supports data encryption, decryption, signature and verification signature.It supports three key formats, namely: xml, pkcs1, pkcs8.It also supports key conversion for these three formats.Last also support pem formatting.
-*   [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore) - OpenTracing instrumentation for .NET Core 3.1 & .NET 6+ apps
-*   [ligershark/WebOptimizer](https://github.com/ligershark/WebOptimizer) - A bundler and minifier for ASP.NET Core
-*   [Shazwazza/Smidge](https://github.com/Shazwazza/Smidge) - A lightweight runtime CSS/JavaScript file minification, combination, compression & management library for ASP.Net Core
-*   [Redth/PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
-*   [fanpan26/LayIM.AspNet](https://github.com/fanpan26/LayIM.AspNet) - LayIM3.0 .NET版本实现(owin+融云)
-*   [maxtoroq/DbExtensions](https://github.com/maxtoroq/DbExtensions) - Data-access framework with a strong focus on query composition, granularity and code aesthetics.
-*   [bing-framework/Bing.NetCore](https://github.com/bing-framework/Bing.NetCore) - Bing是基于 .net core 3.1 的框架，旨在提升团队的开发输出能力，由常用公共操作类（工具类、帮助类）、分层架构基类，第三方组件封装，第三方业务接口封装等组成。
-*   [bjbr-dev/PeregrineDb](https://github.com/bjbr-dev/PeregrineDb) - CRUD Extensions for Dapper.Net
-*   [martinjw/dbschemareader](https://github.com/martinjw/dbschemareader) - Read database metadata (from SqlServer/Oracle/MySql/SQLite/PostgreSql/DB2 etc) into one simple model
-*   [phnx47/dapper-repositories](https://github.com/phnx47/dapper-repositories) - CRUD for Dapper
-*   [dotarj/Dapper.Mapper](https://github.com/dotarj/Dapper.Mapper) - Dapper.Mapper is an extension to Dapper multi mapping which figures out the relationships between the returned objects and automatically assigns them.
-*   [catcherwong/Demos](https://github.com/catcherwong/Demos) - :100:Some demos for learning
-*   [tmsmith/Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions) - Dapper Extensions is a small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs. For more advanced querying scenarios, Dapper Extensions provides a predicate system. The goal of this library is to keep your POCOs pure by not requiring any attributes or base class inheritance.
-*   [TanukiSharp/MinimalNugetServer](https://github.com/TanukiSharp/MinimalNugetServer) - A minimal but cross-platform implementation of a NuGet server, running on .NET Core
-*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
-*   [Varorbc/PaySharp](https://github.com/Varorbc/PaySharp) - PaySharp是一个支持多商户多种支付方式的跨平台网关处理类库，使用PaySharp可以简化订单的创建、查询、退款和接收网关返回的支付通知等操作。
-*   [seven1986/oauthapp](https://github.com/seven1986/oauthapp) - 前端发布工具
-*   [benaadams/Ben.Demystifier](https://github.com/benaadams/Ben.Demystifier) - High performance understanding for stack traces (Make error logs more productive)
-*   [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
-*   [aruss/IdentityBase](https://github.com/aruss/IdentityBase) - IdentityBase is a Universal Identity Platform for web, mobile and IoT built on top of IdentityServer.
-*   [BrandonPotter/SimpleTCP](https://github.com/BrandonPotter/SimpleTCP) - Straightforward .NET library to handle the repetitive tasks of spinning up and working with TCP sockets (client and server).
-*   [thepirat000/CachingFramework.Redis](https://github.com/thepirat000/CachingFramework.Redis) - Distributed caching based on StackExchange.Redis and Redis. Includes support for tagging and is cluster-compatible.
-*   [henkmollema/Dommel](https://github.com/henkmollema/Dommel) - CRUD operations with Dapper made simple.
-*   [ericdc1/Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD) - Who wants to write basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper.
-*   [hprose/hprose-dotnet](https://github.com/hprose/hprose-dotnet) - Hprose 3.0 for .NET
-*   [serilog/serilog-sinks-file](https://github.com/serilog/serilog-sinks-file) - Write Serilog events to files in text and JSON formats, optionally rolling on time or size
-*   [serilog/serilog-extensions-logging](https://github.com/serilog/serilog-extensions-logging) - Serilog provider for Microsoft.Extensions.Logging
-*   [icsharpcode/NRefactory](https://github.com/icsharpcode/NRefactory) - NRefactory - Refactoring Your C# Code
-*   [realm/realm-dotnet](https://github.com/realm/realm-dotnet) - Realm is a mobile database: a replacement for SQLite & ORMs
-*   [microfisher/Simple-Web-Crawler](https://github.com/microfisher/Simple-Web-Crawler) - 基于C#.NET的简单网页爬虫，支持异步并发、切换代理、操作Cookie、Gzip加速。
-*   [scheshan/DotNetClub](https://github.com/scheshan/DotNetClub) - A tiny club written in Asp.Net Core
-*   [iccfish/fslib.network](https://github.com/iccfish/fslib.network) - A strong http client for .NET with high usability
-*   [mgholam/fastJSON](https://github.com/mgholam/fastJSON) - Smallest, fastest polymorphic JSON serializer
-*   [liuxx-u/sso](https://github.com/liuxx-u/sso) - sso
-*   [paulyoder/LinqToExcel](https://github.com/paulyoder/LinqToExcel) - Use LINQ to retrieve data from spreadsheets and csv files
-*   [blogifierdotnet/Blogifier](https://github.com/blogifierdotnet/Blogifier) - Blogifier is an open-source publishing platform Written in ASP.NET and Blazor WebAssembly. With Blogifier make a personal blog or a website.
-*   [rebus-org/Rebus](https://github.com/rebus-org/Rebus) - :bus: Simple and lean service bus implementation for .NET
-*   [Emrys5/Emrys.SuperConfig](https://github.com/Emrys5/Emrys.SuperConfig) - It is easier to use configuration in .Net. 在.net中更容易使用配置文件
-*   [paypal/PayPal-NET-SDK](https://github.com/paypal/PayPal-NET-SDK) - .NET SDK for PayPal's RESTful APIs
-*   [DbUp/DbUp](https://github.com/DbUp/DbUp) - DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.
-*   [neuecc/ZeroFormatter](https://github.com/neuecc/ZeroFormatter) - Infinitely Fast Deserializer for .NET, .NET Core and Unity.
-*   [tmenier/Flurl](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP client for .NET
-*   [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
-*   [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
-*   [mysql/mysql-connector-net](https://github.com/mysql/mysql-connector-net) - Connector/NET is a fully-managed ADO.NET driver for MySQL.
-*   [filoe/cscore](https://github.com/filoe/cscore) - An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited.
-*   [fszlin/certes](https://github.com/fszlin/certes) - A client implementation for the Automated Certificate Management Environment (ACME) protocol
-*   [lousaibiao/JdPayWebApi](https://github.com/lousaibiao/JdPayWebApi) - 京东支付webapi
-*   [Qrilee/ApkToolBox](https://github.com/Qrilee/ApkToolBox) - ApkTool Box，Apk集成反编译工具箱
-*   [dotnet/extensions](https://github.com/dotnet/extensions) - This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
-*   [easy-rbac-team/easyRBAC](https://github.com/easy-rbac-team/easyRBAC) - 我要的很简单，基于RBAC管理权限，有容易上手的UI，最好送给我一个看得过去的SSO就更棒了
-*   [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio) - Pluggable foundation blocks for building distributed apps.
-*   [Nihlus/AdvancedDLSupport](https://github.com/Nihlus/AdvancedDLSupport) - Delegate-based C# P/Invoke alternative - compatible with all platforms and runtimes.
-*   [henkmollema/Dapper-FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
-*   [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
-*   [zzzprojects/Bulk-Operations](https://github.com/zzzprojects/Bulk-Operations) - C# SQL Bulk Operations | High-performance C# bulk insert, update, delete and merge for SQL Server, SQL Azure, SQL Compact, MySQL, and SQLite.
-*   [Seedin/ConsulHelper](https://github.com/Seedin/ConsulHelper) - ConsulHelper，.Net微服务基础框架，已支持.Net Core，具备服务发现、健康检查、服务分级、分布式配置、版本控制及RPC高可用代理功能（当前已支持Http、Thrift、grpc及Wcf代理），基于Consul。
-*   [dajuric/dot-imaging](https://github.com/dajuric/dot-imaging) - Minimalistic  .NET imaging portable platform
-*   [Tyrrrz/Onova](https://github.com/Tyrrrz/Onova) - Unintrusive auto-update framework
-*   [de4dot/de4dot](https://github.com/de4dot/de4dot) - .NET deobfuscator and unpacker.
-*   [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
-*   [MassTransit/MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
-*   [restsharp/RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
-*   [praeclarum/Ooui](https://github.com/praeclarum/Ooui) - A small cross-platform UI library that brings the simplicity of native UI development to the web
-*   [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
-*   [natemcmaster/dotnet-serve](https://github.com/natemcmaster/dotnet-serve) - Simple command-line HTTPS server for the .NET Core CLI
-*   [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
-*   [pigLoveRabbit520/SalamanderWnmp](https://github.com/pigLoveRabbit520/SalamanderWnmp) - A beautiful Nginx PHP Mysql environment for windows（ windows下用WPF制作的nginx，php，mysql集成环境（免安装））
-*   [shimat/opencvsharp](https://github.com/shimat/opencvsharp) - OpenCV wrapper for .NET
-*   [MoonStorm/FastCrud](https://github.com/MoonStorm/FastCrud) - fast & light .NET ORM for strongly typed people
-*   [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
-*   [markrendle/Flux](https://github.com/markrendle/Flux) - Lightweight web server for .NET and Mono
-*   [aliyun/aliyun-openapi-net-sdk](https://github.com/aliyun/aliyun-openapi-net-sdk) - Alibaba Cloud SDK for .NET
-*   [opentracing/opentracing-csharp](https://github.com/opentracing/opentracing-csharp) - OpenTracing API for C# (.NET). 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163
-*   [apolloconfig/apollo.net](https://github.com/apolloconfig/apollo.net) - Apollo .Net Client
-*   [gigya/microdot](https://github.com/gigya/microdot) - Microdot: An open source .NET microservices framework
-*   [aspnet/WebHooks](https://github.com/aspnet/WebHooks) - \[Archived] Libraries to create and consume web hooks on ASP.NET Core. Project moved to https://github.com/aspnet/AspLabs
-*   [ScutGame/Scut](https://github.com/ScutGame/Scut) - Scut is a free, open source, stable game server framework, which support C#/Python/Lua script, and support Unity3d, Cocos2dx, FlashAir client access.
-*   [aaubry/YamlDotNet](https://github.com/aaubry/YamlDotNet) - YamlDotNet is a .NET library for YAML
-*   [zzzprojects/Dapper-Plus](https://github.com/zzzprojects/Dapper-Plus) - Dapper Plus - High-Efficient Bulk Actions (Insert, Update, Delete, and Merge) for .NET
-*   [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
-*   [ef-labs/nanoprofiler](https://github.com/ef-labs/nanoprofiler) - NanoProfiler - a light weight .NET profiling library
-*   [MiniProfiler/dotnet](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET (and Core) websites
-*   [fluentscheduler/FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface for the .NET platform.
-*   [dajuric/websocket-rpc](https://github.com/dajuric/websocket-rpc) - WebSocket RPC library for .NET with auto JavaScript client code generation, supporting ASP.NET Core
-*   [night-king/weixinSDK](https://github.com/night-king/weixinSDK) - 微信SDK，一个轻量级的，极致简约的微信公众平台（服务号、订阅号）SDK.net版本，也支持dotnet core，作者QQ:2586662969，官方网站:
-*   [JeffreySu/WxOpen](https://github.com/JeffreySu/WxOpen) - 微信小程序 C# SDK，Senparc.Weixin.WxOpen.dll
-*   [morelinq/MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects
-*   [scottksmith95/LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
-*   [ElderJames/shriek-fx](https://github.com/ElderJames/shriek-fx) - An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provide the infrastructure for event-driven, event backtracking, responsiveness, and more. Let developers enjoy the true meaning of object-oriented design patterns brought by the aesthetic.
-*   [JoyMoe/QcloudSharp](https://github.com/JoyMoe/QcloudSharp) - Unoffical Qcloud.com API wrapper for .Net
-*   [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
-*   [RabbitTeam/WeiXinSDK](https://github.com/RabbitTeam/WeiXinSDK) - 微信开发SDK。
-*   [essensoft/paylink](https://github.com/essensoft/paylink) - 一套基于 .NET Core 开发的支付SDK集，它极大简化了API调用及通知的处理流程。
-*   [KevinWG/OSS.Clients.SNS](https://github.com/KevinWG/OSS.Clients.SNS) - 社交网站sdk(标准库)，微信公众号（订阅号，服务号，小程序）接口sdk-包含消息回复(明文和安全模式)，Oauth2.0授权等
-*   [codeyu/nanoid-net](https://github.com/codeyu/nanoid-net) - .NET implementation of ai's nanoid
-*   [geffzhang/NanoFabric](https://github.com/geffzhang/NanoFabric) - 基于Consul + .NET Core + Polly + Ocelot + Exceptionless + IdentityServer等开源项目的微服务开发框架
-*   [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
-*   [graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET
-*   [devlooped/moq](https://github.com/devlooped/moq) - The most popular and friendly mocking framework for .NET
-*   [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore) - Serilog integration for ASP.NET Core
-*   [axzxs2001/GUISUVPay](https://github.com/axzxs2001/GUISUVPay) - 本项目是用asp.net core（for .net framework）实现的支付宝当面付（扫码支付和条码支付），微信扫码支付和刷卡支付。
-*   [RayTale/Ray](https://github.com/RayTale/Ray) - 项目停止更新，新项目：https://github.com/RayTale/Vertex
-*   [microfisher/Captcha-Recognizer](https://github.com/microfisher/Captcha-Recognizer) - 基于C#.NET异步图形验证码识别组件（集成了若快、优优云、打码兔、云打码等平台，准确率95%，速度2-6秒）采用策略设计模式
-*   [stefanprodan/MvcThrottle](https://github.com/stefanprodan/MvcThrottle) - ASP.NET MVC Throttling filter
-*   [hiihellox10/ICanPay](https://github.com/hiihellox10/ICanPay) - ICanPay是一个简单易用的支付平台支付处理类库，目前支持的支付平台有：支付宝(Alipay)、微信支付(WeChatPay)、财付通(Tenpay)、易宝(Yeepay)。
-*   [anydream/il2cpp](https://github.com/anydream/il2cpp) - A MSIL/C# to C++ converter. Faster than CoreCLR with low memory overhead.(已弃坑.C#是个好语言,然而.NET不是一个干净的平台)
-*   [AspectCore/AspectCore-Metrics-Obsolete](https://github.com/AspectCore/AspectCore-Metrics-Obsolete) - APM agent based on AspectCore.
-*   [endink/Thrifty](https://github.com/endink/Thrifty) - Thrifty include interface based remote call, tsl support, load balancing, and automatic service registration & discovery, thrift serializer, etc...
-*   [PomeloFoundation/Lolita](https://github.com/PomeloFoundation/Lolita) - A light-weight extension which provides bulk update and delete operations for Entity Framework Core.
-*   [yukozh/csharp-algorithms](https://github.com/yukozh/csharp-algorithms) -
-*   [DynamicTranslator/DynamicTranslator](https://github.com/DynamicTranslator/DynamicTranslator) - Instant translation application for windows in .NET :circus\_tent:
-*   [ReubenBond/DeepCopy](https://github.com/ReubenBond/DeepCopy) - Simple & efficient library for deep copying .NET objects
-*   [VictorTzeng/Zxw.Framework.NetCore](https://github.com/VictorTzeng/Zxw.Framework.NetCore) - 基于EF Core的Code First模式的DotNetCore快速开发框架，其中包括DBContext、IOC组件autofac和AspectCore.Injector、代码生成器（也支持DB First）、基于AspectCore的memcache和Redis缓存组件，以及基于ICanPay的支付库和一些日常用的方法和扩展，比如批量插入、更新、删除以及触发器支持，当然还有demo。欢迎提交各种建议、意见和pr~
-*   [RabbitTeam/RabbitCloud](https://github.com/RabbitTeam/RabbitCloud) - A lightweight cross-platform RPC.
-*   [JanKallman/EPPlus](https://github.com/JanKallman/EPPlus) - Create advanced Excel spreadsheets using .NET
-*   [damienbod/AspNetCoreFileUploadFileTable](https://github.com/damienbod/AspNetCoreFileUploadFileTable) - ASP.NET Core MVC file upload / download with MS SQL Server FileTable
-*   [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
-*   [dotnetcore/Natasha](https://github.com/dotnetcore/Natasha) - 基于 Roslyn 的 C# 动态程序集构建库，该库允许开发者在运行时使用 C# 代码构建域 / 程序集 / 类 / 结构体 / 枚举 / 接口 / 方法等，使得程序在运行的时候可以增加新的模块及功能。Natasha 集成了域管理/插件管理，可以实现域隔离，域卸载，热拔插等功能。 该库遵循完整的编译流程，提供完整的错误提示， 可自动添加引用，完善的数据结构构建模板让开发者只专注于程序集脚本的编写，兼容 stanadard2.0 / netcoreapp3.0+, 跨平台，统一、简便的链式 API。 且我们会尽快修复您的问题及回复您的 issue.
-*   [aspnet/Benchmarks](https://github.com/aspnet/Benchmarks) - Benchmarks for ASP.NET Core
-*   [richardszalay/mockhttp](https://github.com/richardszalay/mockhttp) - Testing layer for Microsoft's HttpClient library. Create canned responses using a fluent API.
-*   [AppMetrics/AppMetrics](https://github.com/AppMetrics/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application.
-*   [ServiceStack/ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Fast, Simple, Typed ORM for .NET
-*   [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
-*   [aspnet/DotNetTools](https://github.com/aspnet/DotNetTools) - \[Archived] Various .NET command line tools. Project moved to https://github.com/aspnet/AspNetCore
-*   [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless application
-*   [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet) - :whale: .NET (C#) Client Library for Docker API
-*   [peasy/Peasy.NET](https://github.com/peasy/Peasy.NET) - A business logic micro-framework for .NET and .NET Core
-*   [nissl-lab/npoi](https://github.com/nissl-lab/npoi) - a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
-*   [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
-*   [simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A simple, cross platform, modularized ecommerce system built on .NET
-*   [neuecc/Utf8Json](https://github.com/neuecc/Utf8Json) - Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).
-*   [madskristensen/WebEssentials.AspNetCore.StaticFilesWithCache](https://github.com/madskristensen/WebEssentials.AspNetCore.StaticFilesWithCache) -
-*   [BlogEngine/BlogEngine.NET](https://github.com/BlogEngine/BlogEngine.NET) - Multi-User ASP.NET Blogging Application
-*   [angelsix/fasetto-word](https://github.com/angelsix/fasetto-word) - The new chat application for Fasetto, completely open-source :)
-*   [tallesl/net-Socket](https://github.com/tallesl/net-Socket) - A minimalist wrapper around System.Net.Sockets.Socket.
-*   [starts2000/TaoShang](https://github.com/starts2000/TaoShang) - TaoShang 是一个使用 .NET 开发的淘宝自助刷单平台。
-*   [zzzprojects/LINQ-Async](https://github.com/zzzprojects/LINQ-Async) - C# LINQ Async extension methods library for async/await task.
-*   [projectkudu/KuduVfs](https://github.com/projectkudu/KuduVfs) - Implement FileSystem backed by Kudu's VFS.
-*   [projectkudu/KuduSync.NET](https://github.com/projectkudu/KuduSync.NET) - A file copying tool with semantic appropriate for deploying web site files. Comes as a .NET exe
-*   [SapientGuardian/SapientGuardian.EntityFrameworkCore.MySql](https://github.com/SapientGuardian/SapientGuardian.EntityFrameworkCore.MySql) - MySQL database provider for Entity Framework Core
-*   [thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET) - An extensible framework to audit executing operations in .NET and .NET Core.
-*   [davidfowl/NetStandard](https://github.com/davidfowl/NetStandard) - A repository that describes the .NET Standard
-*   [davidfowl/QueryInterceptor](https://github.com/davidfowl/QueryInterceptor) - Provides a generic way to intercept IQueryable expression trees using custom expression visitors.
-*   [cwensley/JabbR.Eto](https://github.com/cwensley/JabbR.Eto) - A cross-platform client for JabbR
-*   [JabbR/JabbR](https://github.com/JabbR/JabbR) - Collaborative chat done right
-*   [davidfowl/Jabbot](https://github.com/davidfowl/Jabbot) - Bot API for JabbR
-*   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
-*   [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
-*   [KevinWG/OSS.Tools](https://github.com/KevinWG/OSS.Tools) - 系统基础操作工具类（Cache，Config，Log，Http），提供默认实现，和全局注册接口
-*   [KevinWG/OSS.Clients.Pay](https://github.com/KevinWG/OSS.Clients.Pay) - 开源支付SDK(标准库)，主要打造微信支付，支付宝支付，标准库项目，同时支持.net framework和.net core
-*   [blowdart/AspNetAuthorizationWorkshop](https://github.com/blowdart/AspNetAuthorizationWorkshop) - A workshop for moving through the various new pieces in ASP.NET Core Authorization
-*   [jelledruyts/TfsTeamProjectManager](https://github.com/jelledruyts/TfsTeamProjectManager) - TFS Team Project Manager automates various tasks across Team Projects in Team Foundation Server. If you find yourself managing multiple Team Projects for an organization and have recurring tasks and questions that repeat themselves over and over again, Team Project Manager probably has some answers for you.
-*   [AspectCore/IoC-Sample](https://github.com/AspectCore/IoC-Sample) -
-*   [aspnetboilerplate/module-zero-forsaken](https://github.com/aspnetboilerplate/module-zero-forsaken) - ASP.NET Boilerplate - ASP.NET Identity Integration Module
-*   [aspnet/DependencyInjection](https://github.com/aspnet/DependencyInjection) - \[Archived] Contains common DI abstractions that ASP.NET Core and Entity Framework Core use. Project moved to https://github.com/aspnet/Extensions
-*   [dotnet/corert](https://github.com/dotnet/corert) - This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain.
-*   [gmf520/osharp-v4](https://github.com/gmf520/osharp-v4) - osharp framework with .net framework version 4.x
-*   [SteeltoeOSS/Samples](https://github.com/SteeltoeOSS/Samples) - Steeltoe samples and reference application collection
-*   [NuGetPackageExplorer/NuGetPackageExplorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) - Create, update and deploy Nuget Packages with a GUI
-*   [neoKushan/BCrypt.Net-Core](https://github.com/neoKushan/BCrypt.Net-Core) - A .net Core port of BCrypt.net
-*   [damienbod/AspNetCoreFilters](https://github.com/damienbod/AspNetCoreFilters) - ASP.NET Core MVC Filters
-*   [stulzq/SolutionRenamer](https://github.com/stulzq/SolutionRenamer) - Fast rename solution,using .net core 2.0
-*   [zhaopeiym/Hi-Blogs](https://github.com/zhaopeiym/Hi-Blogs) - 嗨博客 ASP.NET Core2.0 + CentOS7.3 + MySql5.6.37 + Redis + nginx1.12.1
-*   [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) - Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
-*   [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.
-*   [codebude/QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation
-*   [cmwilliams/GoogleQRGenerator-for-.NET](https://github.com/cmwilliams/GoogleQRGenerator-for-.NET) - Generate QR Code using Google's QR Generator
-*   [cmwilliams/google-geocoder-core](https://github.com/cmwilliams/google-geocoder-core) - Simple Google Geocoding Service Library for .NET Core
-*   [aspnet/HttpAbstractions](https://github.com/aspnet/HttpAbstractions) - \[Archived] HTTP abstractions such as HttpRequest, HttpResponse, and HttpContext, as well as common web utilities. Project moved to https://github.com/aspnet/AspNetCore
-*   [aspnet/KestrelHttpServer](https://github.com/aspnet/KestrelHttpServer) - \[Archived] A cross platform web server for ASP.NET Core. Project moved to https://github.com/aspnet/AspNetCore
-*   [mysql-net/MySqlConnector](https://github.com/mysql-net/MySqlConnector) - MySQL Connector for .NET
-*   [abergs/RegExpBuilder](https://github.com/abergs/RegExpBuilder) - A library for building RegExpPattrerns
-*   [dataneek/paginable-collections.aspnetcore](https://github.com/dataneek/paginable-collections.aspnetcore) - Use PaginableCollections in AspNetCore! A set of extensions for Microsoft.Extensions.DependencyInjection.
-*   [dataneek/paginable-collections](https://github.com/dataneek/paginable-collections) - PaginableCollections is a set of abstractions and extensions used to provide developers with a consistent way to paginate their data across all .NET (and .NET Core) application stacks.
-*   [messagetemplates/messagetemplates-csharp](https://github.com/messagetemplates/messagetemplates-csharp) - A C# implementation of Message Templates
-*   [titarenko/OAuth2](https://github.com/titarenko/OAuth2) - OAuth2 client implementation for .NET
-*   [MichaCo/CacheManager](https://github.com/MichaCo/CacheManager) - CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
-*   [beetlex-io/WebAPI4Grid](https://github.com/beetlex-io/WebAPI4Grid) - WebAPI集群负载组件
-*   [beetlex-io/Beetle.DT](https://github.com/beetlex-io/Beetle.DT) - 分布式压力测试工具
-*   [DotNetOpenAuth/DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - A C# implementation of the OpenID, OAuth protocols
-*   [opserver/Opserver](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System
-*   [zhdwwf/Expression2Sql](https://github.com/zhdwwf/Expression2Sql) - Expression2Sql是一个可以将Expression表达式树解析成Transact-SQL的开源项目。
-*   [linezero/NETCoreBBS](https://github.com/linezero/NETCoreBBS) - ASP.NET Core Light forum NETCoreBBS
-*   [linezero/GitServer](https://github.com/linezero/GitServer) - ASP.NET Core Git HTTP Server
-*   [china-live/QQConnect](https://github.com/china-live/QQConnect) - asp.net core2.0 QQ和微信登录
-*   [zzzprojects/Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - C# Extension Methods | Over 1000 extension methods:
-*   [zzzprojects/EntityFramework-Extensions](https://github.com/zzzprojects/EntityFramework-Extensions) - Entity Framework Bulk Operations | Improve Entity Framework performance with Bulk SaveChanges, Insert, update, delete and merge for SQL Server, SQL Azure, SQL Compact, MySQL and SQLite.
-*   [shuxinqin/Chloe](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET  --C#
-*   [forrestly/SSCore](https://github.com/forrestly/SSCore) - dotnet core version of SuperSocket
-*   [944095635/DMSkin](https://github.com/944095635/DMSkin) - DMSkin WPF 样式 UI 框架 | WPF Borderless Window | Custom Controls & Styles | MVVM Support
-*   [dotnetcore/Collections](https://github.com/dotnetcore/Collections) - Utilities and extensions for Collections includes Collections.Paginable and so on...
-*   [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
-*   [davidfowl/Channels](https://github.com/davidfowl/Channels) - Push based .NET Streams
-*   [elmahio/Elmah.Io.Extensions.Logging](https://github.com/elmahio/Elmah.Io.Extensions.Logging) - elmah.io provider for Microsoft.Extensions.Logging.
-*   [madskristensen/WebEssentials2015](https://github.com/madskristensen/WebEssentials2015) - A Visual Studio extension for web developers
-*   [dotnet/csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
-*   [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
-*   [MarimerLLC/csla](https://github.com/MarimerLLC/csla) - A home for your business logic in any .NET application.
-*   [Nethereum/Nethereum](https://github.com/Nethereum/Nethereum) - Ethereum .Net cross platform integration library
-*   [zzzprojects/html-agility-pack](https://github.com/zzzprojects/html-agility-pack) - Html Agility Pack (HAP) is a free and open-source HTML parser written in C# to read/write DOM and supports plain XPATH or XSLT. It is a .NET code library that allows you to parse "out of the web" HTML files.
-*   [yuzukwok/Abp.Web.Api.Restc](https://github.com/yuzukwok/Abp.Web.Api.Restc) - RESTful 接口调试分享利器
-*   [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (\&more) - cross-platform!
-*   [jstedfast/MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
-*   [robinrodricks/FluentFTP](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS client for .NET & .NET Standard, optimized for speed. Provides extensive FTP commands, File uploads/downloads, SSL/TLS connections, Automatic directory listing parsing, File hashing/checksums, File permissions/CHMOD, FTP proxies, FXP support, UTF-8 support, Async/await support, Powershell support and more. Written entirely in C#.
-*   [pojala/electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
-*   [Topshelf/Topshelf](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
-*   [damianh/LibLog](https://github.com/damianh/LibLog) - LibLog is a single file for you to either copy/paste or install via nuget, into your library/framework/application to provide a logging abstraction.
-*   [IdentityServer/IdentityServer4.EntityFramework](https://github.com/IdentityServer/IdentityServer4.EntityFramework) - EntityFramework persistence layer for IdentityServer4
-*   [daxnet/raspkate](https://github.com/daxnet/raspkate) - A simple and small web server that can run on either Windows or Linux.
-*   [itdos/Dos.WeChat](https://github.com/itdos/Dos.WeChat) - 微信开发组件(包含消息处理、微信支付等等。再也不用担心看复杂的微信开发文档，即用即上手)
-*   [statianzo/Fleck](https://github.com/statianzo/Fleck) - C# Websocket Implementation
-*   [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 8.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
-*   [Wlitsoft/WeixinSDK](https://github.com/Wlitsoft/WeixinSDK) - Wlitsoft 框架 - 微信公众号开发工具包（C# 版）
-*   [TommasoScalici/MathExtensions](https://github.com/TommasoScalici/MathExtensions) - MathExtensions is a library for .NET with simple and useful extensions methods regarding various mathematical domains: combinatorics, sequence analysis, sequence generation and sequence manipulation, random draws from set, etc.
-*   [OfficeDev/ews-managed-api](https://github.com/OfficeDev/ews-managed-api) -
-*   [IdentityServer/IdentityServer4.WsFederation](https://github.com/IdentityServer/IdentityServer4.WsFederation) - Sample for implementing WS-Federation IdP support for IdentityServer4
-*   [OrchardCMS/Orchard](https://github.com/OrchardCMS/Orchard) - Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.
-*   [dsbenghe/Novell.Directory.Ldap.NETStandard](https://github.com/dsbenghe/Novell.Directory.Ldap.NETStandard) - LDAP client library for .NET Standard 1.3 up to 2.1 and NET5/NET6 - works with any LDAP protocol compatible directory server (including Microsoft Active Directory).
-*   [scriptcs/scriptcs](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
-*   [Azure/DotNetty](https://github.com/Azure/DotNetty) - DotNetty project – a port of netty, event-driven asynchronous network application framework
-*   [microsoft/referencesource](https://github.com/microsoft/referencesource) - Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework
-*   [IdentityModel/IdentityModel](https://github.com/IdentityModel/IdentityModel) - .NET standard helper library for claims-based identity, OAuth 2.0 and OpenID Connect.
-*   [markrendle/Simple.Data](https://github.com/markrendle/Simple.Data) - A light-weight, dynamic data access component for C# 4.0
-*   [aspnet/Security](https://github.com/aspnet/Security) - \[Archived] Middleware for security and authorization of web apps. Project moved to https://github.com/aspnet/AspNetCore
-*   [KevinWG/OSS.Core](https://github.com/KevinWG/OSS.Core) - .net core下的领域开源电商网站，类库使用的标准库项目，集成微信和支付宝。 暂时还在开发阶段
-*   [SkyChenSky/Sikiro.Tookits](https://github.com/SkyChenSky/Sikiro.Tookits) - Base And Frequently-used Tools Library.You can use it on nuget
-*   [sherlockchou86/WeChat.NET](https://github.com/sherlockchou86/WeChat.NET) - WeChat.NET client based on web wechat
-
 ## Java
 
 *   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
@@ -3408,7 +3607,6 @@
 *   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 *   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
 *   [HostsTools/Windows](https://github.com/HostsTools/Windows) - Hosts tool for googlehosts/hosts
-*   [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 
 ## Shell
 
@@ -4084,204 +4282,6 @@
 
 *   [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
-## Go
-
-*   [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
-*   [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) - 不只是即时通讯(IM)
-*   [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.
-*   [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
-*   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
-*   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
-*   [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-*   [liuhr/my2sql](https://github.com/liuhr/my2sql) - 解析MySQL binlog ，可以生成原始SQL、回滚SQL、去除主键的INSERT SQL等，也可以生成DML统计信息以及大事务分析信息。
-*   [ouqiang/delay-queue](https://github.com/ouqiang/delay-queue) - 延迟队列
-*   [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
-*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
-*   [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-*   [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple yet powerful CI/CD engine with great extensibility.
-*   [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
-*   [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
-*   [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-*   [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
-*   [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
-*   [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
-*   [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-*   [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
-*   [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
-*   [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
-*   [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-*   [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-*   [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
-*   [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
-*   [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
-*   [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-*   [easychen/wecomchan](https://github.com/easychen/wecomchan) - 微信推送服务Server酱的开源替代。通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。
-*   [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
-*   [Edgenesis/shifu](https://github.com/Edgenesis/shifu) - Kubernetes-native IoT gateway
-*   [inlets/mixctl](https://github.com/inlets/mixctl) - A tiny TCP load balancer 🍸
-*   [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
-*   [llychao/m3u8-downloader](https://github.com/llychao/m3u8-downloader) -  一个M3U8 视频下载(M3U8 downloader)工具。跨平台: 提供windows、linux、mac三大平台可执行文件,方便直接使用。
-*   [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
-*   [ccfos/nightingale](https://github.com/ccfos/nightingale) - An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
-*   [real-web-world/hh-lol-prophet](https://github.com/real-web-world/hh-lol-prophet) - lol 对局先知 上等马 牛马分析程序 选人阶段判断己方大爹 大坑, 明确对局目标 基于lol client api 合法不封号
-*   [syncsynchalt/illustrated-tls12](https://github.com/syncsynchalt/illustrated-tls12) - The Illustrated TLS 1.2 Connection: Every byte explained
-*   [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your self-hosted comment system
-*   [unknwon/go-fundamental-programming](https://github.com/unknwon/go-fundamental-programming) - 《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
-*   [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) - A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.
-*   [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
-*   [sea-team/gofound](https://github.com/sea-team/gofound) - GoFound GoLang Full text search go语言全文检索引擎，毫秒级查询。 使用http接口调用，集成Admin管理界面，任何系统都可以使用。
-*   [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
-*   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
-*   [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-*   [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)
-*   [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
-*   [XZB-1248/Spark](https://github.com/XZB-1248/Spark) - ✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监控和控制所有设备。
-*   [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
-*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos
-*   [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-*   [SmartIDE/SmartIDE](https://github.com/SmartIDE/SmartIDE) - CloudNative IDE - Empower develoeprs with CloudNative technologies, may the force with you!
-*   [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
-*   [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
-*   [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-*   [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-*   [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) -
-*   [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engines.
-*   [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
-*   [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
-*   [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
-*   [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
-*   [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
-*   [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-*   [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
-*   [tkeel-io/core](https://github.com/tkeel-io/core) - Core is the next-generation digital data engine.
-*   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-*   [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
-*   [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-*   [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-*   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
-*   [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
-*   [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
-*   [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
-*   [sairson/Yasso](https://github.com/sairson/Yasso) - 强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用支持socks5代理执行）
-*   [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
-*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-*   [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
-*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-*   [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-*   [taoshihan1991/go-fly](https://github.com/taoshihan1991/go-fly) - 开源在线客服系统GO语言开发GO-FLY,免费在线客服系统/open source self-hosted private cloud customer support live chat software by golang
-*   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-*   [tkeel-io/tkeel](https://github.com/tkeel-io/tkeel) - Next-generation IoT open source platform.
-*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-*   [knownsec/ksubdomain](https://github.com/knownsec/ksubdomain) - 无状态子域名爆破工具
-*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat
-*   [wxbool/video-srt-windows](https://github.com/wxbool/video-srt-windows) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
-*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-*   [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
-*   [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
-*   [gliderlabs/registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
-*   [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
-*   [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
-*   [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud-native file store
-*   [hashicorp/consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.
-*   [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
-*   [fatedier/fft](https://github.com/fatedier/fft) - A fast distributed file transfer.
-*   [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-*   [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
-*   [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
-*   [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
-*   [chanify/chanify](https://github.com/chanify/chanify) - Chanify is a safe and simple notification tools. This repository is command line tools for Chanify.
-*   [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
-*   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
-*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-*   [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-*   [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
-*   [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
-*   [qeesung/asciiplayer](https://github.com/qeesung/asciiplayer) - :tv: ASCII gif/video player write in golang
-*   [qeesung/image2ascii](https://github.com/qeesung/image2ascii) - :foggy: Convert image to ASCII
-*   [bilibili/overlord](https://github.com/bilibili/overlord) - Overlord是哔哩哔哩基于Go语言编写的memcache和redis\&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。
-*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
-*   [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-*   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-*   [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
-*   [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-*   [bitepeng/b0pass](https://github.com/bitepeng/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
-*   [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-*   [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-*   [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-*   [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
-*   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-*   [umputun/remark42](https://github.com/umputun/remark42) - comment engine
-*   [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
-*   [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
-*   [ga0/netgraph](https://github.com/ga0/netgraph) - A cross platform http sniffer with a web UI
-*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-*   [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-*   [bfenetworks/bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
-*   [GuoZhaoran/spikeSystem](https://github.com/GuoZhaoran/spikeSystem) - 一个秒杀系统的例子分析
-*   [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-*   [fagongzi/manba](https://github.com/fagongzi/manba) - HTTP API Gateway
-*   [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-*   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-*   [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
-*   [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-*   [eolinker/goku\_lite](https://github.com/eolinker/goku_lite) - A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
-*   [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
-*   [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
-*   [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
-*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
-*   [yonyoucloud/install\_k8s](https://github.com/yonyoucloud/install_k8s) - 一键安装kubernets(k8s)系统，采用RBAC模式运行（证书安全认证模式），既可以单台安装、也可以集群安装，并且完全是生产环境的安装标准。有疑问大家可以加我微信沟通：bsh888
-*   [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-*   [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-*   [gin-gonic/contrib](https://github.com/gin-gonic/contrib) - Collection of middlewares created by the community
-*   [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-*   [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
-*   [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB)
-*   [TalkingData/owl](https://github.com/TalkingData/owl) - Distributed monitoring system
-*   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
-*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-*   [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
-*   [Terry-Mao/goim](https://github.com/Terry-Mao/goim) - goim
-*   [b3log/pipe](https://github.com/b3log/pipe) - 🎷 一款小而美的博客平台，专为程序员设计。
-*   [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
-*   [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-*   [ctripcorp/nephele](https://github.com/ctripcorp/nephele) - Image Service
-*   [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
-*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-*   [gwuhaolin/lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
-*   [marcusolsson/tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
-*   [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
-*   [pierrre/imageserver](https://github.com/pierrre/imageserver) - Image server toolkit in Go
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-*   [fireworq/fireworq](https://github.com/fireworq/fireworq) - Fireworq is a lightweight, high-performance, language-independent job queue system.
-*   [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
-*   [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
-*   [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-*   [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
-*   [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
-*   [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
-*   [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-*   [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
-*   [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-*   [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go. 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163
-*   [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-*   [hb-chen/echo-web](https://github.com/hb-chen/echo-web) - Go web framework Echo example.
-*   [yinghuocho/firefly-proxy](https://github.com/yinghuocho/firefly-proxy) - A proxy software to help circumventing the Great Firewall.
-*   [jaywcjlove/golang-tutorial](https://github.com/jaywcjlove/golang-tutorial) - Go语言快速入门
-*   [KevinGong2013/ggbot](https://github.com/KevinGong2013/ggbot) - 一个用Go写的微信机器人
-
 ## Vim Script
 
 *   [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
@@ -4435,7 +4435,7 @@
 *   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 *   [GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) - 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers"
 *   [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
-*   [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+*   [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 *   [phodal/understand-prompt](https://github.com/phodal/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
 *   [afizs/chatgpt-clone](https://github.com/afizs/chatgpt-clone) - Build Your own ChatGPT with OpenAI API and Streamlit
 *   [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
@@ -4738,7 +4738,7 @@
 
 ## Perl
 
-*   [bagder/everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.
+*   [curl/everything-curl](https://github.com/curl/everything-curl) - The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.
 *   [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 *   [jlord/git-it-electron](https://github.com/jlord/git-it-electron) - :computer: :mortar\_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub
 
