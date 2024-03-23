@@ -795,7 +795,7 @@
 ## C\#
 
 *   [mayuki/Yafp](https://github.com/mayuki/Yafp) - A toolkit for implementing forward proxy based on ASP.NET Core and YARP.
-*   [xljiulang/CYarp](https://github.com/xljiulang/CYarp) - http/1.1 over tcp, http/2.0 or http/3.0 private network tunnel
+*   [xljiulang/CYarp](https://github.com/xljiulang/CYarp) - 基于Yarp的一对多http内网穿透组件，支持tcp或http/2.0作为http/1.1的传输层
 *   [louislam/rdp-portal](https://github.com/louislam/rdp-portal) - A slightly smarter and simple Remote Desktop manager for Windows.
 *   [LeagueTavern/fix-lcu-window](https://github.com/LeagueTavern/fix-lcu-window) - 解决《英雄联盟》客户端异常窗口大小的问题。
 *   [milanm/DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse) - Most common Design Patterns you need to know, with examples in C#.
