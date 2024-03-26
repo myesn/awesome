@@ -3451,6 +3451,7 @@
 *   [ga0/netgraph](https://github.com/ga0/netgraph) - A cross platform http sniffer with a web UI
 *   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 *   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+*   [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 *   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 *   [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 *   [bfenetworks/bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
@@ -3905,7 +3906,7 @@
 *   [981011512/--](https://github.com/981011512/--) - 停车场系统源码，新能源充电桩系统，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架netty4，安卓和ios均为原生开发，后台管理模板vue专业定制
 *   [baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus) - An powerful enhanced toolkit of MyBatis for simplify development
 *   [hibernate/hibernate-validator](https://github.com/hibernate/hibernate-validator) - Hibernate Validator - Jakarta Bean Validation Reference Implementation
-*   [lettuce-io/lettuce-core](https://github.com/lettuce-io/lettuce-core) - Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.
+*   [redis/lettuce](https://github.com/redis/lettuce) - Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.
 *   [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for observability.
 *   [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
 *   [thymeleaf/thymeleaf](https://github.com/thymeleaf/thymeleaf) - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.
@@ -4146,7 +4147,6 @@
 *   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 *   [0voice/interview\_internal\_reference](https://github.com/0voice/interview_internal_reference) - 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 *   [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-*   [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 *   [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 *   [A3M4/YouTube-Report](https://github.com/A3M4/YouTube-Report) - :bar\_chart: Generate a personal YouTube report from your Google Takeout data
 *   [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
