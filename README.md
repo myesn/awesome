@@ -381,7 +381,7 @@
 *   [markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
 *   [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) - Run local LLaMA/GPT model easily and fast in C#!🤗 It's also easy to integrate LLamaSharp with semantic-kernel, unity, WPF and WebApp.
 *   [mayuki/Yafp](https://github.com/mayuki/Yafp) - A toolkit for implementing forward proxy based on ASP.NET Core and YARP.
-*   [xljiulang/CYarp](https://github.com/xljiulang/CYarp) - 基于Yarp的一对多http内网穿透组件，支持tcp或http/2.0作为http/1.1的传输层
+*   [xljiulang/CYarp](https://github.com/xljiulang/CYarp) - A reverse proxy toolkit to help you expose multiple local http servers behind a NAT or firewall to the internet
 *   [louislam/rdp-portal](https://github.com/louislam/rdp-portal) - A slightly smarter and simple Remote Desktop manager for Windows.
 *   [LeagueTavern/fix-lcu-window](https://github.com/LeagueTavern/fix-lcu-window) - 解决《英雄联盟》客户端异常窗口大小的问题。
 *   [milanm/DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse) - Most common Design Patterns you need to know, with examples in C#.
@@ -4626,7 +4626,7 @@
 *   [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 *   [jessepollak/card](https://github.com/jessepollak/card) - :credit\_card: make your credit card form better in one line of code
 *   [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
-*   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+*   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 *   [ink-zone/fexo](https://github.com/ink-zone/fexo) - A minimalist design theme for hexo.
 *   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
