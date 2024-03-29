@@ -1189,7 +1189,6 @@
 *   [nestjs/cqrs](https://github.com/nestjs/cqrs) - A lightweight CQRS module for Nest framework (node.js) :balloon:
 *   [andrechristikan/ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) - NestJs v10.x Boilerplate. Repository Design Pattern. MongoDB (Mongoose). Containerization.
 *   [msanvarov/nest-rest-mongo-boilerplate](https://github.com/msanvarov/nest-rest-mongo-boilerplate) - 🍱 backend with nest (typescript), mongoose, and authentication
-*   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 *   [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
 *   [sagold/json-schema-library](https://github.com/sagold/json-schema-library) - Customizable and hackable json-validator and json-schema utilities for traversal, data generation and validation
 *   [9hnd5/nestjs-mediator](https://github.com/9hnd5/nestjs-mediator) -
@@ -2149,7 +2148,7 @@
 *   [aheckmann/m](https://github.com/aheckmann/m) - mongodb version management
 *   [Flying9001/Notes](https://github.com/Flying9001/Notes) - java/Linux/Windows/macOS notes
 *   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-*   [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.
+*   [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.
 *   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 *   [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
 *   [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端 （Java Golang）全栈知识架构体系总结
@@ -4538,6 +4537,7 @@
 *   [Tencent/Biny](https://github.com/Tencent/Biny) - Biny is a tiny, high-performance PHP framework for web applications
 *   [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
 *   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 
 ## MDX
 
