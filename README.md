@@ -1621,7 +1621,7 @@
 *   [continue-revolution/sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Segment Anything for Stable Diffusion WebUI
 *   [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 *   [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
-*   [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Bring your codebase to life
+*   [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Run AI-powered workflows over your codebase
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 *   [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 *   [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
@@ -1946,7 +1946,6 @@
 *   [FuckDoctors/rdm-builder](https://github.com/FuckDoctors/rdm-builder) - Redis Desktop Manager Builder
 *   [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
 *   [alwayrun/awesome-reading-list](https://github.com/alwayrun/awesome-reading-list) - 程序员必读书单
-*   [itwanger/JavaBooks](https://github.com/itwanger/JavaBooks) - 📚Java程序员必读书单（超1000本PDF，附下载地址）包括但不限于Java、设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等，助力每一个Java程序员构建属于自己的知识体系。
 *   [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 *   [in28minutes/java-best-practices](https://github.com/in28minutes/java-best-practices) - Best practices in Coding, Designing and Architecting Java Applications
 *   [in28minutes/learn](https://github.com/in28minutes/learn) - How do you achieve your career objectives? Complete career paths with amazing Cloud, Full Stack and Microservice Courses and Videos from in28Minutes
@@ -3550,6 +3549,7 @@
 *   [nqdeng/7-days-nodejs](https://github.com/nqdeng/7-days-nodejs) - 七天学会NodeJS
 *   [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
 *   [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
+*   [Liberxue/liberxue.github.io](https://github.com/Liberxue/liberxue.github.io) - Liberxue blog for lightweight Jekyll  themes  轻量级自适应 简洁 卡片式博客主题 3秒搞定GitHub blog
 
 ## Go
 
