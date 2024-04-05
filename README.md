@@ -1171,6 +1171,7 @@
 *   [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 *   [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 *   [serialport/node-serialport](https://github.com/serialport/node-serialport) - Access serial ports with JavaScript. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!
+*   [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 *   [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
 *   [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 *   [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js &amp; npm run watch-less` but better.
@@ -1288,6 +1289,7 @@
 *   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 *   [ava/use-http](https://github.com/ava/use-http) - 🐶  React hook for making isomorphic http requests
 *   [sheinsight/shineout](https://github.com/sheinsight/shineout) - 高性能React组件库
+*   [frejs/fre](https://github.com/frejs/fre) - :ghost: Tiny Concurrent UI library with Fiber.
 *   [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 *   [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder & Player 🖥
 *   [i5ting/imove](https://github.com/i5ting/imove) - INACTIVE: Move your mouse, generate code from flow chart
@@ -2532,7 +2534,6 @@
 *   [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 *   [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 *   [ruochuan12/koa-analysis](https://github.com/ruochuan12/koa-analysis) - 学习源码整体架构系列多篇之koa源码，前端面试高频源码，微信搜索「若川视野」关注我，长期交流学习~
-*   [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 *   [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
 *   [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 *   [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
@@ -2683,7 +2684,6 @@
 *   [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 *   [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 *   [klarna/electron-redux](https://github.com/klarna/electron-redux) - Use redux in the main and browser processes in electron
-*   [frejs/fre](https://github.com/frejs/fre) - :ghost: Tiny Concurrent UI library with Fiber.
 *   [hejialianghe/Senior-FrontEnd](https://github.com/hejialianghe/Senior-FrontEnd) - 🔥 🔥🔥 🔥🔥 高级开发工程师必备，打通全栈任督二脉，文档地址gitee版（Senior development engineers must understand the web body of knowledge, document addresses）：https://js.youliaowu.com
 *   [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 *   [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
