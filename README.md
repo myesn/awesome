@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [C#](#c)
 *   [Shell](#shell)
@@ -19,7 +20,6 @@
 *   [C](#c-2)
 *   [Java](#java)
 *   [Crystal](#crystal)
-*   [Vue](#vue)
 *   [Vim Script](#vim-script)
 *   [Rust](#rust)
 *   [Vala](#vala)
@@ -69,9 +69,144 @@
 *   [Smarty](#smarty)
 *   [Objective-C++](#objective-c-1)
 
+## Vue
+
+*   [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+*   [daidaibg/IofTV-Screen-Vue3](https://github.com/daidaibg/IofTV-Screen-Vue3) - 一个基于 vue3、vite、Echart 框架的大数据可视化（大屏展示）模板
+*   [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+*   [fjykTec/ModernWMS](https://github.com/fjykTec/ModernWMS) - The open source simple and complete warehouse management system is derived from our many years of experience in implementing erp projects. We stripped the original commercial system wms function and opened it up for free, hoping to help the majority of small and medium-sized enterprises. At present, the system supports cross-platform。
+*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
+*   [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
+*   [Java-S12138/frank](https://github.com/Java-S12138/frank) - A bran-new League of Legends assistant software, a replacement for WeGame.
+*   [jackchen0120/vueDataV](https://github.com/jackchen0120/vueDataV) - 基于Vue + Echarts 构建的数据可视化平台，酷炫大屏展示模板和组件库，持续更新各行各业实用模板和炫酷小组件。
+*   [ano-ui/ano-ui](https://github.com/ano-ui/ano-ui) - 轻量级、漂亮、快速的 UnoCSS 组件库
+*   [liyupi/codefather](https://github.com/liyupi/codefather) - 程序员鱼皮的编程宝典。原创编程学习路线，包括经验分享、技术知识、学习资源、学习建议、项目等，适用于所有学习编程 & 求职的同学。已完成 Java、前端
+*   [liyupi/sql-generator](https://github.com/liyupi/sql-generator) - 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~
+*   [surely-vue/surely-table](https://github.com/surely-vue/surely-table) - Performant advanced table component
+*   [gausszhou/vue3-drag-resize-rotate](https://github.com/gausszhou/vue3-drag-resize-rotate) - 一个Vue3.0组件，支持拖拽，拉伸，旋转，放缩，自动对齐；A Component for Vue.js 3.0;
+*   [fuyi501/dataV](https://github.com/fuyi501/dataV) - 数据可视化展示系统，使用 vue、iview、vue-echarts、echarts、vue-video-player 开发，具有各类基本图表、地图展示、视频监控等功能。
+*   [fayazara/onelink](https://github.com/fayazara/onelink) - Onelink is an experimental link-in-bio tool, where the data lives in the URL.
+*   [fayazara/logspot](https://github.com/fayazara/logspot) - Logspot is a lightweight, free and open source template for your changelog made with Vue, Nuxt and Tailwindcss.
+*   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
+*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+*   [L-noodle/vue-big-screen](https://github.com/L-noodle/vue-big-screen) - 一个基于 vue、datav、Echart 框架的大数据可视化（大屏展示）模板，实现大数据可视化。通过 vue 组件实现数据动态刷新渲染，内部图表可自由替换。部分图表使用 DataV 自带组件，可自由进行更改（ps：最新的更新请前往码云查看，下面有链接）。
+*   [bym110/vue-echarts](https://github.com/bym110/vue-echarts) - vue、 echarts、iview 实现大数据可视化大屏模板
+*   [newbee-ltd/newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - 🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3.2 版本，技术栈为 Vue3.2 + Vue-Router4.x + Pinia + Vant4.x。
+*   [umicro/uView](https://github.com/umicro/uView) - uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
+*   [ijry/uview-plus](https://github.com/ijry/uview-plus) - uview-plus，是uni-app全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。
+*   [umicro/uView2.0](https://github.com/umicro/uView2.0) - uView UI，是全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
+*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+*   [Rain-Ricky/cloud](https://github.com/Rain-Ricky/cloud) - 项目名称：云医疗管理系统，IDEA+MySQL8.0+SpringBoot+Generator逆向工程+前后端分离；本系统是一个面向大众用户和医护工作者的健康诊疗平台，为患者提供网上挂号、在线问诊、诊断报告查询、线上复诊,网络预约手术、住院出院手续办理、费用缴纳、查看健康资讯等全方位服务，同时也为医护工作人员提供了在线咨询解答、健康档案管理、在线开具电子处方、电子病历管理、病人的住院、出院流程的办理以及药品的管理和采购等功能。
+*   [ITmonkey-cn/shopro-uniapp](https://github.com/ITmonkey-cn/shopro-uniapp) - Shopro分销商城 uniapp前端开源代码，一款落地生产的 基于uni-app的多端商城。使用文档：https://gitee.com/itmonkey-cn/shopro.git
+*   [fengyuanchen/photo-editor](https://github.com/fengyuanchen/photo-editor) - A simple photo editing application.
+*   [Hunlongyu/ZY-Player-Web](https://github.com/Hunlongyu/ZY-Player-Web) - ▶️ 跨平台浏览器端视频资源播放器. 简洁免费. 🎞 ZY Player 浏览器端。
+*   [varletjs/varlet](https://github.com/varletjs/varlet) - A mobile component library based on Vue3, Material Design 2, Material Design 3, and supports desktop development.
+*   [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - 🛠️ FFmpeg Command Generator Web UI
+*   [xiaowang1314/uniapp-plugin-collections](https://github.com/xiaowang1314/uniapp-plugin-collections) - uni-app项目插件功能集合https://github.com/xiaowang1314/uniapp-plugin-collections
+*   [zhouwei1994/uni-app-demo](https://github.com/zhouwei1994/uni-app-demo) - uni-app-demo
+*   [StavinLi/Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
+*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+*   [lewkamtao/PicHub](https://github.com/lewkamtao/PicHub) - 一个基于Vue3 + TypeScript实现的Github图床
+*   [lewkamtao/lew-ui](https://github.com/lewkamtao/lew-ui) - A beautiful component library based on vue3
+*   [antfu/what-time](https://github.com/antfu/what-time) - What time works for you?
+*   [layui-vue/layui-vue](https://github.com/layui-vue/layui-vue) - layui - vue 是 一 套 Vue 3.0 的 桌 面 端 组 件 库
+*   [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+*   [xjh22222228/boomb](https://github.com/xjh22222228/boomb) - 💣 Manage your pictures easily for Github/Gitee. 基于 Github/Gitee 轻松管理您的存储图库
+*   [antoniandre/simple-syntax-highlighter](https://github.com/antoniandre/simple-syntax-highlighter) - No chi-chi syntax highlighter for Vue.js (3 & 2).
+*   [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer.
+*   [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
+*   [Tencent/tdesign-mobile-vue](https://github.com/Tencent/tdesign-mobile-vue) - A Vue3.x Mobile UI components lib for TDesign.
+*   [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
+*   [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
+*   [Tencent/tdesign](https://github.com/Tencent/tdesign) - Enterprise Design System
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+*   [pearmini/colorfu](https://github.com/pearmini/colorfu) - Make meaningful wallpapers with colors and words.
+*   [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
+*   [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
+*   [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
+*   [eshengsky/node-bff](https://github.com/eshengsky/node-bff) - 基于 Node.js 的可视化 BFF 解决方案。
+*   [jrainlau/draw-something](https://github.com/jrainlau/draw-something) - 使用VueJS和WebSocket技术实现的你画我猜小游戏
+*   [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
+*   [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
+*   [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
+*   [zhuyihe/vue-admin-project](https://github.com/zhuyihe/vue-admin-project) - vue-cli3搭建后台管理模板
+*   [loveRandy/vue-cli3.0-vueadmin](https://github.com/loveRandy/vue-cli3.0-vueadmin) - 基于vue-cli3.0+vue+elementUI+vuex+axios+权限管理的后台管理系统
+*   [woai3c/vue-admin-template](https://github.com/woai3c/vue-admin-template) - Vue 轻量级后台管理系统基础模板
+*   [favrora/Avatar-Maker](https://github.com/favrora/Avatar-Maker) - Create your own avatar with Vue Avatar Maker app
+*   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
+*   [didi/mand-mobile](https://github.com/didi/mand-mobile) - 💰 A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios.
+*   [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
+*   [artiely/admin-0-1](https://github.com/artiely/admin-0-1) - 管理系统从0到1系列
+*   [artiely/vue-admin-iview](https://github.com/artiely/vue-admin-iview) - vue后端管理系统界面 基于ui组件iview
+*   [artiely/vue-admin](https://github.com/artiely/vue-admin) - 基于and-design-vue的vue后台管理系统模板
+*   [DataV-Team/DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
+*   [zhontai/Admin.Core](https://github.com/zhontai/Admin.Core) - 中台Admin前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。基于.Net跨平台开发的WebApi。集成统一认证授权、事件总线、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。
+*   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
+*   [Geek-James/ddBuy](https://github.com/Geek-James/ddBuy) - 🎉Vue全家桶+Vant 搭建大型单页面电商项目.http://ddbuy.7-orange.cn
+*   [euvl/vue-js-popover](https://github.com/euvl/vue-js-popover) - :dango: Vue.js 2 library for dropdowns / popovers / tooltips
+*   [euvl/vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) - :fish\_cake: Vue.js 2 toggle / switch button - simple, pretty, customizable
+*   [euvl/vue-js-modal](https://github.com/euvl/vue-js-modal) - Easy to use, highly customizable Vue.js modal library.
+*   [grishkovelli/vue-audio-recorder](https://github.com/grishkovelli/vue-audio-recorder) - A simple audio recorder for VueJS applications
+*   [meloalright/vue-ins-progress-bar](https://github.com/meloalright/vue-ins-progress-bar) - Rainbow progress bar Vue component in instagram style 🌈 Instagram 风格的 Vue 彩虹进度条组件
+*   [vinz3872/vuejs-tree](https://github.com/vinz3872/vuejs-tree) - A highly customizable and blazing fast Vue tree component ⚡🌲
+*   [euvl/vue-js-grid](https://github.com/euvl/vue-js-grid) - :bento:  Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
+*   [jeneser/douban](https://github.com/jeneser/douban) - Awesome douban DEMO created with Vue2.x + Vuex + Vue-router + Superagent
+*   [matt-oconnell/vue-monaco-editor](https://github.com/matt-oconnell/vue-monaco-editor) - Monaco Editor Vue Component
+*   [lusaxweb/vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
+*   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
+*   [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
+*   [putianxi/putianxi.github.io](https://github.com/putianxi/putianxi.github.io) - 滚蛋吧！莆田系
+*   [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
+*   [nmxiaowei/avue](https://github.com/nmxiaowei/avue) - Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易
+*   [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
+*   [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
+*   [pulsardev/netsix](https://github.com/pulsardev/netsix) - Netsix allows you to share videos with your friends in a real peer-to-peer manner using WebRTC.
+*   [czytelny/backlog](https://github.com/czytelny/backlog) - Simple desktop app for storing lists of items (todo, tasks, backlog items)
+*   [QingWei-Li/npmarket](https://github.com/QingWei-Li/npmarket) - 🛒 More efficient search for node packages.
+*   [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
+*   [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
+*   [yucccc/vue-pay-keyboard](https://github.com/yucccc/vue-pay-keyboard) - ⌨️ 一个vue手机虚拟支付数字键盘插件
+*   [LucasLeandro1204/vue-content-loading](https://github.com/LucasLeandro1204/vue-content-loading) - Vue component to easily build (or use presets) SVG loading cards Facebook like.
+*   [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
+*   [jkchao/vue-loading](https://github.com/jkchao/vue-loading) - 😄 vue-loading 😊
+*   [aermin/vue-chat](https://github.com/aermin/vue-chat) - :calling: A web chat application.   Vue + node(koa2) + Mysql + socket.io
+*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
+*   [xlogiccc/vue-picture-preview](https://github.com/xlogiccc/vue-picture-preview) - 移动端、PC 端 Vue.js 图片预览插件 | Friendly picture file preview Vue.js plugin based on PhotoSwipe.
+*   [tower1229/Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) - :gem: Frontend access control framework based Vue
+*   [chenxuan0000/svg-progress-bar](https://github.com/chenxuan0000/svg-progress-bar) - :panda\_face: A simple,progress bar for Vue.js
+*   [chenxuan0000/vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) -  :beginner:A simple, seamless scrolling for Vue.js  vue无缝滚动component
+*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+*   [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
+*   [vuesion/vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
+*   [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
+*   [ydcss/vue-ydui](https://github.com/ydcss/vue-ydui) - A mobile components Library with Vue2.js. 一只基于Vue2.x的移动端组件库。
+*   [jiangshanmeta/vue-admin](https://github.com/jiangshanmeta/vue-admin) - 基于vue的针对admin应用的low code解决方案
+*   [ustbhuangyi/vue-sell](https://github.com/ustbhuangyi/vue-sell) - :rice: Vue.js高仿饿了么外卖App课程源码 http://coding.imooc.com/class/74.html
+*   [ElemeFE/vue-swipe](https://github.com/ElemeFE/vue-swipe) - A touch slider for vue.js.
+*   [windiest/github-emoji](https://github.com/windiest/github-emoji) - 🐼基于Vue编写的Github表情包大全 Writing based on Vue for github emoji
+*   [vuejs/vue-hackernews](https://github.com/vuejs/vue-hackernews) - HackerNews clone with Vue.js
+*   [apache/incubator-weex-ui](https://github.com/apache/incubator-weex-ui) - 🏄  A rich interaction, lightweight, high performance UI library based on Weex.
+*   [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
+*   [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+*   [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
+*   [bailichen/vue-weixin](https://github.com/bailichen/vue-weixin) - Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天
+*   [egoist/emoji](https://github.com/egoist/emoji) - Unfancy emoji searcher.
+*   [mescroll/mescroll](https://github.com/mescroll/mescroll) - 精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)
+*   [Dafrok/vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) - Baidu Map components for Vue 2.x
+*   [SevenOutman/vue-aplayer](https://github.com/SevenOutman/vue-aplayer) - :cake: Easy-to-use music player for Vue 2.x
+*   [MopTym/vue-waterfall](https://github.com/MopTym/vue-waterfall) - A waterfall layout component for Vue.js
+*   [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
+*   [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
+*   [airyland/vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
+*   [javaswing/NeteaseCloudWebApp](https://github.com/javaswing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
+*   [museui/muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
+*   [reusser/VueMusic-PC](https://github.com/reusser/VueMusic-PC) - :pineapple:音乐播放器
+
 ## TypeScript
 
-*   [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
 *   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 *   [heyform/heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
 *   [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
@@ -124,7 +259,6 @@
 *   [wechat-miniprogram/api-typings](https://github.com/wechat-miniprogram/api-typings) - Type definitions for APIs of Wechat Mini Program in TypeScript
 *   [Akryum/floating-vue](https://github.com/Akryum/floating-vue) - 💬 Easy tooltips, popovers, dropdown, menus... for Vue
 *   [justjavac/openai-proxy](https://github.com/justjavac/openai-proxy) - OpenAI/ChatGPT 免翻墙代理
-*   [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one intuitive interface.
 *   [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
 *   [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 *   [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
@@ -372,7 +506,7 @@
 *   [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 *   [jd-opensource/leo](https://github.com/jd-opensource/leo) - 一个可覆盖前端开发全链路、可扩展、可定制的终端运行的脚手架工具
 *   [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
-*   [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. CURRENTLY LIVE ON KICKSTARTER! 👇👇👇
+*   [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
 *   [Cody2333/koa-swagger-decorator](https://github.com/Cody2333/koa-swagger-decorator) - using decorator to automatically generate swagger doc for koa-router
 *   [ragnarlotus/vue-flux](https://github.com/ragnarlotus/vue-flux) - Image slider which comes with 20 cool transitions
 *   [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
@@ -646,6 +780,7 @@
 *   [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 *   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 *   [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
+*   [tower1229/frontend-weekly](https://github.com/tower1229/frontend-weekly) - 前端周刊，给前端同学准备的每周1小时阅读清单
 *   [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 *   [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 *   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
@@ -658,7 +793,6 @@
 *   [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
 *   [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 *   [BlazeSoftware/atoms](https://github.com/BlazeSoftware/atoms) - Atoms for Blaze UI
-*   [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 *   [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 *   [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
 *   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
@@ -1469,7 +1603,6 @@
 *   [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
 *   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 *   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
-*   [tower1229/frontend-weekly](https://github.com/tower1229/frontend-weekly) - 前端周刊，给前端同学准备的每周1小时阅读清单
 *   [jdaaaaaavid/mysql\_best\_configuration](https://github.com/jdaaaaaavid/mysql_best_configuration) - MySQL Optimal  Configuration Template
 *   [teddysun/shadowsocks\_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
 *   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -1520,6 +1653,7 @@
 *   [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 *   [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 *   [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT) -  🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
+*   [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 *   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 *   [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 *   [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
@@ -1794,7 +1928,7 @@
 *   [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 *   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 *   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
+*   [Redis-Insight/RedisDesktopManager](https://github.com/Redis-Insight/RedisDesktopManager) -
 *   [HostsTools/Windows](https://github.com/HostsTools/Windows) - Hosts tool for googlehosts/hosts
 
 ## miscellaneous
@@ -2358,7 +2492,7 @@
 *   [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 *   [learning-zone/nodejs-basics](https://github.com/learning-zone/nodejs-basics) - Node.js Basics ( v18.x )
 *   [shenruisi/Stay](https://github.com/shenruisi/Stay) - Stay is a local userscript manager and an extension sample for Safari on iOS/iPadOS.
-*   [moshang-xc/lottery](https://github.com/moshang-xc/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
+*   [Aras-ax/lottery](https://github.com/Aras-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
 *   [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 *   [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 *   [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste)
@@ -4299,141 +4433,6 @@
 
 *   [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
-## Vue
-
-*   [daidaibg/IofTV-Screen-Vue3](https://github.com/daidaibg/IofTV-Screen-Vue3) - 一个基于 vue3、vite、Echart 框架的大数据可视化（大屏展示）模板
-*   [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-*   [fjykTec/ModernWMS](https://github.com/fjykTec/ModernWMS) - The open source simple and complete warehouse management system is derived from our many years of experience in implementing erp projects. We stripped the original commercial system wms function and opened it up for free, hoping to help the majority of small and medium-sized enterprises. At present, the system supports cross-platform。
-*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
-*   [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
-*   [Java-S12138/frank](https://github.com/Java-S12138/frank) - A bran-new League of Legends assistant software, a replacement for WeGame.
-*   [jackchen0120/vueDataV](https://github.com/jackchen0120/vueDataV) - 基于Vue + Echarts 构建的数据可视化平台，酷炫大屏展示模板和组件库，持续更新各行各业实用模板和炫酷小组件。
-*   [ano-ui/ano-ui](https://github.com/ano-ui/ano-ui) - 轻量级、漂亮、快速的 UnoCSS 组件库
-*   [liyupi/codefather](https://github.com/liyupi/codefather) - 程序员鱼皮的编程宝典。原创编程学习路线，包括经验分享、技术知识、学习资源、学习建议、项目等，适用于所有学习编程 & 求职的同学。已完成 Java、前端
-*   [liyupi/sql-generator](https://github.com/liyupi/sql-generator) - 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~
-*   [surely-vue/surely-table](https://github.com/surely-vue/surely-table) - Performant advanced table component
-*   [gausszhou/vue3-drag-resize-rotate](https://github.com/gausszhou/vue3-drag-resize-rotate) - 一个Vue3.0组件，支持拖拽，拉伸，旋转，放缩，自动对齐；A Component for Vue.js 3.0;
-*   [fuyi501/dataV](https://github.com/fuyi501/dataV) - 数据可视化展示系统，使用 vue、iview、vue-echarts、echarts、vue-video-player 开发，具有各类基本图表、地图展示、视频监控等功能。
-*   [fayazara/onelink](https://github.com/fayazara/onelink) - Onelink is an experimental link-in-bio tool, where the data lives in the URL.
-*   [fayazara/logspot](https://github.com/fayazara/logspot) - Logspot is a lightweight, free and open source template for your changelog made with Vue, Nuxt and Tailwindcss.
-*   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
-*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-*   [L-noodle/vue-big-screen](https://github.com/L-noodle/vue-big-screen) - 一个基于 vue、datav、Echart 框架的大数据可视化（大屏展示）模板，实现大数据可视化。通过 vue 组件实现数据动态刷新渲染，内部图表可自由替换。部分图表使用 DataV 自带组件，可自由进行更改（ps：最新的更新请前往码云查看，下面有链接）。
-*   [bym110/vue-echarts](https://github.com/bym110/vue-echarts) - vue、 echarts、iview 实现大数据可视化大屏模板
-*   [newbee-ltd/newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - 🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3.2 版本，技术栈为 Vue3.2 + Vue-Router4.x + Pinia + Vant4.x。
-*   [umicro/uView](https://github.com/umicro/uView) - uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
-*   [ijry/uview-plus](https://github.com/ijry/uview-plus) - uview-plus，是uni-app全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。
-*   [umicro/uView2.0](https://github.com/umicro/uView2.0) - uView UI，是全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
-*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
-*   [Rain-Ricky/cloud](https://github.com/Rain-Ricky/cloud) - 项目名称：云医疗管理系统，IDEA+MySQL8.0+SpringBoot+Generator逆向工程+前后端分离；本系统是一个面向大众用户和医护工作者的健康诊疗平台，为患者提供网上挂号、在线问诊、诊断报告查询、线上复诊,网络预约手术、住院出院手续办理、费用缴纳、查看健康资讯等全方位服务，同时也为医护工作人员提供了在线咨询解答、健康档案管理、在线开具电子处方、电子病历管理、病人的住院、出院流程的办理以及药品的管理和采购等功能。
-*   [ITmonkey-cn/shopro-uniapp](https://github.com/ITmonkey-cn/shopro-uniapp) - Shopro分销商城 uniapp前端开源代码，一款落地生产的 基于uni-app的多端商城。使用文档：https://gitee.com/itmonkey-cn/shopro.git
-*   [fengyuanchen/photo-editor](https://github.com/fengyuanchen/photo-editor) - A simple photo editing application.
-*   [Hunlongyu/ZY-Player-Web](https://github.com/Hunlongyu/ZY-Player-Web) - ▶️ 跨平台浏览器端视频资源播放器. 简洁免费. 🎞 ZY Player 浏览器端。
-*   [varletjs/varlet](https://github.com/varletjs/varlet) - A mobile component library based on Vue3, Material Design 2, Material Design 3, and supports desktop development.
-*   [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - 🛠️ FFmpeg Command Generator Web UI
-*   [xiaowang1314/uniapp-plugin-collections](https://github.com/xiaowang1314/uniapp-plugin-collections) - uni-app项目插件功能集合https://github.com/xiaowang1314/uniapp-plugin-collections
-*   [zhouwei1994/uni-app-demo](https://github.com/zhouwei1994/uni-app-demo) - uni-app-demo
-*   [StavinLi/Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
-*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
-*   [lewkamtao/PicHub](https://github.com/lewkamtao/PicHub) - 一个基于Vue3 + TypeScript实现的Github图床
-*   [lewkamtao/lew-ui](https://github.com/lewkamtao/lew-ui) - A beautiful component library based on vue3
-*   [antfu/what-time](https://github.com/antfu/what-time) - What time works for you?
-*   [layui-vue/layui-vue](https://github.com/layui-vue/layui-vue) - layui - vue 是 一 套 Vue 3.0 的 桌 面 端 组 件 库
-*   [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-*   [xjh22222228/boomb](https://github.com/xjh22222228/boomb) - 💣 Manage your pictures easily for Github/Gitee. 基于 Github/Gitee 轻松管理您的存储图库
-*   [antoniandre/simple-syntax-highlighter](https://github.com/antoniandre/simple-syntax-highlighter) - No chi-chi syntax highlighter for Vue.js (3 & 2).
-*   [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer.
-*   [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
-*   [Tencent/tdesign-mobile-vue](https://github.com/Tencent/tdesign-mobile-vue) - A Vue3.x Mobile UI components lib for TDesign.
-*   [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
-*   [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
-*   [Tencent/tdesign](https://github.com/Tencent/tdesign) - Enterprise Design System
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-*   [pearmini/colorfu](https://github.com/pearmini/colorfu) - Make meaningful wallpapers with colors and words.
-*   [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
-*   [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-*   [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
-*   [eshengsky/node-bff](https://github.com/eshengsky/node-bff) - 基于 Node.js 的可视化 BFF 解决方案。
-*   [jrainlau/draw-something](https://github.com/jrainlau/draw-something) - 使用VueJS和WebSocket技术实现的你画我猜小游戏
-*   [jdf2e/nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
-*   [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
-*   [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
-*   [zhuyihe/vue-admin-project](https://github.com/zhuyihe/vue-admin-project) - vue-cli3搭建后台管理模板
-*   [loveRandy/vue-cli3.0-vueadmin](https://github.com/loveRandy/vue-cli3.0-vueadmin) - 基于vue-cli3.0+vue+elementUI+vuex+axios+权限管理的后台管理系统
-*   [woai3c/vue-admin-template](https://github.com/woai3c/vue-admin-template) - Vue 轻量级后台管理系统基础模板
-*   [favrora/Avatar-Maker](https://github.com/favrora/Avatar-Maker) - Create your own avatar with Vue Avatar Maker app
-*   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
-*   [didi/mand-mobile](https://github.com/didi/mand-mobile) - 💰 A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios.
-*   [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
-*   [artiely/admin-0-1](https://github.com/artiely/admin-0-1) - 管理系统从0到1系列
-*   [artiely/vue-admin-iview](https://github.com/artiely/vue-admin-iview) - vue后端管理系统界面 基于ui组件iview
-*   [artiely/vue-admin](https://github.com/artiely/vue-admin) - 基于and-design-vue的vue后台管理系统模板
-*   [DataV-Team/DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
-*   [zhontai/Admin.Core](https://github.com/zhontai/Admin.Core) - 中台Admin前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。基于.Net跨平台开发的WebApi。集成统一认证授权、事件总线、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。
-*   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-*   [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
-*   [Geek-James/ddBuy](https://github.com/Geek-James/ddBuy) - 🎉Vue全家桶+Vant 搭建大型单页面电商项目.http://ddbuy.7-orange.cn
-*   [euvl/vue-js-popover](https://github.com/euvl/vue-js-popover) - :dango: Vue.js 2 library for dropdowns / popovers / tooltips
-*   [euvl/vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) - :fish\_cake: Vue.js 2 toggle / switch button - simple, pretty, customizable
-*   [euvl/vue-js-modal](https://github.com/euvl/vue-js-modal) - Easy to use, highly customizable Vue.js modal library.
-*   [grishkovelli/vue-audio-recorder](https://github.com/grishkovelli/vue-audio-recorder) - A simple audio recorder for VueJS applications
-*   [meloalright/vue-ins-progress-bar](https://github.com/meloalright/vue-ins-progress-bar) - Rainbow progress bar Vue component in instagram style 🌈 Instagram 风格的 Vue 彩虹进度条组件
-*   [vinz3872/vuejs-tree](https://github.com/vinz3872/vuejs-tree) - A highly customizable and blazing fast Vue tree component ⚡🌲
-*   [euvl/vue-js-grid](https://github.com/euvl/vue-js-grid) - :bento:  Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
-*   [jeneser/douban](https://github.com/jeneser/douban) - Awesome douban DEMO created with Vue2.x + Vuex + Vue-router + Superagent
-*   [matt-oconnell/vue-monaco-editor](https://github.com/matt-oconnell/vue-monaco-editor) - Monaco Editor Vue Component
-*   [lusaxweb/vuenut](https://github.com/lusaxweb/vuenut) - ⚙️ Developer tools for vue js (Vuex)
-*   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
-*   [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
-*   [putianxi/putianxi.github.io](https://github.com/putianxi/putianxi.github.io) - 滚蛋吧！莆田系
-*   [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
-*   [nmxiaowei/avue](https://github.com/nmxiaowei/avue) - Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易
-*   [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
-*   [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
-*   [pulsardev/netsix](https://github.com/pulsardev/netsix) - Netsix allows you to share videos with your friends in a real peer-to-peer manner using WebRTC.
-*   [czytelny/backlog](https://github.com/czytelny/backlog) - Simple desktop app for storing lists of items (todo, tasks, backlog items)
-*   [QingWei-Li/npmarket](https://github.com/QingWei-Li/npmarket) - 🛒 More efficient search for node packages.
-*   [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
-*   [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
-*   [yucccc/vue-pay-keyboard](https://github.com/yucccc/vue-pay-keyboard) - ⌨️ 一个vue手机虚拟支付数字键盘插件
-*   [LucasLeandro1204/vue-content-loading](https://github.com/LucasLeandro1204/vue-content-loading) - Vue component to easily build (or use presets) SVG loading cards Facebook like.
-*   [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
-*   [jkchao/vue-loading](https://github.com/jkchao/vue-loading) - 😄 vue-loading 😊
-*   [aermin/vue-chat](https://github.com/aermin/vue-chat) - :calling: A web chat application.   Vue + node(koa2) + Mysql + socket.io
-*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
-*   [xlogiccc/vue-picture-preview](https://github.com/xlogiccc/vue-picture-preview) - 移动端、PC 端 Vue.js 图片预览插件 | Friendly picture file preview Vue.js plugin based on PhotoSwipe.
-*   [tower1229/Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) - :gem: Frontend access control framework based Vue
-*   [chenxuan0000/svg-progress-bar](https://github.com/chenxuan0000/svg-progress-bar) - :panda\_face: A simple,progress bar for Vue.js
-*   [chenxuan0000/vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) -  :beginner:A simple, seamless scrolling for Vue.js  vue无缝滚动component
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-*   [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
-*   [vuesion/vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
-*   [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
-*   [ydcss/vue-ydui](https://github.com/ydcss/vue-ydui) - A mobile components Library with Vue2.js. 一只基于Vue2.x的移动端组件库。
-*   [jiangshanmeta/vue-admin](https://github.com/jiangshanmeta/vue-admin) - 基于vue的针对admin应用的low code解决方案
-*   [ustbhuangyi/vue-sell](https://github.com/ustbhuangyi/vue-sell) - :rice: Vue.js高仿饿了么外卖App课程源码 http://coding.imooc.com/class/74.html
-*   [ElemeFE/vue-swipe](https://github.com/ElemeFE/vue-swipe) - A touch slider for vue.js.
-*   [windiest/github-emoji](https://github.com/windiest/github-emoji) - 🐼基于Vue编写的Github表情包大全 Writing based on Vue for github emoji
-*   [vuejs/vue-hackernews](https://github.com/vuejs/vue-hackernews) - HackerNews clone with Vue.js
-*   [apache/incubator-weex-ui](https://github.com/apache/incubator-weex-ui) - 🏄  A rich interaction, lightweight, high performance UI library based on Weex.
-*   [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
-*   [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-*   [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
-*   [bailichen/vue-weixin](https://github.com/bailichen/vue-weixin) - Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天
-*   [egoist/emoji](https://github.com/egoist/emoji) - Unfancy emoji searcher.
-*   [mescroll/mescroll](https://github.com/mescroll/mescroll) - 精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)
-*   [Dafrok/vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) - Baidu Map components for Vue 2.x
-*   [SevenOutman/vue-aplayer](https://github.com/SevenOutman/vue-aplayer) - :cake: Easy-to-use music player for Vue 2.x
-*   [MopTym/vue-waterfall](https://github.com/MopTym/vue-waterfall) - A waterfall layout component for Vue.js
-*   [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
-*   [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
-*   [airyland/vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
-*   [javaswing/NeteaseCloudWebApp](https://github.com/javaswing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
-*   [museui/muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
-*   [reusser/VueMusic-PC](https://github.com/reusser/VueMusic-PC) - :pineapple:音乐播放器
-
 ## Vim Script
 
 *   [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
@@ -4546,6 +4545,7 @@
 *   [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
 *   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 *   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
+*   [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 
 ## MDX
 
