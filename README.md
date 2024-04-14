@@ -61,6 +61,7 @@
 *   [Sass](#sass)
 *   [VBScript](#vbscript)
 *   [CoffeeScript](#coffeescript)
+*   [EJS](#ejs)
 *   [Handlebars](#handlebars)
 *   [Less](#less)
 *   [Stylus](#stylus)
@@ -733,7 +734,6 @@
 *   [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 *   [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 *   [Teradata/covalent](https://github.com/Teradata/covalent) - Teradata UI Platform built on Angular Material
-*   [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).
 *   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 *   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 *   [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
@@ -4831,6 +4831,10 @@
 *   [xhan/qqbot](https://github.com/xhan/qqbot) - 基于WebQQ协议的QQ机器人。命令行工具，Hubot支持！
 *   [shadowsocks/shadowsocks-nodejs](https://github.com/shadowsocks/shadowsocks-nodejs) -
 *   [mzlogin/chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines) - Chinese Copywriting Guidelines：中文文案排版指北（简体中文版）
+
+## EJS
+
+*   [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).
 
 ## Handlebars
 
