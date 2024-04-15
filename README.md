@@ -3765,7 +3765,7 @@
 *   [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 *   [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 *   [sairson/Yasso](https://github.com/sairson/Yasso) - 强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用支持socks5代理执行）
-*   [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+*   [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
 *   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 *   [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 *   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
