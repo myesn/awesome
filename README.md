@@ -220,7 +220,7 @@
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 *   [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
 *   [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
-*   [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
+*   [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 *   [uni-helper/vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app) - 由 Vite & uni-app 驱动的跨端快速启动模板
 *   [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 *   [reorproject/reor](https://github.com/reorproject/reor) - Self-organizing AI note-taking app that runs models locally.
@@ -1951,7 +1951,7 @@
 *   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
 *   [mengzonefire/twitter-media-downloader](https://github.com/mengzonefire/twitter-media-downloader) - 用于提取推特页面中包含的媒体文件 (支持文本, 图片, 视频, 动图) 的脚本
 *   [xuncv/WechatVideoSniffer](https://github.com/xuncv/WechatVideoSniffer) - 微信视频号PC版、微信看一看、微信公众号视频地址嗅探器
-*   [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
+*   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
 *   [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo
 *   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 *   [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
@@ -2264,7 +2264,7 @@
 *   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 *   [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 *   [sorrycc/blog](https://github.com/sorrycc/blog) - 💡
-*   [we-list/awesome-wechat](https://github.com/we-list/awesome-wechat) - 微信个人号/公众号相关项目整理 (wechat/weixin/wx)
+*   [fritx/awesome-wechat](https://github.com/fritx/awesome-wechat) - 微信个人号/公众号相关项目整理 (wechat/weixin/wx)
 *   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 *   [fouber/blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 *   [arialdomartini/Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
