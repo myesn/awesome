@@ -648,7 +648,7 @@
 *   [nestjsx/nest-router](https://github.com/nestjsx/nest-router) - Router Module For Nestjs Framework 🚦 🚀
 *   [Pop-Code/nestjs-console](https://github.com/Pop-Code/nestjs-console) - A nestjs module that provide a cli to your application.
 *   [horiuchi/dtsgenerator](https://github.com/horiuchi/dtsgenerator) - TypeScript d.ts file generate from JSON Schema file
-*   [xsf0105/my-vue3-template](https://github.com/xsf0105/my-vue3-template) - My starter template for Vue3, with vite, quarkd, sass/less(含viewport 适配方案, axios 封装)
+*   [xsf0105/my-vue3-template](https://github.com/xsf0105/my-vue3-template) - My starter template for Vue3. Vue Best practices on Mobile！(含viewport 适配方案, axios 封装)
 *   [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 *   [beholdr/maska](https://github.com/beholdr/maska) - Simple zero-dependency input mask for Vue.js and vanilla JS.
 *   [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
@@ -1864,7 +1864,7 @@
 *   [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
 *   [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 *   [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
-*   [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Artillery!
+*   [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module.
 *   [adoxography/tailwind-scrollbar](https://github.com/adoxography/tailwind-scrollbar) - Scrollbar plugin for Tailwind CSS
 *   [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 *   [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, sourcegraph, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers. Please follow gray-matter's author: https://github.com/jonschlinkert
@@ -3990,6 +3990,7 @@
 *   [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
 *   [froala/wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
 *   [usablica/kissui.scrollanim](https://github.com/usablica/kissui.scrollanim) - CSS3 scroll animation library
+*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 *   [Kivy-CN/llthw-zh](https://github.com/Kivy-CN/llthw-zh) - :book: \[译] 笨办法学 Linux
 *   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
@@ -4643,7 +4644,6 @@
 *   [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 *   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 *   [0x-leen/fexo](https://github.com/0x-leen/fexo) - A minimalist design theme for hexo.
-*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
 ## Dockerfile
 
