@@ -879,14 +879,14 @@
 *   [adamralph/simple-exec](https://github.com/adamralph/simple-exec) - 🏃 A .NET library that runs external commands.
 *   [Flepper/flepper](https://github.com/Flepper/flepper) - Flepper is a library to aid in database interaction. :frog:
 *   [darxis/EntityFramework.LazyLoading](https://github.com/darxis/EntityFramework.LazyLoading) - LazyLoading for EF Core
-*   [Arch/UnitOfWork](https://github.com/Arch/UnitOfWork) - A plugin for Microsoft.EntityFrameworkCore to support repository, unit of work patterns, multiple database with distributed transaction supported, and MySQL multiple databases/tables sharding supported.
+*   [arch/UnitOfWork](https://github.com/arch/UnitOfWork) - A plugin for Microsoft.EntityFrameworkCore to support repository, unit of work patterns, multiple database with distributed transaction supported, and MySQL multiple databases/tables sharding supported.
 *   [axelheer/nein-linq](https://github.com/axelheer/nein-linq) - NeinLinq provides helpful extensions for using LINQ providers such as Entity Framework that support only a minor subset of .NET functions, reusing functions, rewriting queries, even making them null-safe, and building dynamic queries using translatable predicates and selectors.
 *   [iQuarc/Geco](https://github.com/iQuarc/Geco) - Simple code generator based on a console project, running on .Net core and using C# interpolated strings
 *   [NickStrupat/EntityFramework.TypedOriginalValues](https://github.com/NickStrupat/EntityFramework.TypedOriginalValues) - Get typed access to the DbEntityEntry\<T>.OriginalValues property bag
 *   [leonardoporro/Detached-Mapper](https://github.com/leonardoporro/Detached-Mapper) - An ORM friendly mapper. Allows saving entire entity graphs. Heavily inspired in GraphDiff and AutoMapper.
 *   [VahidN/EFSecondLevelCache.Core](https://github.com/VahidN/EFSecondLevelCache.Core) - Entity Framework Core Second Level Caching Library
 *   [riezebosch/efcore-practices](https://github.com/riezebosch/efcore-practices) - Attempt to capture some good or best practices in an API that supports testing
-*   [Arch/AutoHistory](https://github.com/Arch/AutoHistory) - A plugin for Microsoft.EntityFrameworkCore to support automatically recording data changes history.
+*   [arch/AutoHistory](https://github.com/arch/AutoHistory) - A plugin for Microsoft.EntityFrameworkCore to support automatically recording data changes history.
 *   [ErikEJ/SqlCeToolbox](https://github.com/ErikEJ/SqlCeToolbox) - SQLite & SQL Server Compact Toolbox extension for Visual Studio, SSMS (and stand alone)
 *   [billyang/SurgingDemo](https://github.com/billyang/SurgingDemo) - surging 使用入门示例。完成一个基本业务的增删改查示例，并运用Surging强大的分布式缓存功能
 *   [unosquare/embedio](https://github.com/unosquare/embedio) - A tiny, cross-platform, module based web server for .NET
@@ -2389,7 +2389,7 @@
 *   [dcalsky/zzkia](https://github.com/dcalsky/zzkia) - Generate the Nokia picture for fun! 1k star  🥳  🥳  🥳
 *   [luoxue-victor/workflow](https://github.com/luoxue-victor/workflow) - 一个工作流平台
 *   [gxtrobot/bustag](https://github.com/gxtrobot/bustag) - a tag and recommend system for old bus driver 给老司机用的一个番号推荐系统
-*   [KOHGYLW/kiftd](https://github.com/KOHGYLW/kiftd) - sky driver & cloud driver open source server application : kiftd . welcome to the home page: https://kohgylw.gitee.io/ to quick start——kiftd是一款专门面向个人、团队和小型组织的私有网盘系统。轻量、开源、完善。无论是在家庭、学校还是在办公室，您都能立刻开始使用它！了解更多请访问官方网站：
+*   [KOHGYLW/kiftd](https://github.com/KOHGYLW/kiftd) - sky driver & cloud driver open source server application : kiftd . welcome to the home page: https://kohgylw.github.io/ to quick start——kiftd是一款专门面向个人、团队和小型组织的私有网盘系统。轻量、开源、完善。无论是在家庭、学校还是在办公室，您都能立刻开始使用它！了解更多请访问官方网站：
 *   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控和埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
 *   [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 *   [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
@@ -3268,7 +3268,7 @@
 *   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音
 *   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 *   [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、快手、虎牙、斗鱼、B站、小红书、pandatv、afreecatv、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、花椒、流星等平台直播录制，抓取多平台直播源地址
-*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
+*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 *   [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 *   [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) - A treasure chest for visual classification and recognition powered by PaddlePaddle
 *   [chineseocr/chineseocr](https://github.com/chineseocr/chineseocr) - yolo3+ocr
