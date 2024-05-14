@@ -74,7 +74,7 @@
 
 *   [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
 *   [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
-*   [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you learn system design.
+*   [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you become good at system design.
 *   [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 *   [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 *   [davidfowl/DotNetCodingPatterns](https://github.com/davidfowl/DotNetCodingPatterns) - A collection of coding patterns in no particular order
@@ -557,7 +557,7 @@
 *   [Drizin/DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder) - Dapper Query Builder using String Interpolation and Fluent API
 *   [antoinebidault/JsonRuleEngine.Net](https://github.com/antoinebidault/JsonRuleEngine.Net) - A json-rule-engine simple porting to Asp.Net Core
 *   [madelson/DistributedLock](https://github.com/madelson/DistributedLock) - A .NET library for distributed synchronization
-*   [mehdihadeli/food-delivery-microservices](https://github.com/mehdihadeli/food-delivery-microservices) - 🍔 A practical food delivery microservices, built with .Net 7, MassTransit, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
+*   [mehdihadeli/food-delivery-microservices](https://github.com/mehdihadeli/food-delivery-microservices) - 🍔 A practical and imaginary food delivery microservices, built with .Net 7, MassTransit, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
 *   [he55/DreamScene2](https://github.com/he55/DreamScene2) - 一个小而快并且功能强大的 Windows 动态桌面软件
 *   [vkhorikov/CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional extensions for C#
 *   [fullstackhero/dotnet-webapi-starter-kit](https://github.com/fullstackhero/dotnet-webapi-starter-kit) - production grade .net 8 webapi starter kit with multitenancy support and clean code. 🔥
@@ -1505,6 +1505,7 @@
 *   [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 *   [mike-marcacci/node-redlock](https://github.com/mike-marcacci/node-redlock) - A node.js redlock implementation for distributed, highly-available redis locks
 *   [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
+*   [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 *   [sindresorhus/ts-extras](https://github.com/sindresorhus/ts-extras) - Essential utilities for TypeScript projects
 *   [tapjs/signal-exit](https://github.com/tapjs/signal-exit) - when you want to fire an event no matter how a process exits.
 *   [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
@@ -2130,7 +2131,6 @@
 *   [sindresorhus/sort-on](https://github.com/sindresorhus/sort-on) - Sort an array on an object property
 *   [sindresorhus/sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines ▁▂▃▅▂▇
 *   [sindresorhus/is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up
-*   [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 *   [sindresorhus/trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash
 *   [sindresorhus/public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address - very fast!
 *   [sindresorhus/debounce-fn](https://github.com/sindresorhus/debounce-fn) - Debounce a function
@@ -3133,7 +3133,6 @@
 *   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - Vue3、Element Plus、typescript后台管理系统
 *   [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
 *   [putianxi/putianxi.github.io](https://github.com/putianxi/putianxi.github.io) - 滚蛋吧！莆田系
-*   [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 *   [nmxiaowei/avue](https://github.com/nmxiaowei/avue) - Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易
 *   [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 *   [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
@@ -4639,6 +4638,7 @@
 *   [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 *   [picturepan2/devices.css](https://github.com/picturepan2/devices.css) - Devices.css - Modern devices crafted in pure CSS
 *   [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+*   [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 *   [jessepollak/card](https://github.com/jessepollak/card) - :credit\_card: make your credit card form better in one line of code
 *   [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 *   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
