@@ -50,13 +50,13 @@
 *   [Tcl](#tcl)
 *   [Haskell](#haskell)
 *   [CodeQL](#codeql)
+*   [Svelte](#svelte)
 *   [Makefile](#makefile)
 *   [Scala](#scala)
 *   [OCaml](#ocaml)
 *   [AutoIt](#autoit)
 *   [ReScript](#rescript)
 *   [Riot](#riot)
-*   [Svelte](#svelte)
 *   [Groovy](#groovy)
 *   [Sass](#sass)
 *   [VBScript](#vbscript)
@@ -262,7 +262,7 @@
 *   [alibaba/java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator) - 🌏 A tiny 0-dependency thread-safe Java™ lib for setting/viewing dns programmatically without touching host file, make unit/integration testing portable; and a tiny tool for setting/viewing dns of running JVM process.
 *   [alibaba/ARouter](https://github.com/alibaba/ARouter) - 💪 A framework for assisting in the renovation of Android componentization (帮助 Android App 进行组件化改造的路由框架)
 *   [dromara/Jpom](https://github.com/dromara/Jpom) - 🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件
-*   [cowtowncoder/java-uuid-generator](https://github.com/cowtowncoder/java-uuid-generator) - Java Uuid Generator (JUG) is a Java library for generating all standard (3 + 2) UUID versions.
+*   [cowtowncoder/java-uuid-generator](https://github.com/cowtowncoder/java-uuid-generator) - Java Uuid Generator (JUG) is a Java library for generating all standard UUID versions (v1 - v7)
 *   [spring-projects/spring-retry](https://github.com/spring-projects/spring-retry) -
 *   [auth0/java-jwt](https://github.com/auth0/java-jwt) - Java implementation of JSON Web Token (JWT)
 *   [j-easy/easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
@@ -2191,7 +2191,6 @@
 *   [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 *   [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 *   [chowa/ejyy](https://github.com/chowa/ejyy) - 「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。
-*   [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 *   [jd-opensource/leo](https://github.com/jd-opensource/leo) - 一个可覆盖前端开发全链路、可扩展、可定制的终端运行的脚手架工具
 *   [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 *   [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
@@ -4776,6 +4775,11 @@
 
 *   [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
 
+## Svelte
+
+*   [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
+*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
 ## Makefile
 
 *   [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
@@ -4806,10 +4810,6 @@
 ## Riot
 
 *   [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry
-
-## Svelte
-
-*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Groovy
 
