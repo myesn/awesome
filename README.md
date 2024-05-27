@@ -929,7 +929,7 @@
 *   [piotrwitek/utility-types](https://github.com/piotrwitek/utility-types) - Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types).
 *   [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
 *   [alibaba/designable](https://github.com/alibaba/designable) - 🧩 Make everything designable 🧩
-*   [RiverTwilight/YgkTool](https://github.com/RiverTwilight/YgkTool) - 🛠  A robust, feature-rich online toolbox designed for efficiency and simplicity. | 极简，强大，高效的在线工具箱，遵循MD设计规范
+*   [RiverTwilight/Geekits](https://github.com/RiverTwilight/Geekits) - 🛠  A robust, feature-rich online toolbox designed for efficiency and simplicity. | 极简，强大，高效的在线工具箱，遵循MD设计规范
 *   [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 *   [hua1995116/google-translate-open-api](https://github.com/hua1995116/google-translate-open-api) - A free and unlimited API for Google Translate（support single text and Multi-segment text） 💵🚫
 *   [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
