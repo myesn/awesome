@@ -1185,7 +1185,7 @@
 *   [spencerwooo/substats](https://github.com/spencerwooo/substats) - ( ｀д′) how many followers do i have? how many!
 *   [FightingDesign/fighting-design](https://github.com/FightingDesign/fighting-design) - 🌈 Fighting Design 可在 vue3 应用程序中快速构建交互界面，看起来还不错。(🌈 Fighting design can quickly build interactive interfaces in vue3 applications, which looks good.)
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
 *   [devconcept/multer-gridfs-storage](https://github.com/devconcept/multer-gridfs-storage) - 🍃 GridFS storage engine for Multer to store uploaded files directly to MongoDb
 *   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 *   [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
