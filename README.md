@@ -4573,7 +4573,7 @@
 *   [walkor/workerman-vmstat](https://github.com/walkor/workerman-vmstat) - 在浏览器里面显示以更友好的方式实时显示vmstats信息，包括内存、IO、cpu等信息
 *   [metowolf/script](https://github.com/metowolf/script) - some exciting script :P
 *   [helei112g/payment](https://github.com/helei112g/payment) - Payment是php版本的支付聚合第三方sdk，集成了微信支付、支付宝支付、招商一网通支付。提供统一的调用接口，方便快速接入各种支付、查询、退款、转账能力。服务端接入支付功能，方便、快捷。
-*   [yansongda/pay](https://github.com/yansongda/pay) - 可能是我用过的最优雅的 Alipay/WeChat/Unipay 的支付 SDK 扩展包了
+*   [yansongda/pay](https://github.com/yansongda/pay) - 可能是我用过的最优雅的 Alipay/WeChat/Unipay/江苏银行 的支付 SDK 扩展包了
 *   [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
 *   [esotalk/esoTalk](https://github.com/esotalk/esoTalk) - Fat-free forum software.
 *   [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
