@@ -3946,7 +3946,7 @@
 *   [phodal/migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
 *   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 *   [NotFound9/interviewGuide](https://github.com/NotFound9/interviewGuide) - 推荐免费ChatGPT网站：https://www.lintcode.com/chat-gpt?utm\_source=tf-github-NotFound  点此领取7天VIP会员：https://www.lintcode.com/vip/activity/z1qgMH           《大厂面试指北》——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。
-*   [camunda/camunda](https://github.com/camunda/camunda) - Distributed Workflow Engine for Microservices Orchestration
+*   [camunda/camunda](https://github.com/camunda/camunda) - Process Orchestration Framework
 *   [bin392328206/six-finger](https://github.com/bin392328206/six-finger) - 📓从Java基础、JavaWeb基础到常用的框架再到面试题、微服务、分布式、大数据都有完整的教程，几乎涵盖了Java必备的知识点
 *   [dromara/sureness](https://github.com/dromara/sureness) - A simple and efficient security framework that focus on protection of API.
 *   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design\&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
