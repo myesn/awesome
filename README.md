@@ -1006,7 +1006,6 @@
 *   [dotnet/dotnet-monitor](https://github.com/dotnet/dotnet-monitor) - This repository contains the source code for .NET Monitor - a tool that allows you to gather diagnostic data from running applications using HTTP endpoints
 *   [dotnet/HttpRepl](https://github.com/dotnet/HttpRepl) - The HTTP Read-Eval-Print Loop (REPL) is a lightweight, cross-platform command-line tool that's supported everywhere .NET Core is supported and is used for making HTTP requests to test ASP.NET Core web APIs and view their results.
 *   [featbit/featbit](https://github.com/featbit/featbit) - A feature flags service written in .NET
-*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 *   [abpframework/abp](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation.
 *   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
 *   [microsoft/perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
@@ -1164,7 +1163,6 @@
 *   [openhardwaremonitor/openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) - Open Hardware Monitor
 *   [luoyunchong/lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore) - 😃A simple and practical CMS implemented by .NET + FreeSql；前后端分离、Docker部署、OAtuh2授权登录、自动化部署DevOps、自动同步至Gitee、代码生成器、仿掘金专栏
 *   [dotnetcore/WebApiClient](https://github.com/dotnetcore/WebApiClient) - A REST API library with better functionality, performance, and scalability than refit
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 *   [SteeltoeOSS/Initializr](https://github.com/SteeltoeOSS/Initializr) - Steeltoe Initializr - .NET Microservices Templates
 *   [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
 *   [Coldairarrow/EFCore.Sharding](https://github.com/Coldairarrow/EFCore.Sharding) - Database Sharding For EFCore
@@ -1290,7 +1288,7 @@
 *   [TerribleDev/HardHat](https://github.com/TerribleDev/HardHat) - Help secure .net core apps with various HTTP headers (such as CSP's)
 *   [JimBobSquarePants/ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - :camera: A fluent wrapper around System.Drawing for the processing of image files.
 *   [mysteryx93/FFmpeg.NET](https://github.com/mysteryx93/FFmpeg.NET) - \[DEPRECATED] .Net Wrapper for FFmpeg
-*   [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
+*   [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 9 preview-5, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 *   [kklldog/AgileTrace](https://github.com/kklldog/AgileTrace) - AgileTrace 一个轻量级的日志收集系统，支持sqlserver，sqlite，mongodb作为存储
 *   [kklldog/AServer](https://github.com/kklldog/AServer) - AServer是基于asp.net core Kestrel封装的一个超迷你http服务器
 *   [natemcmaster/CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET
@@ -1486,7 +1484,6 @@
 *   [ScutGame/Scut](https://github.com/ScutGame/Scut) - Scut is a free, open source, stable game server framework, which support C#/Python/Lua script, and support Unity3d, Cocos2dx, FlashAir client access.
 *   [aaubry/YamlDotNet](https://github.com/aaubry/YamlDotNet) - YamlDotNet is a .NET library for YAML
 *   [zzzprojects/Dapper-Plus](https://github.com/zzzprojects/Dapper-Plus) - Dapper Plus - High-Efficient Bulk Actions (Insert, Update, Delete, and Merge) for .NET
-*   [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 *   [ef-labs/nanoprofiler](https://github.com/ef-labs/nanoprofiler) - NanoProfiler - a light weight .NET profiling library
 *   [MiniProfiler/dotnet](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET (and Core) websites
 *   [fluentscheduler/FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface for the .NET platform.
@@ -1503,7 +1500,6 @@
 *   [KevinWG/OSS.Clients.SNS](https://github.com/KevinWG/OSS.Clients.SNS) - 社交网站sdk(标准库)，微信公众号（订阅号，服务号，小程序）接口sdk-包含消息回复(明文和安全模式)，Oauth2.0授权等
 *   [codeyu/nanoid-net](https://github.com/codeyu/nanoid-net) - .NET implementation of ai's nanoid
 *   [geffzhang/NanoFabric](https://github.com/geffzhang/NanoFabric) - 基于Consul + .NET Core + Polly + Ocelot + Exceptionless + IdentityServer等开源项目的微服务开发框架
-*   [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 *   [graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET
 *   [devlooped/moq](https://github.com/devlooped/moq) - The most popular and friendly mocking framework for .NET
 *   [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore) - Serilog integration for ASP.NET Core
@@ -1626,6 +1622,9 @@
 *   [dsbenghe/Novell.Directory.Ldap.NETStandard](https://github.com/dsbenghe/Novell.Directory.Ldap.NETStandard) - .NET LDAP client library for .NET Standard >= 2.0, .NET Core >=1.0, NET5/NET6/NET7/NET8 - works with any LDAP protocol compatible directory server (including Microsoft Active Directory).
 *   [scriptcs/scriptcs](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
 *   [Azure/DotNetty](https://github.com/Azure/DotNetty) - DotNetty project – a port of netty, event-driven asynchronous network application framework
+*   [microsoft/referencesource](https://github.com/microsoft/referencesource) - Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework
+*   [IdentityModel/IdentityModel](https://github.com/IdentityModel/IdentityModel) - .NET standard helper library for claims-based identity, OAuth 2.0 and OpenID Connect.
+*   [markrendle/Simple.Data](https://github.com/markrendle/Simple.Data) - A light-weight, dynamic data access component for C# 4.0
 
 ## JavaScript
 
@@ -2832,6 +2831,7 @@
 *   [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 *   [floatinghotpot/qqbot](https://github.com/floatinghotpot/qqbot) - :fire: SmartQQ Robot and API Server, powered by node.js
 *   [strongloop/microgateway](https://github.com/strongloop/microgateway) - IBM API Connect Microgateway framework, built on Node.js & Nginx
+*   [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 
 ## Shell
 
@@ -3577,7 +3577,6 @@
 *   [y123456yz/reading-and-annotate-mongodb-3.6](https://github.com/y123456yz/reading-and-annotate-mongodb-3.6) - 分布式文档数据库mongodb-3.6(mongos、mongod、wiredtiger存储引擎)源码中文注释分析，持续更新。后期重点进行mongodb-4.4最新版本内核源码分析
 *   [vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader) - （已长久停更）
 *   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
-*   [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 *   [erickutcher/httpdownloader](https://github.com/erickutcher/httpdownloader) - HTTP(S) download manager that uses input/output completion ports (IOCP).
 *   [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 *   [ideawu/ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis
@@ -3715,6 +3714,7 @@
 *   [minoca/os](https://github.com/minoca/os) - Minoca operating system
 *   [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 *   [djs/notepad2](https://github.com/djs/notepad2) - DEPRECATED fork of notepad2, use notepad2-mod instead
+*   [ldcsaa/HP-Socket](https://github.com/ldcsaa/HP-Socket) - High Performance TCP/UDP/HTTP Communication Component
 
 ## Java
 
