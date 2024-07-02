@@ -663,7 +663,6 @@
 *   [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
 *   [tower1229/frontend-weekly](https://github.com/tower1229/frontend-weekly) - 前端周刊，给前端同学准备的每周1小时阅读清单
 *   [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
-*   [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 *   [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 *   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 *   [briangonzalez/rgbaster.js](https://github.com/briangonzalez/rgbaster.js) - 🎨 A simple library for extracting dominant colors from images.
@@ -2439,6 +2438,7 @@
 *   [webpackmonitor/webpackmonitor](https://github.com/webpackmonitor/webpackmonitor) - A tool for monitoring webpack optimization metrics through the development process
 *   [i5ting/How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly) - \[全文]如何正确的学习Node.js
 *   [iamkun/tower\_game](https://github.com/iamkun/tower_game) - 💒 HTML5 Canvas Tower Building Game 🏢🏬🏦🏯🏰
+*   [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 *   [sorrycc/roadhog](https://github.com/sorrycc/roadhog) - 🐷 Cli tool for creating react apps, configurable version of create-react-app.
 *   [fgnass/node-dev](https://github.com/fgnass/node-dev) - Zero-conf Node.js reloading
 *   [deboyblog/vue-wechat-title](https://github.com/deboyblog/vue-wechat-title) - 为Vuejs设计的动态设置微信网页中标题的指令
@@ -3338,7 +3338,7 @@
 *   [jianchang512/vocal-separate](https://github.com/jianchang512/vocal-separate) - an extremely simple tool for separating vocals and background music, completely localized for web operation,  using 2stems/4stems/5stems models  这是一个极简的人声和背景音乐分离工具，本地化网页操作，无需连接外网
 *   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音
 *   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
-*   [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、快手、虎牙、斗鱼、B站、小红书、pandatv、afreecatv、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、花椒、流星等平台直播录制，抓取多平台直播源地址
+*   [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、快手、虎牙、斗鱼、B站、小红书、pandatv、afreecatv、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、花椒、流星、Twitch等平台直播录制
 *   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 *   [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 *   [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) - A treasure chest for visual classification and recognition powered by PaddlePaddle
