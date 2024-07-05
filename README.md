@@ -1760,7 +1760,7 @@
 *   [sindresorhus/wait-for-localhost](https://github.com/sindresorhus/wait-for-localhost) - Wait for localhost to be ready
 *   [sindresorhus/delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time
 *   [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
-*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 *   [xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2024年06月16日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据
 *   [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 *   [itorr/patina](https://github.com/itorr/patina) - 🤢「电子包浆」 图片做旧工具，赛博包浆虚拟器
