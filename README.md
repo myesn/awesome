@@ -508,7 +508,6 @@
 *   [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
 *   [phodal/ledge](https://github.com/phodal/ledge) - Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
 *   [cool-team-official/cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 🔥 cool-admin(midway版)一个很酷的后台权限管理框架，Ai编码、流程编排、模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 3.x、typescript、typeorm、mysql、jwt、vue3、vite、element-ui等构建
-*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 *   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 *   [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 *   [alibaba/pont](https://github.com/alibaba/pont) - 🌉数据服务层解决方案
@@ -740,6 +739,7 @@
 *   [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
 *   [nobrainr/morphism](https://github.com/nobrainr/morphism) - ⚡ Type-safe data transformer for JavaScript, TypeScript & Node.js.
 *   [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
+*   [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 
 ## C\#
 
@@ -1622,7 +1622,6 @@
 *   [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
 *   [python/cpython](https://github.com/python/cpython) - The Python programming language
 *   [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-*   [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
 *   [soimort/you-get](https://github.com/soimort/you-get) - :arrow\_double\_down: Dumb downloader that scrapes the web
 *   [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
 *   [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) -
@@ -1687,7 +1686,6 @@
 *   [xjh22222228/boomb](https://github.com/xjh22222228/boomb) - 💣 Manage your pictures easily for Github/Gitee. 基于 Github/Gitee 轻松管理您的存储图库
 *   [antoniandre/simple-syntax-highlighter](https://github.com/antoniandre/simple-syntax-highlighter) - No chi-chi syntax highlighter for Vue.js (3 & 2).
 *   [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer.
-*   [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 *   [wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook) - 商城低代码平台，可视化搭建H5、小程序多端商城
 *   [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
@@ -1773,7 +1771,6 @@
 *   [airyland/vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
 *   [javaswing/NeteaseCloudWebApp](https://github.com/javaswing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
 *   [museui/muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
-*   [reusser/VueMusic-PC](https://github.com/reusser/VueMusic-PC) - :pineapple:音乐播放器
 
 ## Java
 
@@ -2929,7 +2926,6 @@
 *   [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
 *   [michalsnik/vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) - Composable components for rendering fake (progressive) content like facebook in vue
 *   [linweiwei123/multipages-generator](https://github.com/linweiwei123/multipages-generator) - 🥇 generator for multiple pages webpack application
-*   [disoul/electron-cloud-music](https://github.com/disoul/electron-cloud-music) -  网易云音乐 Electron  客户端
 *   [itorr/imouto](https://github.com/itorr/imouto) - 快速、明确、极简
 *   [davatron5000/Lettering.js](https://github.com/davatron5000/Lettering.js) - A lightweight, easy to use Javascript \<span> injector for radical Web Typography
 *   [puppeteer/examples](https://github.com/puppeteer/examples) - Use case-driven examples for using Puppeteer and headless chrome
@@ -3160,7 +3156,6 @@
 *   [electron/apps](https://github.com/electron/apps) - A collection of apps built on Electron
 *   [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 *   [antimatter15/ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten
-*   [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
 *   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 *   [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 *   [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
@@ -3238,7 +3233,6 @@
 *   [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
 *   [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 *   [besley/SlickOne](https://github.com/besley/SlickOne) -  A Quick Enterprise Web Framework for Information System 企业级Web快速开发框架
-*   [lxyisme/vue-musicApp](https://github.com/lxyisme/vue-musicApp) - 使用vue全家桶制作的音乐播放器
 *   [gitpoint/git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket :iphone:
 *   [sheng-jie/LearningMpaAbp](https://github.com/sheng-jie/LearningMpaAbp) - 学习Abp框架之Mpa实操演练
 *   [laravel-mix/laravel-mix](https://github.com/laravel-mix/laravel-mix) - The power of webpack, distilled for the rest of us.
@@ -3365,11 +3359,13 @@
 *   [alexwolfe/Buttons](https://github.com/alexwolfe/Buttons) - A CSS button library built using Sass and Compass
 *   [Lxiaoyi/SelectPage](https://github.com/Lxiaoyi/SelectPage) - A jQuery plugin include autocomplete,pagination,tags,keybord navigation functions
 *   [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
+*   [ElemeFE/vue-amap](https://github.com/ElemeFE/vue-amap) - 🌍  基于 Vue 2.x 和高德地图的地图组件
+*   [ElemeFE/v-charts](https://github.com/ElemeFE/v-charts) - 基于 Vue2.0 和 ECharts 封装的图表组件📈📊
 
 ## miscellaneous
 
 *   [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
-*   [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you become good at system design.
+*   [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you pass system design interview and become good at work
 *   [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 *   [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 *   [davidfowl/DotNetCodingPatterns](https://github.com/davidfowl/DotNetCodingPatterns) - A collection of coding patterns in no particular order
@@ -3772,6 +3768,8 @@
 *   [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools) - A list of tools to extend the .NET Core command line (dotnet)
 *   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 *   [NancyFx/Accessories](https://github.com/NancyFx/Accessories) - Accessories for Nancy development
+*   [dotnet/standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
+*   [kittykatattack/learningPixi](https://github.com/kittykatattack/learningPixi) - A step-by-step introduction to making games and interactive media with the Pixi.js rendering engine.
 
 ## Batchfile
 
@@ -3928,6 +3926,7 @@
 *   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
 *   [HostsTools/Windows](https://github.com/HostsTools/Windows) - Hosts tool for googlehosts/hosts
 *   [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
+*   [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 
 ## HTML
 
@@ -4573,6 +4572,7 @@
 *   [giswqs/earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
 *   [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
 *   [xitu/tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
+*   [xianhu/LearnPython](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习Python
 
 ## Astro
 
