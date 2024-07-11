@@ -3384,7 +3384,7 @@
 *   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 *   [mengzonefire/twitter-media-downloader](https://github.com/mengzonefire/twitter-media-downloader) - 用于提取推特页面中包含的媒体文件 (支持文本, 图片, 视频, 动图) 的脚本
 *   [xuncv/WechatVideoSniffer](https://github.com/xuncv/WechatVideoSniffer) - 微信视频号PC版、微信看一看、微信公众号视频地址嗅探器
-*   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
+*   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 *   [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo
 *   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 *   [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
