@@ -808,6 +808,7 @@
 *   [bradymholt/cron-expression-descriptor](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
 *   [andrewlock/NetEscapades.EnumGenerators](https://github.com/andrewlock/NetEscapades.EnumGenerators) - A source generator for generating fast "reflection" methods for enums
 *   [Fody/PropertyChanged](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
+*   [ldqk/Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) - 基于C#/.NET8的 masuit.org个人博客站项目源码，https://masuit.org ，供参考、学习、引用、非商业性质的部署。
 *   [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
 *   [Drizin/DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder) - Dapper Query Builder using String Interpolation and Fluent API
 *   [antoinebidault/JsonRuleEngine.Net](https://github.com/antoinebidault/JsonRuleEngine.Net) - A json-rule-engine simple porting to Asp.Net Core
@@ -2196,7 +2197,7 @@
 *   [shen100/mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，界面优雅，功能丰富😛
 *   [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) - Create an awesome GitHub profile in minutes
 *   [imyuanx/sharing-GUI](https://github.com/imyuanx/sharing-GUI) - Easily share files to multiple devices on the LAN/Public Network.
-*   [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
+*   [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
 *   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 *   [sun0day/dns-detector](https://github.com/sun0day/dns-detector) - A nodejs cli tool to resolve host's IPs
 *   [infusion/node-dhcp](https://github.com/infusion/node-dhcp) - A DHCP server and client written in pure JavaScript
@@ -4282,7 +4283,6 @@
 *   [codrops/LineHoverStyles](https://github.com/codrops/LineHoverStyles) - A couple of simple & subtle line hover animations for links using CSS only.
 *   [twbs/rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
 *   [jiesuotk/Shadowrocket-ID](https://github.com/jiesuotk/Shadowrocket-ID) -
-*   [ldqk/Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) - 基于C#/.NET8的 masuit.org个人博客站项目源码，https://masuit.org ，供参考、学习、引用、非商业性质的部署。
 *   [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons) - 100 Modern CSS Buttons. Every style that you can imagine.
 *   [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
 *   [aws/iot-atlas](https://github.com/aws/iot-atlas) - The content of the IoT Atlas
