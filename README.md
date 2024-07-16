@@ -4180,7 +4180,7 @@
 *   [qeesung/asciiplayer](https://github.com/qeesung/asciiplayer) - :tv: ASCII gif/video player write in golang
 *   [qeesung/image2ascii](https://github.com/qeesung/image2ascii) - :foggy: Convert image to ASCII
 *   [bilibili/overlord](https://github.com/bilibili/overlord) - Overlord是哔哩哔哩基于Go语言编写的memcache和redis\&cluster的代理及集群管理功能，致力于提供自动化高可用的缓存服务解决方案。
-*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+*   [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器【可AI辅助】、表单生成器和可配置的导入导出等开发必备功能。
 *   [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 *   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 *   [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
