@@ -706,7 +706,7 @@
 *   [dotnet/sourcelink](https://github.com/dotnet/sourcelink) - Source Link enables a great source debugging experience for your users, by adding source control metadata to your built assets
 *   [dotnet/roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) -
 *   [ComponentFactory/Krypton](https://github.com/ComponentFactory/Krypton) - Krypton WinForms components for .NET
-*   [Kooboo/Kooboo](https://github.com/Kooboo/Kooboo) - CMS, WebSite, Application and Ecommerce development using JavaScript
+*   [Kooboo/Kooboo](https://github.com/Kooboo/Kooboo) - CMS, WebSite, Application and Ecommerce Development Tool Using JavaScript
 *   [SkyChenSky/Sikiro.Dapper.Extension](https://github.com/SkyChenSky/Sikiro.Dapper.Extension) - This is an extension based on dapper, supporting lambda expression, with chain style which allows developers to use more gracely and innovationally.
 *   [ldqk/Masuit.Tools](https://github.com/ldqk/Masuit.Tools) - 全龄段友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！
 *   [Lokad/ILPack](https://github.com/Lokad/ILPack) - Serialize .NET Core assemblies
