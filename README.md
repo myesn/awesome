@@ -9,7 +9,6 @@
 *   [Vue](#vue)
 *   [Java](#java)
 *   [JavaScript](#javascript)
-*   [Batchfile](#batchfile)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Vim Script](#vim-script)
@@ -30,6 +29,7 @@
 *   [Dart](#dart)
 *   [Roff](#roff)
 *   [Mustache](#mustache)
+*   [Batchfile](#batchfile)
 *   [Elixir](#elixir)
 *   [Kotlin](#kotlin)
 *   [Perl](#perl)
@@ -512,6 +512,7 @@
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 *   [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 *   [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+*   [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 
 ## C\#
 
@@ -1680,13 +1681,6 @@
 *   [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 *   [jaywcjlove/iNotify](https://github.com/jaywcjlove/iNotify) - :loudspeaker: JS achieve the browser title flashing, scrolling, voice prompts, Chrome/Safari/FireFox/IE notice. has no dependencies. It not interfere with any JavaScript libraries or frameworks. has a reasonable footprint 5.05kb (gzipped: 1.75kb)
 
-## Batchfile
-
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-*   [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
-
 ## Python
 
 *   [frappe/wiki](https://github.com/frappe/wiki) - Free and Open Source Wiki built on top of Frappe
@@ -2476,6 +2470,12 @@
 ## Mustache
 
 *   [nestjsx/nestjs-flub](https://github.com/nestjsx/nestjs-flub) - Pretty Error 😫 Stack Viewer for NestJS Framework 🛠️
+
+## Batchfile
+
+*   [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
 ## Elixir
 
