@@ -130,13 +130,13 @@
       "url": "https://api.github.com/repos/shengxinjing/programmer-job-blacklist",
       "languages_url": "https://api.github.com/repos/shengxinjing/programmer-job-blacklist/languages",
       "created_at": "2016-06-25T06:09:10Z",
-      "updated_at": "2024-07-31T08:48:07Z",
+      "updated_at": "2024-08-01T05:41:53Z",
       "git_url": "git://github.com/shengxinjing/programmer-job-blacklist.git",
       "ssh_url": "git@github.com:shengxinjing/programmer-job-blacklist.git",
       "clone_url": "https://github.com/shengxinjing/programmer-job-blacklist.git",
       "homepage": "http://coder.shengxinjing.cn/",
-      "stargazers_count": 28492,
-      "watchers_count": 28492,
+      "stargazers_count": 28491,
+      "watchers_count": 28491,
       "language": "Shell",
       "topics": []
     }
